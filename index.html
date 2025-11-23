@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oxalate Lookup</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1><a href="index.html">Oxalate Lookup</a></h1>
+        <div class="search-container">
+            <input 
+                type="text" 
+                id="searchInput" 
+                placeholder="Search for a food item..."
+                autocomplete="off"
+            >
+            <div id="autocompleteDropdown" class="autocomplete-dropdown"></div>
+        </div>
+        <div class="browse-container">
+            <h2>Browse by Category</h2>
+            <div class="filter-group">
+                <div class="filter-field">
+                    <label for="primaryCategory">Primary Category</label>
+                    <select id="primaryCategory">
+                        <option value="">-- Select Primary Category --</option>
+                    </select>
+                </div>
+                <div class="filter-field">
+                    <label for="secondaryCategory">Secondary Category</label>
+                    <select id="secondaryCategory" disabled>
+                        <option value="">-- Select Secondary Category --</option>
+                    </select>
+                </div>
+                <div class="filter-field">
+                    <label for="oxalateCategory">Oxalate Category</label>
+                    <select id="oxalateCategory" disabled>
+                        <option value="">-- Select Oxalate Category --</option>
+                    </select>
+                </div>
+                <button id="browseSearchBtn" class="browse-search-btn" disabled>Search</button>
+            </div>
+        </div>
+        <div id="resultsContainer" class="results-container"></div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
+

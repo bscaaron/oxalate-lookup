@@ -1,0 +1,63 @@
+Primary Category,Secondary Category,Food Item,Serving Size,Serving Size Value,Oxalate Category,Oxalate Value
+Fruits,Whole Fruits,Avocados,1,fruit,Very High,19mg
+Fruits,Whole Fruits,Dates,1,date,Very High,24mg
+Fruits,Whole Fruits,Grapefruit,1/2,fruit,Very High,12mg
+Fruits,Whole Fruits,Kiwi,1,fruit,Very High,16mg
+Fruits,Whole Fruits,Orange,1,fruit,Very High,29mg
+Fruits,Whole Fruits,Raspberries,1,cup,Very High,48mg
+Fruits,Whole Fruits,Tangerine,1,fruit,High,10mg
+Fruits,Whole Fruits,Figs,1,medium fig,Moderate,9mg
+Fruits,Whole Fruits,Apple Suace,1,cup,Very Low,2mg
+Fruits,Whole Fruits,Banana,1,fruit,Low,3mg
+Fruits,Whole Fruits,Blackberries,1/2,cup,Very Low,2mg
+Fruits,Whole Fruits,Blueberries,1/2,cup,Very Low,2mg
+Fruits,Whole Fruits,Cherries,1,cup,Low,3mg
+Fruits,Whole Fruits,Limes,1/2,fruit,Low,3mg
+Fruits,Whole Fruits,Pears,1,fruit,Very Low,2mg
+Fruits,Whole Fruits,Pineapple,1,cup,Low,4mg
+Fruits,Whole Fruits,Raisins,1, 1 oz or 1 small snack box ,Low,3mg
+Fruits,Whole Fruits,Strawberries,1/2,cup,Very Low,2mg
+Fruits,Whole Fruits,Apples,1,fruit,Very Low,1mg
+Fruits,Whole Fruits,Apricots,1,fruit,Little or None,0mg
+Fruits,Whole Fruits,Cantaloupe,1/4,melon,Very Low,1mg
+Fruits,Whole Fruits,Grapes,1/2,cup or 16 seedless grapes,Very Low,1mg
+Fruits,Whole Fruits,Lemons,1,wedge,Very Low,1mg
+Fruits,Whole Fruits,Honeydew Melon,1,cup,Very Low,1mg
+Fruits,Whole Fruits,Mango,1,fruit,Very Low,1mg
+Fruits,Whole Fruits,Nectarine,1,fruit,Little or None,0mg
+Fruits,Whole Fruits,Papaya,1,medium fruit,Very Low,1mg
+Fruits,Whole Fruits,Peaches,1,fruit,Little or None,0mg
+Fruits,Whole Fruits,Plaintain,1,medium,Very Low,1mg
+Fruits,Whole Fruits,Plums,1,fruit,Little or None,0mg
+Fruits,Whole Fruits,Watermelon,1,slice,Very Low,1mg
+Fruits,Canned Fruits,Canned Pineapple,1/2,cup,Very High,24mg
+Fruits,Canned Fruits,Canned Cherries,1/2,cup,Moderate,7mg
+Fruits,Canned Fruits,Cranberry Sauce,1/2,cup,Very Low,2mg
+Fruits,Canned Fruits,Canned Pears,1/2,cup,Very Low,1mg
+Fruits,Canned Fruits,Canned Peaches,1/2,cup,Very Low,1mg
+Fruits,Canned Fruits,Fruit Cocktail,1/2,cup,Very Low,1mg
+Fruits,Dried Fruits,Dried Figs,5,pieces/fruits,Very High,24mg
+Fruits,Dried Fruits,Dried Pineapples,1/2,cup,Very High,30mg
+Fruits,Dried Fruits,Dried Prunes,1.4,cup or 5 prunes,High,11mg
+Fruits,Dried Fruits,Dried Apples,1,cup or 13 rings,Very Low,2mg
+Fruits,Dried Fruits,Dried Apricots,1,cup of halves,Low,3mg
+Fruits,Dried Fruits,Dried Cranberries,1/2,cup,Very Low,1mg
+Vegetables,General,Bamboo Shoots,1,cup,Very High,35mg
+Vegetables,General,Beets,1/2,cup,Very High,76mg
+Vegetables,General,Fava Beans,1/2,cup,Very High,20mg
+Vegetables,General,Navy Beans,1/2,cup,Very High,76mg
+Vegetables,General,Okra,1/2,cup,Very High,57mg
+Vegetables,General,Olives,10,olives,Very High,18mg
+Vegetables,General,Parsnip,1/2,cup,Very High,15mg
+Vegetables,General,Red Kidney Beans,1/2,cup,Very High,15mg
+Vegetables,General,Refried Beans,1/2,cup,Very High,16mg
+Vegetables,General,Rhubarb,1/2,cup,Very High,541mg
+Vegetables,General,Rutabaga,1/2,cup mashed,Very High,31mg
+Vegetables,General,Cooked Spinach,1/2,cup,Very High,755mg
+Vegetables,General,Raw Spinach,1,cup,Very High,656mg
+Vegetables,General,Tomato Sauce,1/2,cup,Very High,17mg
+Vegetables,General,Turnip,1/2,cup mashed,Very High,30mg
+Vegetables,General,Yams,1/2,"cup, cubed",Very High,40mg
+Vegetables,General,Raw Carrots,1/2,large carrot,High,10mg
+Vegetables,General,Cooked Celery,1,cup,High,10mg
+Vegetables,General,Collards,1,cup,High,10mg
