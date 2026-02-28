@@ -1,138 +1,537 @@
-Primary Category,Secondary Category,Food Item,Serving Size,Serving Size Value,Oxalate Category,Oxalate Value
-Fruits,Whole Fruits,Avocados,1,fruit,Very High,19mg
-Fruits,Whole Fruits,Dates,1,date,Very High,24mg
-Fruits,Whole Fruits,Grapefruit,1/2,fruit,Very High,12mg
-Fruits,Whole Fruits,Kiwi,1,fruit,Very High,16mg
-Fruits,Whole Fruits,Orange,1,fruit,Very High,29mg
-Fruits,Whole Fruits,Raspberries,1,cup,Very High,48mg
-Fruits,Whole Fruits,Tangerine,1,fruit,High,10mg
-Fruits,Whole Fruits,Figs,1,medium fig,Moderate,9mg
-Fruits,Whole Fruits,Apple Suace,1,cup,Very Low,2mg
-Fruits,Whole Fruits,Banana,1,fruit,Low,3mg
-Fruits,Whole Fruits,Blackberries,1/2,cup,Very Low,2mg
-Fruits,Whole Fruits,Blueberries,1/2,cup,Very Low,2mg
-Fruits,Whole Fruits,Cherries,1,cup,Low,3mg
-Fruits,Whole Fruits,Limes,1/2,fruit,Low,3mg
-Fruits,Whole Fruits,Pears,1,fruit,Very Low,2mg
-Fruits,Whole Fruits,Pineapple,1,cup,Low,4mg
-Fruits,Whole Fruits,Raisins,1, 1 oz or 1 small snack box ,Low,3mg
-Fruits,Whole Fruits,Strawberries,1/2,cup,Very Low,2mg
-Fruits,Whole Fruits,Apples,1,fruit,Very Low,1mg
-Fruits,Whole Fruits,Apricots,1,fruit,Little or None,0mg
-Fruits,Whole Fruits,Cantaloupe,1/4,melon,Very Low,1mg
-Fruits,Whole Fruits,Grapes,1/2,cup or 16 seedless grapes,Very Low,1mg
-Fruits,Whole Fruits,Lemons,1,wedge,Very Low,1mg
-Fruits,Whole Fruits,Honeydew Melon,1,cup,Very Low,1mg
-Fruits,Whole Fruits,Mango,1,fruit,Very Low,1mg
-Fruits,Whole Fruits,Nectarine,1,fruit,Little or None,0mg
-Fruits,Whole Fruits,Papaya,1,medium fruit,Very Low,1mg
-Fruits,Whole Fruits,Peaches,1,fruit,Little or None,0mg
-Fruits,Whole Fruits,Plaintain,1,medium,Very Low,1mg
-Fruits,Whole Fruits,Plums,1,fruit,Little or None,0mg
-Fruits,Whole Fruits,Watermelon,1,slice,Very Low,1mg
-Fruits,Canned Fruits,Canned Pineapple,1/2,cup,Very High,24mg
-Fruits,Canned Fruits,Canned Cherries,1/2,cup,Moderate,7mg
-Fruits,Canned Fruits,Cranberry Sauce,1/2,cup,Very Low,2mg
-Fruits,Canned Fruits,Canned Pears,1/2,cup,Very Low,1mg
-Fruits,Canned Fruits,Canned Peaches,1/2,cup,Very Low,1mg
-Fruits,Canned Fruits,Fruit Cocktail,1/2,cup,Very Low,1mg
-Fruits,Dried Fruits,Dried Figs,5,pieces/fruits,Very High,24mg
-Fruits,Dried Fruits,Dried Pineapples,1/2,cup,Very High,30mg
-Fruits,Dried Fruits,Dried Prunes,1.4,cup or 5 prunes,High,11mg
-Fruits,Dried Fruits,Dried Apples,1,cup or 13 rings,Very Low,2mg
-Fruits,Dried Fruits,Dried Apricots,1,cup of halves,Low,3mg
-Fruits,Dried Fruits,Dried Cranberries,1/2,cup,Very Low,1mg
-Vegetables,General,Bamboo Shoots,1,cup,Very High,35mg
-Vegetables,General,Beets,1/2,cup,Very High,76mg
-Vegetables,General,Fava Beans,1/2,cup,Very High,20mg
-Vegetables,General,Navy Beans,1/2,cup,Very High,76mg
-Vegetables,General,Okra,1/2,cup,Very High,57mg
-Vegetables,General,Olives,10,olives,Very High,18mg
-Vegetables,General,Parsnip,1/2,cup,Very High,15mg
-Vegetables,General,Red Kidney Beans,1/2,cup,Very High,15mg
-Vegetables,General,Refried Beans,1/2,cup,Very High,16mg
-Vegetables,General,Rhubarb,1/2,cup,Very High,541mg
-Vegetables,General,Rutabaga,1/2,cup mashed,Very High,31mg
-Vegetables,General,Cooked Spinach,1/2,cup,Very High,755mg
-Vegetables,General,Raw Spinach,1,cup,Very High,656mg
-Vegetables,General,Tomato Sauce,1/2,cup,Very High,17mg
-Vegetables,General,Turnip,1/2,cup mashed,Very High,30mg
-Vegetables,General,Yams,1/2,"cup, cubed",Very High,40mg
-Vegetables,General,Raw Carrots,1/2,large carrot,High,10mg
-Vegetables,General,Cooked Celery,1,cup,High,10mg
-Vegetables,General,Collards,1,cup,High,10mg
-Vegetables,General,Artichokes,1,small bud,Moderate,5mg
-Vegetables,General,Asparagus,4,spears,Moderate,6mg
-Vegetables,General,Cooked Carrots,1/2,"cup, sliced",Moderate,7mg
-Vegetables,General,Hot Chili Peppers,1/2,cup,Moderate,5mg
-Vegetables,General,Mixed Vegetables,1/2,cup,Moderate,5mg
-Vegetables,General,Oriental Vegetables,1/2,cup,Moderate,6mg
-Vegetables,General,Soybeans,1,cup,Moderate,7mg
-Vegetables,General,String Beans,1/2,cup,Moderate,9mg
-Vegetables,General,Tomato,1,"med, whole",Moderate,7mg
-Vegetables,General,Brussel Sprouts,1/2,cup frozen,Very Low,2mg
-Vegetables,General,Raw Celery,1,stalk,Low,3mg
-Vegetables,General,Kale,1,"cup, chopped",Very Low,2mg
-Vegetables,General,Mung Beans,1/2,cup,Low,3mg
-Vegetables,General,Mustard Greens,1,"cup, chopped",Low,4mg
-Vegetables,General,Sea Vegetables,1,cup,Low,3mg
-Vegetables,General,Alfalfa Sprouts,1/2,cup,Little or None,0mg
-Vegetables,General,Bok Choy,1,"cup, raw",Very Low,1mg
-Vegetables,General,Broccoli,1/2,"cup, chopped",Very Low,1mg
-Vegetables,General,Cabbage,1/2,cup,Very,1mg
-Vegetables,General,Cauliflower,1/2,"cup, cooked",Very Low,1mg
-Vegetables,General,Chives,1,tsp,Little or None,0mg
-Vegetables,General,Corn,1/2,cup,Very Low,1mg
-Vegetables,General,Cucumber,1/4,cucumber,Very Low,1mg
-Vegetables,General,Endive,1/2,cup,Little or None,0mg
-Vegetables,General,Green,1,ring,Very Low,1mg
-Vegetables,General,Iceberg Lettue,1,cup,Little or None,0mg
-Vegetables,General,Mushroons,1,mushroom,Little or None,0mg
-Vegetables,General,Onions,1,small onion,Little or None,0mg
-Vegetables,General,Peas,1/2,cup,Very Low,1mg
-Vegetables,General,Pickles,1,pickle,Little or None,0mg
-Vegetables,General,Radish,10,count,Little or None,0mg
-Vegetables,General,Romaine Lettuce,1,cup,Little or None,0mg
-Vegetables,General,Scallions,1/2,cup,Very Low,1mg
-Vegetables,General,Sauerkraut,1/2,cup,Very Low,1mg
-Vegetables,General,Waterchestnuts,4,waterchestnuts,Little or None,0mg
-Vegetables,General,Yellow Squash,1/2,cup,Very Low,1mg
-Vegetables,General,Zucchini,1/2,cup,Very Low,1mg
-Vegetables,Potatoes,French Fries,4,oz or 1/2 cup,Very High,51mg
-Vegetables,Potatoes,Mashed Potatoes,1,cup,Very High,29mg
-Vegetables,Potatoes,Baked Potato with Skin,1,medium,Very High,97mg
-Vegetables,Potatoes,Potato Chips,1,oz,Very High,21mg
-Vegetables,Potatoes,Potato Salad,1./3,cup,Very High,17mg
-Vegetables,Potatoes,Sweet Potatoes,1,cup,Very High,28mg
-Dairy,Cream Products,Coffee Creamer,1,tbs,Little or None,0mg
-Dairy,Cream Products,Homemade Cream Sauce 1 cup Low 3mg,1,cup,Low,3mg
-Dairy,Cream Products,Non-Dairy Creamer,1,tbs,Little or None,0mg
-Dairy,Cream Products,Sour Cream,1,tbs,Little or None,0mg
-Dairy,Ice Creams,Vanilla Ice Cream,1/2,cup,Little or None,0mg
-Dairy,Ice Creams,Light Ice Cream,1/2,cup,Little or None,0mg
-Dairy,Ice Creams,Non-Fat Ice Cream,1/2,cup,Little or None,0mg
-Dairy,Yogurts,Plain Yogurt,1,cup,Very Low,2mg
-Dairy,Yogurts,Yogurt with Fruit,8,oz,Very Low,1mg
-Dairy,Yogurts,Non-Fat Yogurt with Fruit,8,oz,Very Low,1mg
-Dairy,Yogurts,Frozen Yogurt,1/2,cup,Very Low,1mg
-Dairy,Yogurts,Lowfat Frozen Yogurt,1/2,cup,Very Low,1mg
-Dairy,Cheeses,American Cheese,1,slice,Little or None,0mg
-Dairy,Cheeses,Cheddar Cheese,1,slice,Little or None,0mg
-Dairy,Cheeses,Low Fat Cheese,1,slice,Little or None,0mg
-Dairy,Cheeses,Cottage Cheese,1/2,cup,Little or None,0mg
-Dairy,Cheeses,Low Fat Cottage Cheese,1,cup,Little or None,0mg
-Dairy,Cheeses,Cottage Cheese Fat Free,1/2,cup,Very Low,1mg
-Dairy,Cheeses,Mozzarella Cheese,1,oz,Little or None,0mg
-Dairy,Eggs,Eggs,1,medium,Little or None,0mg
-Dairy,Eggs,Egg Beaters,4,oz,Little or None,0mg
-Dairy,Dairy Spreads,Cream Cheese,1,oz,Little or None,0mg
-Dairy,Dairy Spreads,Cream Cheese Fat Free,1,oz,Very Low,1mg
-Dairy,Dairy Spreads,Low Fat Cream Cheese,1,oz,Very Low,1mg
-Dairy,Dairy Spreads,Salted Butter,1,pat,Little or None,0mg
-Dairy,Milk,Chocolate Milk,1,cup,Moderate,7mg
-Dairy,Milk,Powdered Milk,1,envelope,Low,3mg
-Dairy,Milk,Fat Free Milk,1,cup,Very Low,1mg
-Dairy,Milk,1/% Milk,1,cup,Very Low,1mg
-Dairy,Milk,2% Milk,1,cup,Very Low,1mg
-Dairy,Milk,Whole Milk,1,cup,Very Low,1mg
-Dairy,Milk,Buttermilk,1,cup,Very Low,1mg
+﻿Primary Category,Secondary Category,Food Item,Serving Size,Serving Size Unit,Oxalate Category,Oxalate Value (mg)
+Fruits,Whole Fruits,Avocados,1,fruit,Very High,19
+Fruits,Whole Fruits,Dates,1,date,Very High,24
+Fruits,Whole Fruits,Grapefruit,1/2,fruit,Very High,12
+Fruits,Whole Fruits,Kiwi,1,fruit,Very High,16
+Fruits,Whole Fruits,Orange,1,fruit,Very High,29
+Fruits,Whole Fruits,Raspberries,1,cup,Very High,48
+Fruits,Whole Fruits,Tangerine,1,fruit,High,10
+Fruits,Whole Fruits,Figs,1,medium fig,Moderate,9
+Fruits,Whole Fruits,Apple Sauce,1,cup,Very Low,2
+Fruits,Whole Fruits,Banana,1,fruit,Low,3
+Fruits,Whole Fruits,Blackberries,1/2,cup,Very Low,2
+Fruits,Whole Fruits,Blueberries,1/2,cup,Very Low,2
+Fruits,Whole Fruits,Cherries,1,cup,Low,3
+Fruits,Whole Fruits,Limes,1/2,fruit,Low,3
+Fruits,Whole Fruits,Pears,1,fruit,Very Low,2
+Fruits,Whole Fruits,Pineapple,1,cup,Low,4
+Fruits,Whole Fruits,Raisins,1,oz or 1 small snack box,Low,3
+Fruits,Whole Fruits,Strawberries,1/2,cup,Very Low,2
+Fruits,Whole Fruits,Apples,1,fruit,Very Low,1
+Fruits,Whole Fruits,Apricots,1,fruit,Little or None,0
+Fruits,Whole Fruits,Cantaloupe,1/4,melon,Very Low,1
+Fruits,Whole Fruits,Grapes,1/2,cup or 16 seedless grapes,Very Low,1
+Fruits,Whole Fruits,Honeydew Melon,1,cup,Very Low,1
+Fruits,Whole Fruits,Lemons,1,wedge,Very Low,1
+Fruits,Whole Fruits,Mango,1,fruit,Very Low,1
+Fruits,Whole Fruits,Nectarine,1,fruit,Little or None,0
+Fruits,Whole Fruits,Papaya,1,medium fruit,Very Low,1
+Fruits,Whole Fruits,Peaches,1,fruit,Little or None,0
+Fruits,Whole Fruits,Plantain,1,medium,Very Low,1
+Fruits,Whole Fruits,Plums,1,fruit,Little or None,0
+Fruits,Whole Fruits,Watermelon,1,slice,Very Low,1
+Fruits,Canned Fruits,Canned Pineapple,1/2,cup,Very High,24
+Fruits,Canned Fruits,Canned Cherries,1/2,cup,Moderate,7
+Fruits,Canned Fruits,Cranberry Sauce,1/2,cup,Very Low,2
+Fruits,Canned Fruits,Canned Pears,1/2,cup,Very Low,1
+Fruits,Canned Fruits,Canned Peaches,1/2,cup,Very Low,1
+Fruits,Canned Fruits,Fruit Cocktail,1/2,cup,Very Low,1
+Fruits,Dried Fruits,Dried Figs,5,pieces/fruits,Very High,24
+Fruits,Dried Fruits,Dried Pineapples,1/2,cup,Very High,30
+Fruits,Dried Fruits,Dried Prunes,1/4,cup or 5 prunes,High,11
+Fruits,Dried Fruits,Dried Apples,1,cup or 13 rings,Very Low,2
+Fruits,Dried Fruits,Dried Apricots,1,cup of halves,Low,3
+Fruits,Dried Fruits,Dried Cranberries,1/2,cup,Very Low,1
+Vegetables,Vegetables,Bamboo Shoots,1,cup,Very High,35
+Vegetables,Vegetables,Beets,1/2,cup,Very High,76
+Vegetables,Vegetables,Fava Beans,1/2,cup,Very High,20
+Vegetables,Vegetables,Navy Beans,1/2,cup,Very High,76
+Vegetables,Vegetables,Okra,1/2,cup,Very High,57
+Vegetables,Vegetables,Olives,approx 10,olives,Very High,18
+Vegetables,Vegetables,Parsnip,1/2,cup,Very High,15
+Vegetables,Vegetables,Red Kidney Beans,1/2,cup,Very High,15
+Vegetables,Vegetables,Refried Beans,1/2,cup,Very High,16
+Vegetables,Vegetables,Rhubarb,1/2,cup,Very High,541
+Vegetables,Vegetables,Rutabaga,1/2,cup mashed,Very High,31
+Vegetables,Vegetables,"Spinach, cooked",1/2,cup,Very High,755
+Vegetables,Vegetables,"Spinach, raw",1,cup,Very High,656
+Vegetables,Vegetables,Tomato Sauce,1/2,cup,Very High,17
+Vegetables,Vegetables,Turnip,1/2,cup mashed,Very High,30
+Vegetables,Vegetables,Yams,1/2,"cup, cubed",Very High,40
+Vegetables,Vegetables,"Carrots, raw",1/2,lg carrot,High,10
+Vegetables,Vegetables,"Celery, Cooked",1,cup,High,10
+Vegetables,Vegetables,Collards,1,cup,High,10
+Vegetables,Vegetables,Artichokes,1,small bud,Moderate,5
+Vegetables,Vegetables,Asparagus,4,spears,Moderate,6
+Vegetables,Vegetables,"Carrots, cooked",1/2,cup sliced,Moderate,7
+Vegetables,Vegetables,Hot Chili Peppers,1/2,cup,Moderate,5
+Vegetables,Vegetables,"Mixed Vegetables, frozen",1/2,cup,Moderate,5
+Vegetables,Vegetables,"Oriental Vegetables, frozen",1/2,cup,Moderate,6
+Vegetables,Vegetables,Soybeans,1,cup,Moderate,7
+Vegetables,Vegetables,String Beans,1/2,cup,Moderate,9
+Vegetables,Vegetables,Tomato,1,med whole,Moderate,7
+Vegetables,Vegetables,Brussel Sprouts,1/2,cup frozen,Very Low,2
+Vegetables,Vegetables,"Celery, raw",1,stalk,Low,3
+Vegetables,Vegetables,Kale,1,cup chopped,Very Low,2
+Vegetables,Vegetables,Mung Beans,1/2,cup,Low,3
+Vegetables,Vegetables,Mustard Greens,1,cup chopped,Low,4
+Vegetables,Vegetables,Sea Vegetables,1,cup,Low,3
+Vegetables,Vegetables,Alfalfa Sprouts,1/2,cup,Little or None,0
+Vegetables,Vegetables,Bok Choy (Chinese Cabbage),1,"cup, raw",Very Low,1
+Vegetables,Vegetables,Broccoli,1/2,cup chopped,Very Low,1
+Vegetables,Vegetables,Cabbage,1/2,cup,Very Low,1
+Vegetables,Vegetables,Cauliflower,1/2,cup cooked,Very Low,1
+Vegetables,Vegetables,Chives,1,tsp,Little or None,0
+Vegetables,Vegetables,Corn,1/2,cup,Very Low,1
+Vegetables,Vegetables,Cucumber,1/4,cucumber,Very Low,1
+Vegetables,Vegetables,Endive,1/2,cup,Little or None,0
+Vegetables,Vegetables,Green Pepper,1,ring,Very Low,1
+Vegetables,Vegetables,Iceberg Lettuce,1,cup,Little or None,0
+Vegetables,Vegetables,Mushrooms,1,mushroom,Little or None,0
+Vegetables,Vegetables,Onions,1,small onion,Little or None,0
+Vegetables,Vegetables,Peas,1/2,cup,Very Low,1
+Vegetables,Vegetables,Pickles,1,pickle,Little or None,0
+Vegetables,Vegetables,Radish,10,count,Little or None,0
+Vegetables,Vegetables,Romaine Lettuce,1,cup,Little or None,0
+Vegetables,Vegetables,Scallions,1/2,cup,Very Low,1
+Vegetables,Vegetables,Sauerkraut,1/2,cup,Very Low,1
+Vegetables,Vegetables,Waterchestnuts,4,waterchestnuts,Little or None,0
+Vegetables,Vegetables,Yellow Squash,1/2,cup,Very Low,1
+Vegetables,Vegetables,Zucchini,1/2,cup,Very Low,1
+Vegetables,Potatoes,French Fries (homemade or fast food),4 oz or 1/2 cup,,Very High,51
+Vegetables,Potatoes,Baked Potato with Skin,1,medium,Very High,97
+Vegetables,Potatoes,Mashed Potatoes,1,cup,Very High,29
+Vegetables,Potatoes,Potato Chips,1,oz,Very High,21
+Vegetables,Potatoes,Potato Salad,1/3,cup,Very High,17
+Vegetables,Potatoes,Sweet Potatoes,1,cup,Very High,28
+Dairy,Cream Products,Homemade Cream Sauce,1,cup,Low,3
+Dairy,Cream Products,Coffee Creamer,1,Tbs,Little or None,0
+Dairy,Cream Products,Non-Dairy Creamer,1,Tbs,Little or None,0
+Dairy,Cream Products,Sour Cream,1,Tbs,Little or None,0
+Dairy,Ice Creams,Ice Cream (Vanilla),1/2,cup,Little or None,0
+Dairy,Ice Creams,Ice Cream Light,1/2,cup,Little or None,0
+Dairy,Ice Creams,Non Fat Ice Cream,1/2,cup,Little or None,0
+Dairy,Yogurt Products,Plain Yogurt,1,cup,Very Low,2
+Dairy,Yogurt Products,Yogurt with Fruit,8,oz,Very Low,1
+Dairy,Yogurt Products,Non Fat Yogurt with Fruit,8,oz,Very Low,1
+Dairy,Yogurt Products,Frozen Yogurt,1/2,cup,Very Low,1
+Dairy,Yogurt Products,Lowfat Frozen Yogurt,1/2,cup,Very Low,1
+Dairy,Cheese Products,American Cheese,1,slice,Little or None,0
+Dairy,Cheese Products,Cheddar Cheese,1,slice,Little or None,0
+Dairy,Cheese Products,Low Fat Cheese,1,slice,Little or None,0
+Dairy,Cheese Products,Cottage Cheese,1/2,cup,Little or None,0
+Dairy,Cheese Products,Low Fat Cottage Cheese,1,cup,Little or None,0
+Dairy,Cheese Products,Cottage Cheese Fat Free,1/2,cup,Very Low,1
+Dairy,Cheese Products,Mozzarella Cheese,1,oz,Little or None,0
+Dairy,Eggs,Eggs,1,medium,Little or None,0
+Dairy,Eggs,Egg Beaters,4,oz,Little or None,0
+Dairy,Dairy Spreads,Cream Cheese,1,oz,Little or None,0
+Dairy,Dairy Spreads,Cream Cheese Fat Free,1,oz,Very Low,1
+Dairy,Dairy Spreads,Low Fat Cream Cheese,1,oz,Very Low,1
+Dairy,Dairy Spreads,"Butter, Salted",1,pat,Little or None,0
+Dairy,Milk,Chocolate Milk,1,cup,Moderate,7
+Dairy,Milk,Powdered Milk,1,envelope,Low,3
+Dairy,Milk,Fat Free Milk,1,cup,Very Low,1
+Dairy,Milk,1% Milk,1,cup,Very Low,1
+Dairy,Milk,2% Milk,1,cup,Very Low,1
+Dairy,Milk,Whole Milk,1,cup,Very Low,1
+Dairy,Milk,Buttermilk,1,cup,Very Low,1
+Breads & Grains,Breads,French Toast,2,slices,Very High,13
+Breads & Grains,Breads,English Muffin Whole Wheat,1,muffin,High,12
+Breads & Grains,Breads,Pancakes (Homemade),4,cakes,High,11
+Breads & Grains,Breads,Pancakes (mix),4,cakes,High,10
+Breads & Grains,Breads,Blueberry Muffins,1,muffin,Moderate,9
+Breads & Grains,Breads,Biscuits (plain or buttermilk),1,biscuit,Moderate,6
+Breads & Grains,Breads,Bran Muffins,1,muffin,Moderate,5
+Breads & Grains,Breads,Bran Muffin Low fat,1,muffin,Moderate,5
+Breads & Grains,Breads,Cracked Wheat Bread,1,slice,Moderate,5
+Breads & Grains,Breads,English Muffin,1,muffin,Moderate,8
+Breads & Grains,Breads,English Muffin Multi-Grain,1,muffin,Moderate,8
+Breads & Grains,Breads,English Muffin Wheat,1,muffin,Moderate,7
+Breads & Grains,Breads,Low Fat Muffins,1,muffin,Moderate,5
+Breads & Grains,Breads,Rye Bread,1,slice,Moderate,7
+Breads & Grains,Breads,"Tortillas, Corn",1,tortilla,Moderate,7
+Breads & Grains,Breads,"Tortillas, flour",1,tortilla,Moderate,8
+Breads & Grains,Breads,White Bread,1,slice,Moderate,5
+Breads & Grains,Breads,Wheat Bran Bread,1,slice,Moderate,7
+Breads & Grains,Breads,Whole Oat Bread,1,slice,Moderate,5
+Breads & Grains,Breads,Whole Wheat Bread,1,slice,Moderate,6
+Breads & Grains,Breads,Corn Bread,1,piece,Low,4
+Breads & Grains,Breads,Oatmeal Bread,1,piece,Low,4
+Breads & Grains,Breads,Oat Bran Muffin,1,small muffin,Low,4
+Breads & Grains,Breads,Oat Bran Bread,1,slice,Low,4
+Breads & Grains,"Pastas, Rice & Grains",All-Purpose Flour,1,cup,Very High,17
+Breads & Grains,"Pastas, Rice & Grains","Brown Rice, cooked",1,cup,Very High,24
+Breads & Grains,"Pastas, Rice & Grains",Brown Rice Flour,1,cup,Very High,65
+Breads & Grains,"Pastas, Rice & Grains",Buckwheat Groats,1,cup cooked,Very High,133
+Breads & Grains,"Pastas, Rice & Grains","Bulgur, cooked",1,cup,Very High,86
+Breads & Grains,"Pastas, Rice & Grains",Corn Grits,1,cup,Very High,97
+Breads & Grains,"Pastas, Rice & Grains",Cornmeal,1,cup,Very High,64
+Breads & Grains,"Pastas, Rice & Grains",Couscous,1,cup,Very High,15
+Breads & Grains,"Pastas, Rice & Grains",Lasagna,1,serving,Very High,23
+Breads & Grains,"Pastas, Rice & Grains","Millet, cooked",1,cup,Very High,62
+Breads & Grains,"Pastas, Rice & Grains",Miso,1,cup,Very High,40
+Breads & Grains,"Pastas, Rice & Grains",Rice Bran,1,cup,Very High,281
+Breads & Grains,"Pastas, Rice & Grains",Soy Flour,1,cup,Very High,94
+Breads & Grains,"Pastas, Rice & Grains",Wheat Berries,1,cup cooked,Very High,98
+Breads & Grains,"Pastas, Rice & Grains","Wheat Flour, Whole Grain",1,cup,Very High,29
+Breads & Grains,"Pastas, Rice & Grains",Spaghetti,1,cup cooked,High,11
+Breads & Grains,"Pastas, Rice & Grains",White Rice Flour,1,cup,High,11
+Breads & Grains,"Pastas, Rice & Grains",Corn Flour,1,cup,Low,3
+Breads & Grains,"Pastas, Rice & Grains",Hummus,1,Tbs,Low,4
+Breads & Grains,"Pastas, Rice & Grains",Macaroni & Cheese,1,cup,Low,4
+Breads & Grains,"Pastas, Rice & Grains","White Rice, cooked",1,cup,Low,4
+Breads & Grains,"Pastas, Rice & Grains",Barley Malt Flour,1,cup,Little or None,0
+Breads & Grains,"Pastas, Rice & Grains",Corn Bran,1,cup,Little or None,0
+Breads & Grains,"Pastas, Rice & Grains",Flaxseed,1,Tbs,Little or None,0
+Breads & Grains,"Pastas, Rice & Grains","Oat Bran, raw",1/3,cup,Little or None,0
+Meats & Fish,Meat & Meat Alternatives,Tofu,3.5,oz,Very High,13
+Meats & Fish,Meat & Meat Alternatives,Veggie Burger,1,pattie,Very High,24
+Meats & Fish,Meat & Meat Alternatives,Soy Burger,3.5,oz,High,12
+Meats & Fish,Meat & Meat Alternatives,Chicken Nuggets,6,nuggets,Low,3
+Meats & Fish,Meat & Meat Alternatives,Meatballs,2,meatballs,Very Low,2
+Meats & Fish,Meat & Meat Alternatives,Turkey Dogs,1,dog,Low,3
+Meats & Fish,Meat & Meat Alternatives,Antelope,3,oz,Little or None,0
+Meats & Fish,Meat & Meat Alternatives,Bacon,2,slices,Little or None,0
+Meats & Fish,Meat & Meat Alternatives,Bologna,1,slice,Little or None,0
+Meats & Fish,Meat & Meat Alternatives,Buffalo,3,oz,Little or None,0
+Meats & Fish,Meat & Meat Alternatives,Chicken Dog,1,dog,Very Low,1
+Meats & Fish,Meat & Meat Alternatives,Chicken Liver,3,oz,Little or None,0
+Meats & Fish,Meat & Meat Alternatives,Chicken,3,oz,Little or None,0
+Meats & Fish,Meat & Meat Alternatives,Hot Dogs,1,dog,Very Low,1
+Meats & Fish,Meat & Meat Alternatives,Ham,3,oz,Little or None,0
+Meats & Fish,Meat & Meat Alternatives,Ground Beef,3,oz,Little or None,0
+Meats & Fish,Meat & Meat Alternatives,Lean Hamburg (85%),3,oz,Little or None,0
+Meats & Fish,Meat & Meat Alternatives,Lean Hamburg (75%),3,oz,Little or None,0
+Meats & Fish,Meat & Meat Alternatives,Lean Hamburg (90%),3,oz,Very Low,1
+Meats & Fish,Meat & Meat Alternatives,Liver,3.5,oz,Little or None,0
+Meats & Fish,Meat & Meat Alternatives,Moose,3,oz,Little or None,0
+Meats & Fish,Meat & Meat Alternatives,Pork,5,oz,Little or None,0
+Meats & Fish,Meat & Meat Alternatives,Turkey,5,oz,Little or None,0
+Meats & Fish,Meat & Meat Alternatives,Venison,3,oz,Little or None,0
+Meats & Fish,Meat & Meat Alternatives,Wild Game Meat,3,oz,Very Low,1
+Meats & Fish,Fish,Tuna Salad,1,cup,Moderate,6
+Meats & Fish,Fish,Frozen Fish Sticks,2,sticks,Low,3
+Meats & Fish,Fish,Alaskan King Crab,3,oz or 1/2 leg,Little or None,0
+Meats & Fish,Fish,Bluefish,1,fillet,Very Low,1
+Meats & Fish,Fish,"Clams, raw",3,oz,Little or None,0
+Meats & Fish,Fish,"Cod, pacific",3,oz or 1 fillet,Little or None,0
+Meats & Fish,Fish,Cod Liver Fish Oil,1,tsp,Little or None,0
+Meats & Fish,Fish,Flounder,3,oz,Little or None,0
+Meats & Fish,Fish,Haddock,3,oz,Little or None,0
+Meats & Fish,Fish,Halibut,3,oz,Little or None,0
+Meats & Fish,Fish,Herring (Atlantic & Pacific),3,oz,Very Low,1
+Meats & Fish,Fish,Mackerel,3,oz,Little or None,0
+Meats & Fish,Fish,Oysters,3,oz,Little or None,0
+Meats & Fish,Fish,Pollock,3,oz,Little or None,0
+Meats & Fish,Fish,Salmon (all types),4,oz,Little or None,0
+Meats & Fish,Fish,Sardines,1,can or 3.75oz,Little or None,0
+Meats & Fish,Fish,Shrimp,3,oz,Little or None,0
+Meats & Fish,Fish,Swordfish,1,piece,Little or None,0
+Meats & Fish,Fish,Tuna Fish (in oil),3.5,oz,Little or None,0
+Meats & Fish,Fish,Tuna Fish (in water),3.5,oz,Little or None,0
+Meats & Fish,Fish,Whiting,3,oz,Little or None,0
+Nuts and Seeds,Nuts and Seeds,Almonds,1,oz or 22 kernels,Very High,122
+Nuts and Seeds,Nuts and Seeds,Candies with Nuts (ex Snickers),2,1 oz or 18 kernels,Very High,38
+Nuts and Seeds,Nuts and Seeds,Cashews,1,oz or 48 kernels,Very High,49
+Nuts and Seeds,Nuts and Seeds,Peanuts,1,oz,Very High,27
+Nuts and Seeds,Nuts and Seeds,Pistachios,1,oz or 48 kernels,Very High,14
+Nuts and Seeds,Nuts and Seeds,Mixed Nuts (with Peanuts),1,oz,Very High,39
+Nuts and Seeds,Nuts and Seeds,Pumpkin Seeds,1,"cup, cooked",Very High,17
+Nuts and Seeds,Nuts and Seeds,Trail Mix,1,oz,Very High,15
+Nuts and Seeds,Nuts and Seeds,Walnuts,1,cup or 7 nuts,Very High,31
+Nuts and Seeds,Nuts and Seeds,Pecans,1,oz or 15 halves,High,10
+Nuts and Seeds,Nuts and Seeds,Sunflower Seeds,1,cup,High,12
+Nuts and Seeds,Nuts and Seeds,Flaxseed,1,Tbs,Little or None,0
+Snacks and Desserts,Snacks and Desserts,Brownies,1,oz or 1/2 brownie,Very High,31
+Snacks and Desserts,Snacks and Desserts,Cake (store brand),1,piece,Very High,15
+Snacks and Desserts,Snacks and Desserts,Cake (homemade),1,piece,Very High,16
+Snacks and Desserts,Snacks and Desserts,Candies with Nuts (ex Snickers),2,oz,Very High,38
+Snacks and Desserts,Snacks and Desserts,Chocolate Syrup,2,Tbs,Very High,38
+Snacks and Desserts,Snacks and Desserts,Fudge Sauce,2,Tbs,Very High,28
+Snacks and Desserts,Snacks and Desserts,Cake (Low Fat Only),1,piece,High,11
+Snacks and Desserts,Snacks and Desserts,Chocolate Chip Cookies (store brand),1,cookie,High,10
+Snacks and Desserts,Snacks and Desserts,Chocolate Chip Cookies (Low Fat Only),1,cookie,Moderate,7
+Snacks and Desserts,Snacks and Desserts,Milk Chocolate Candies,1,oz,Moderate,5
+Snacks and Desserts,Snacks and Desserts,Pies (homemade),1/8,pie (1 slice),Moderate,5
+Snacks and Desserts,Snacks and Desserts,Apple Pie,1/8,pie (1 slice),Moderate,5
+Snacks and Desserts,Snacks and Desserts,Pudding Popsicle,1,pop,Moderate,5
+Snacks and Desserts,Snacks and Desserts,Fig Bars,1,cookie,Low,4
+Snacks and Desserts,Snacks and Desserts,"Chocolate Pudding, Instant",1/4,box or 1 oz,Low,4
+Snacks and Desserts,Snacks and Desserts,Oatmeal Cookies (store),1,cookie,Low,4
+Snacks and Desserts,Snacks and Desserts,Oatmeal Cookie (homemade),1,cookie,Very Low,2
+Snacks and Desserts,Snacks and Desserts,Rice Cake,1,cake,Low,4
+Snacks and Desserts,Snacks and Desserts,Rice Pudding,1/2,cup,Very Low,2
+Snacks and Desserts,Snacks and Desserts,Snack Cakes- creme filled,1,cake,Low,3
+Snacks and Desserts,Snacks and Desserts,Custard,1,cup,Very Low,1
+Snacks and Desserts,Snacks and Desserts,Jello,1,cup,Very Low,1
+Snacks and Desserts,Snacks and Desserts,Popsicle,1,stick,Little or None,0
+Snacks and Desserts,Snacks and Desserts,Rice Krispy Treat,1,bar,Very Low,1
+Snacks and Desserts,Snacks and Desserts,Sherbert,1/2,cup,Little or None,0
+Snacks and Desserts,Snacks and Desserts,Tapioca Pudding,1/2,cup,Little or None,0
+Snacks and Desserts,Snacks and Desserts,Vanilla Pudding,1,cup,Very Low,1
+Crackers and Chips,Crackers and Chips,Potato Chips,1,oz,Very High,21
+Crackers and Chips,Crackers and Chips,Tortilla Corn Chips,1,oz,Moderate,7
+Crackers and Chips,Crackers and Chips,"Popcorn, oil-popped",1,cup,Moderate,5
+Crackers and Chips,Crackers and Chips,"Pretzels, Hard & Salted",1,oz,Moderate,5
+Crackers and Chips,Crackers and Chips,Fruit Roll-Ups,1,roll,Very Low,2
+Crackers and Chips,Crackers and Chips,Graham Crackers,1,large rectangle,Very Low,2
+Crackers and Chips,Crackers and Chips,"Popcorn, air-popped",1,cup,Low,4
+Crackers and Chips,Crackers and Chips,Ritz Crackers,5,crackers,Low,3
+Crackers and Chips,Crackers and Chips,Saltines,1,cracker,Very Low,1
+Crackers and Chips,Crackers and Chips,Triscuits,1,cracker,Very Low,1
+Crackers and Chips,Crackers and Chips,Wheat Crackers,1,cracker,Very Low,1
+Crackers and Chips,Crackers and Chips,"Wheat Thins, Reduced Fat",1,cracker,Very Low,1
+Beverages,Beverages,Carrot Juice,1,cup,Very High,27
+Beverages,Beverages,Hot Chocolate (homemade),1,cup,Very High,65
+Beverages,Beverages,Lemonade (frozen from concentrate),8,oz,Very High,15
+Beverages,Beverages,Rice Dream,1,cup,Very High,13
+Beverages,Beverages,"Tea, Brewed",1,cup,Very High,14
+Beverages,Beverages,Tomato Juice,1,cup,Very High,14
+Beverages,Beverages,V8 Juice,1,cup,Very High,18
+Beverages,Beverages,Prune Juice,1,cup,Moderate,7
+Beverages,Beverages,Apple Juice,6,oz,Very Low,2
+Beverages,Beverages,Apricot Juice,1,cup,Very Low,2
+Beverages,Beverages,Coffee Decaff,1,cup,Very Low,2
+Beverages,Beverages,Orange Juice,1,cup,Very Low,2
+Beverages,Beverages,Pineapple Juice,8,oz,Low,3
+Beverages,Beverages,Postum (coffee Substitute),1,serving,Very Low,2
+Beverages,Beverages,Coffee,1,cup,Very Low,1
+Beverages,Beverages,Gatorade,1,cup,Little or None,0
+Beverages,Beverages,Grape Juice,8,oz,Very Low,1
+Beverages,Beverages,Grapefruit Juice,8,oz,Little or None,0
+Beverages,Beverages,Kool-Aid,1,cup,Very Low,1
+Beverages,Beverages,Lemonade (diet),8,oz,Very Low,1
+Beverages,Beverages,Mango Juice,8,oz,Very Low,1
+Beverages,Beverages,Sodas (all types),8,oz,Little or None,0
+Beverages,Beverages,Sweetened Instant Iced Tea,1,cup,Little or None,0
+Beverages,Beverages,Water,8,oz,Little or None,0
+Beverages,Dairy Beverages,Chocolate Milk,1,cup,Moderate,7
+Beverages,Dairy Beverages,Powdered Milk,1,envelope,Low,3
+Beverages,Dairy Beverages,Soy Milk,1,cup,Low,4
+Beverages,Dairy Beverages,Fat Free Milk,1,cup,Very Low,1
+Beverages,Dairy Beverages,1% Milk,1,cup,Very Low,1
+Beverages,Dairy Beverages,2% Milk,1,cup,Very Low,1
+Beverages,Dairy Beverages,Whole Milk,1,cup,Very Low,1
+Beverages,Alcoholic Beverages,Beer (Regular),1,can,Low,4
+Beverages,Alcoholic Beverages,Beer (Light),1,can,Low,3
+Beverages,Alcoholic Beverages,Red Wine,4,oz,Very Low,1
+Beverages,Alcoholic Beverages,White Wine,4,oz,Little or None,0
+Beverages,Alcoholic Beverages,Liquor (80 proof),1,jigger,Little or None,0
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Chocolate Syrup,2,Tbs,Very High,38
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Fudge Sauce,2,Tbs,Very High,28
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Miso,1,cup,Very High,40
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Peanut Butter,1,Tbs,Very High,13
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Peanut Butter Reduced Fat,1,Tbs,Very High,16
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Stuffing,1,cup,Very High,36
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Tahini,1,Tbs,Very High,16
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings","Cream Sauce, Homemade",1,cup,Low,3
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Gravy,1,cup,Low,4
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Olive Oil & Vinegar,,,Very Low,2
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Soy Sauce,1,Tbs,Low,3
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Apple Butter,1,Tbs,Little or None,0
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Butter,1,Pat,Little or None,0
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Catsup/Ketchup,1,packet,Very Low,1
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Cream Cheese,1,oz,Little or None,0
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Cream Cheese Low Fat,1,oz,Very Low,1
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Cream Cheese Fat Free,1,oz,Very Low,1
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Horseradish,1,Tbs,Little or None,0
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Jam/Jelly,1,Tbs,Very Low,1
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Italian Salad Dressing,1,Tbs,Little or None,0
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Mayonnaise,1,Tbs,Little or None,0
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings","Mustard, yellow",1,tsp or packet,Very Low,1
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Pancake Syrup,3/4,Tbs,Little or None,0
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Salsa,1,Tbs,Very Low,1
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Whipped Cream,2,Tbs,Little or None,0
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Whipped Topping,2,Tbs,Little or None,0
+Ingredients,Ingredients,All-Purpose Flour,1,cup,Very High,17
+Ingredients,Ingredients,Brown Rice Flour,1,cup,Very High,65
+Ingredients,Ingredients,Cocoa Powder,4,tsp,Very High,67
+Ingredients,Ingredients,Cornmeal,1,cup,Very High,64
+Ingredients,Ingredients,Soy Flour,1,cup,Very High,94
+Ingredients,Ingredients,Soy Protein Isolate,1,oz,Very High,27
+Ingredients,Ingredients,"Wheat Flour, Whole Grain",1,cup,Very High,29
+Ingredients,Ingredients,White Rice Flour,1,cup,High,11
+Ingredients,Ingredients,Chili Powder,1,tbs,Moderate,7
+Ingredients,Ingredients,Brewer's Yeast,1,tbs,Moderate,7
+Ingredients,Ingredients,Corn Flour,1,cup,Low,3
+Ingredients,Ingredients,Cornstarch,1,cup,Low,3
+Ingredients,Ingredients,Lemon Juice (canned or bottled),1,cup,Low,4
+Ingredients,Ingredients,Artificial Sweetener,1,packet,Very Low,1
+Ingredients,Ingredients,Bullion Cube,1,cube,Very Low,1
+Ingredients,Ingredients,Black Pepper,1,dash,Little or None,0
+Ingredients,Ingredients,Barley Malt Flour,1,cup,Little or None,0
+Ingredients,Ingredients,Brown Sugar,1,cup packed,Very Low,1
+Ingredients,Ingredients,Butter,1,pat,Little or None,0
+Ingredients,Ingredients,Buttermilk,1,cup,Very Low,1
+Ingredients,Ingredients,Corn Syrup (high Fructose),1,tbs,Very Low,1
+Ingredients,Ingredients,Corn Syrup (Light),1,tbs,Little or None,0
+Ingredients,Ingredients,Cod Liver Oil,1,tsp,Little or None,0
+Ingredients,Ingredients,Cream Substitute,1,tsp,Little or None,0
+Ingredients,Ingredients,Cream,1,tbs,Little or None,0
+Ingredients,Ingredients,Eggs,1,medium egg,Little or None,0
+Ingredients,Ingredients,Eggbeaters,4,oz,Little or None,0
+Ingredients,Ingredients,Garlic Powder,1,tsp,Little or None,0
+Ingredients,Ingredients,Gelatin,1,tbs,Little or None,0
+Ingredients,Ingredients,Honey,1,tbs,Little or None,0
+Ingredients,Ingredients,Lard,1,tsp,Little or None,0
+Ingredients,Ingredients,Lemon Juice Raw (concentrate),1,tbs,Little or None,0
+Ingredients,Ingredients,Molasses,1,tbs,Little or None,0
+Ingredients,Ingredients,Oat Flour,1,cup,Little or None,0
+Ingredients,Ingredients,Salt,1,tsp,Little or None,0
+Ingredients,Ingredients,Shortening,1,tsp,Little or None,0
+Ingredients,Ingredients,Sugar,1,tsp,Little or None,0
+Ingredients,Ingredients,Sweet Whey Fluid,1,cup,Very Low,1
+Ingredients,Ingredients,Sweet Whey Dried,1,tbs,Little or None,0
+Fast Food,Fast Food,Burritos with beans,1,burrito,Very High,17
+Fast Food,Fast Food,Burritos with beans & meat,1,burrito,Very High,16
+Fast Food,Fast Food,Cheeseburger with bun,1,burger and bun,Very High,13
+Fast Food,Fast Food,Chili with Beans,1,cup,Very High,24
+Fast Food,Fast Food,Enchilada with Cheese & beef,1,enchilada,Very High,13
+Fast Food,Fast Food,Enchilada with Chicken,1,enchilada,Very High,13
+Fast Food,Fast Food,French Fries,4,oz,Very High,51
+Fast Food,Fast Food,Lasagna with meat,1,serving,Very High,23
+Fast Food,Fast Food,Nachos with Cheese,6-8,chips,Very High,13
+Fast Food,Fast Food,Pizza with Cheese,2,slices,Very High,13
+Fast Food,Fast Food,Grilled Cheese Sandwich,1,sandwich,High,12
+Fast Food,Fast Food,Tacos,1,small taco,High,12
+Fast Food,Fast Food,Doughnut,1,doughnut,Moderate,5
+Fast Food,Fast Food,Eggroll,1,eggroll,Moderate,5
+Fast Food,Fast Food,Hot Dog with Bun,1,dog with bun,Moderate,9
+Fast Food,Fast Food,Onion Rings,6-8,rings,Moderate,5
+Fast Food,Fast Food,Chicken Nuggets,6,nuggets,Low,3
+Fast Food,Fast Food,Macaroni & Cheese,1,cup,Low,4
+Fast Food,Fast Food,Chicken Roll,1,package,Very Low,1
+Soups,Soups,Clam Chowder,1,cup,Very High,13
+Soups,Soups,Lentil Soup,1,cup,Very High,39
+Soups,Soups,Miso Soup,1,cup,Very High,111
+Soups,Soups,Vegetable Beef Soup,1,cup,Moderate,5
+Soups,Soups,Chicken Noodle Soup,1,can,Low,3
+Breakfast Items,Breakfast Items,Cream of Wheat,1,cup,Very High,18
+Breakfast Items,Breakfast Items,Red River Cereal,1/4,cup,Very High,13
+Breakfast Items,Breakfast Items,Corn Grits,1,cup,Very High,97
+Breakfast Items,Breakfast Items,Farina Cereal,1,cup,Very High,16
+Breakfast Items,Breakfast Items,French Toast,2,slices,Very High,13
+Breakfast Items,Breakfast Items,Pancakes (Homemade),4,pancakes,Very High,22
+Breakfast Items,Breakfast Items,Pancakes (dry mix),4,pancakes,Very High,37
+Breakfast Items,Breakfast Items,Danish Pastry Homemade,1,pastry,Very High,14
+Breakfast Items,Breakfast Items,Sweet Rolls Low Fat,1,pastry,Very High,13
+Breakfast Items,Breakfast Items,English Muffins Whole Wheat ONLY,1,muffin,High,12
+Breakfast Items,Breakfast Items,Bran Muffins (store),1,muffin,Moderate,5
+Breakfast Items,Breakfast Items,Bran Muffin Low Fat,1,muffin,Moderate,5
+Breakfast Items,Breakfast Items,Blueberry Muffins,1,muffin,Moderate,9
+Breakfast Items,Breakfast Items,Doughnut,1,doughnut,Moderate,5
+Breakfast Items,Breakfast Items,English Muffins - Reg,1,muffin,Moderate,8
+Breakfast Items,Breakfast Items,English Muffins - Multi-Grain,1,muffin,Moderate,8
+Breakfast Items,Breakfast Items,English Muffins - Wheat,1,muffin,Moderate,7
+Breakfast Items,Breakfast Items,Muffins Low Fat,1,muffin,Moderate,5
+Breakfast Items,Breakfast Items,Poptart,1,tart,Moderate,7
+Breakfast Items,Breakfast Items,Cornbread,1,piece,Low,4
+Breakfast Items,Breakfast Items,"Danish Pastry, Fruit Filled",1,pastry,Low,4
+Breakfast Items,Breakfast Items,Granola Bars Low Fat,1,oz uncoated,Very Low,2
+Breakfast Items,Breakfast Items,Kashi Go Lean Bar,1,bar,Low,3
+Breakfast Items,Breakfast Items,Bacon,2,slices,Little or None,0
+Breakfast Items,Breakfast Items,Carnation Instant Breakfast,1,packet,Very Low,1
+Breakfast Items,Breakfast Items,Eggs,1,medium egg,Little or None,0
+Breakfast Items,Breakfast Items,Eggbeaters,4,oz,Little or None,0
+Breakfast Items,Breakfast Items,Granola Bars- Hard & Plain,1,bar,Very Low,1
+Breakfast Items,Breakfast Items,Oatmeal Cereal,1,cup,Little or None,0
+Breakfast Items,Breakfast Items,Pancake Syrup,3/4,tbs,Little or None,0
+Cereals,Kellogg's,All-Bran Original,1/2,cup,Very High,26
+Cereals,Kellogg's,All-Bran Buds,1/2,cup,Very High,20
+Cereals,Kellogg's,Complete Wheat Bran,3/4,cup,Very High,34
+Cereals,Kellogg's,Cracklin' Oat Bran,3/4,cup,Very High,15
+Cereals,Kellogg's,Frosted Mini-Wheats,1,cup,Very High,28
+Cereals,Kellogg's,Just Right Fruit & Nut,1,cup,Very High,13
+Cereals,Kellogg's,Low Fat Granola with Raisins,2/3,cup,Very High,16
+Cereals,Kellogg's,Kashi Go Lean,3/4,cup,Very High,14
+Cereals,Kellogg's,Mueslix Apple & Almond Crunch,2/3,cup,Very High,20
+Cereals,Kellogg's,Mueslix,2/3,cup,Very High,17
+Cereals,Kellogg's,Puffed Kashi,1,cup,Very High,13
+Cereals,Kellogg's,Raisin Bran,1,cup,Very High,46
+Cereals,Kellogg's,Raisin Bran Crunch,1,cup,Very High,27
+Cereals,Kellogg's,Raisin Squares Mini-Wheats,3/4,cup,Very High,41
+Cereals,Kellogg's,Smart Start,1,cup,Very High,15
+Cereals,Kellogg's,All-Bran with Extra Fiber,1/2,cup,High,11
+Cereals,Kellogg's,Cocoa Krispies,3/4,cup,High,11
+Cereals,Kellogg's,Kashi Good Friends,3/4,cup,High,10
+Cereals,Kellogg's,Complete Oat Bran Flakes,3/4,cup,Moderate,5
+Cereals,Kellogg's,Kashi Heart to Heart,3/4,cup,Moderate,8
+Cereals,Kellogg's,Healthy Choice Multi-Grain Flakes,3/4,cup,Moderate,7
+Cereals,Kellogg's,Froot Loops,1,cup,Very Low,2
+Cereals,Kellogg's,Honey Crunch Corn Flakes,3/4,cup,Low,3
+Cereals,Kellogg's,Rice Krispies,1 1/4,cup,Low,4
+Cereals,Kellogg's,Special K,1,cup,Low,3
+Cereals,Kellogg's,Special K Red Berries,1,cup,Very Low,2
+Cereals,Kellogg's,Smacks,3/4,cup,Low,3
+Cereals,Kellogg's,Corn Flakes,1,cup,Very Low,1
+Cereals,Kellogg's,Corn Pops,1,cup,Very Low,1
+Cereals,Kellogg's,Crispix,1,cup,Very Low,1
+Cereals,Kellogg's,Frosted Flakes,3/4,cup,Very Low,1
+Cereals,Kellogg's,Product 19,1,cup,Very Low,1
+Cereals,Post,100% Bran,1/3,cup,Very High,25
+Cereals,Post,40% Bran,3/4,cup,Very High,36
+Cereals,Post,Banana Nut Crunch,1,cup,Very High,25
+Cereals,Post,Cranberry Almond Crunch (Morning Traditions),1,cup,Very High,35
+Cereals,Post,"Fruit & Fiber Dates, Raisins & Walnuts",1,cup,Very High,41
+Cereals,Post,"Great Grains Raisin, Dates & Pecans",2/3,cup,Very High,17
+Cereals,Post,Great Grains Crunch Pecan,2/3,cup,Very High,18
+Cereals,Post,Grape Nuts,1/2,cup,Very High,14
+Cereals,Post,Original Shredded Wheat & Bran,1 1/4,cup,Very High,53
+Cereals,Post,Blueberry Morning,1/2,cup,Moderate,8
+Cereals,Post,Grape Nuts Flakes,3/4,cup,Moderate,7
+Cereals,Post,Fruity Pebbles,3/4,cup,Very Low,2
+Cereals,Post,Honey Bunches of Oats with Almonds,3/4,cup,Very Low,2
+Cereals,Post,Honey Bunches of Oats Honey Roasted,3/4,cup,Low,3
+Cereals,Post,Honeycomb,1 1/3,cup,Very Low,1
+Cereals,Post,Wafflecrisp,1,cup,Very Low,1
+Cereals,General Mills,Basic 4,1,cup,Very High,17
+Cereals,General Mills,Fiber One,1/2,cup,Very High,13
+Cereals,General Mills,Honey Nut Clusters,1,cup,Very High,23
+Cereals,General Mills,Multi-Bran Chex,1,cup,Very High,36
+Cereals,General Mills,Nature Valley Cinnamon & Raisins Granola,3/4,cup,Very High,13
+Cereals,General Mills,Oatmeal Crisp with Almonds,1,cup,Very High,24
+Cereals,General Mills,Oatmeal Raisin Crisp,1,cup,Very High,13
+Cereals,General Mills,Raisin Nut Bran,1,cup,Very High,24
+Cereals,General Mills,Total Raisin Bran,1,cup,Very High,31
+Cereals,General Mills,Harmony,1 1/4,cup,High,11
+Cereals,General Mills,Wheaties Raisin Bran,1,cup,High,11
+Cereals,General Mills,Apple Cinnamon Cheerios,3/4,cup,Moderate,5
+Cereals,General Mills,Berry Bust Cheerios,1,cup,Moderate,7
+Cereals,General Mills,Cheerios,1,cup,Moderate,8
+Cereals,General Mills,Cinnamon Toast Crunch,3/4,cup,Moderate,5
+Cereals,General Mills,Corn Chex,1,cup,Moderate,5
+Cereals,General Mills,Count Chocula,1,cup,Moderate,5
+Cereals,General Mills,Frosted Cheerios,1,cup,Moderate,6
+Cereals,General Mills,Honey Nut Cheerios,1,cup,Moderate,7
+Cereals,General Mills,Golden Grahams,3/4,cup,Moderate,9
+Cereals,General Mills,Lucky Charms,1,cup,Moderate,5
+Cereals,General Mills,Reese's Puffs,3/4,cup,Moderate,8
+Cereals,General Mills,Team Cheerios,1,cup,Moderate,6
+Cereals,General Mills,Total Corn Flakes,1 1/3,cup,Moderate,5
+Cereals,General Mills,Wheat Chex,1,cup,Moderate,7
+Cereals,General Mills,Wheaties,1,cup,Moderate,8
+Cereals,General Mills,Whole Grain Total,3/4,cup,Moderate,8
+Cereals,General Mills,Cocoa Puffs,1,cup,Low,3
+Cereals,General Mills,Kix,1 1/3,cup,Very Low,2
+Cereals,General Mills,Rice Chex,1 1/4,cup,Low,4
+Cereals,General Mills,Trix,1,cup,Little or None,0
+Cereals,Quaker,Low Fat 100% Natural Granola with Raisins,3/4,cup,Very High,15
+Cereals,Quaker,100% Natural Granola Oats & Honey,1/2,cup,Very High,13
+Cereals,Quaker,Oat Bran,1 1/4,cup,High,10
+Cereals,Quaker,Honey Nut Oats,1,oz,Moderate,7
+Cereals,Quaker,Oatmeal Squares,1,cup,Moderate,5
+Cereals,Quaker,Puffed Wheat,1 1/4,cup,Moderate,9
+Cereals,Quaker,Toasted Oatmeal,1,oz,Moderate,6
+Cereals,Quaker,Puffed Rice,1,cup,Very Low,2
+Cereals,Quaker,Quaker Oat Cinnamon Life,3/4,cup,Low,3
+Cereals,Quaker,Quaker Oat Life,3/4,cup,Low,3
+Cereals,Quaker,Cap'n Crunch,3/4,cup,Little or None,0
+Cereals,Other Cereal Brands,"Bran Flakes with Raisins, Single Brand",1,cup,Very High,57
+Cereals,Other Cereal Brands,Nabisco Shredded Wheat,2,biscuits,Very High,42
+Cereals,Other Cereal Brands,Nabisco Honey Nut Shredded Wheat Bite Size,1,cup,Very High,47
+Cereals,Other Cereal Brands,Spoonsize Shredded Wheat,1,cup,Very High,45
+Cereals,Other Cereal Brands,Uncle Sam,1,cup,High,11
+Cereals,Other Cereal Brands,Just Right with Crunchy Nuggets,1,cup,Moderate,5
+Cereals,Other Cereal Brands,Wheetabix Whole Wheat,2,biscuits,Moderate,8
+Cereals,Other Cereal Brands,Healthy Valley Oat Bran Flakes,1,cup,Little or None,0
