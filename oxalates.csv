@@ -1,537 +1,1700 @@
 ﻿Primary Category,Secondary Category,Food Item,Serving Size,Serving Size Unit,Oxalate Category,Oxalate Value (mg)
-Fruits,Whole Fruits,Avocados,1,fruit,Very High,19
-Fruits,Whole Fruits,Dates,1,date,Very High,24
-Fruits,Whole Fruits,Grapefruit,1/2,fruit,Very High,12
-Fruits,Whole Fruits,Kiwi,1,fruit,Very High,16
-Fruits,Whole Fruits,Orange,1,fruit,Very High,29
-Fruits,Whole Fruits,Raspberries,1,cup,Very High,48
-Fruits,Whole Fruits,Tangerine,1,fruit,High,10
-Fruits,Whole Fruits,Figs,1,medium fig,Moderate,9
+Dairy,Milk,1% Milk,1,cup,Very Low,1
+Cereals,Post,100% Bran,1/3,cup,Very High,25
+Cereals,Quaker,100% Natural Granola Oats & H1y,1/2,cup,Very High,13
+Cereals,Cold Cereal - Harvard,"100% Natural Granola, Oats, Wheat & H1y",2/3,cup,High,13
+Dairy,Milk,2% Milk,1,cup,Very Low,1
+Cereals,Post,40% Bran,3/4,cup,Very High,36
+Cereals,Cold Cereal - Harvard,40% Bran Flakes,1,cup,Very High,43
+Beverages,Beverages - Ox-List,"Agave Nectar, Light, Madhava",1,tbsp,Very Low,1
+Meats & Fish,Fish,Alaskan King Crab,3,oz or 1/2 leg,Little or N1,0
+Dairy,Dairy - Ox-List,"Alcohol, Beer (regular/light), Hard Ciders, Hard Seltzers",12,oz,Very Low,2
+Dairy,Dairy - Ox-List,"Alcohol, Distilled Spirits (brandy, Gin, Rum, Tequila, Vodka, Whiskey and Liqueurs)",1,.5 oz,Little or N1,0
+Dairy,Dairy - Ox-List,"Alcohol, Wine (white, Rose, Red, Fortified)",4,oz,Little or N1,0
+Vegetables,Vegetables,Alfalfa Sprouts,1/2,cup,Little or N1,0
+Cereals,Cold Cereal - Harvard,All Bran Kelloggs,2/3,cup,Very High,35
+Cereals,Kellogg's,All-Bran Buds,1/2,cup,Very High,20
+Cereals,Kellogg's,All-Bran Original,1/2,cup,Very High,26
+Cereals,Kellogg's,All-Bran with Extra Fiber,1/2,cup,High,11
+Ingredients,Ingredients,All-Purpose Flour,1,cup,Very High,17
+Nuts and Seeds,Nuts and Seeds - Harvard,"Almond Butter, Salted",1,tbsp,Very High,42
+Beverages,Plant-Based Milk - Harvard,"Almond Milk, Sweetened+unsweetened Mixed Flavors",8,oz,High,27
+Nuts and Seeds,Nuts and Seeds,Almonds,1,oz or 22 kernels or 1/4 cup,Very High,122
+Nuts and Seeds,Nuts and Seeds - Harvard,"Almonds, Oil Roasted, Unsalted",1,oz,Very High,72
+Dairy,Cheese Products,American Cheese,1,slice,Little or N1,0
+Meats & Fish,Meat & Meat Alternatives,Antelope,3,oz,Little or N1,0
+Fruits,Fruits - KD PDF,Apple,1,fruit,Very Low,1
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Apple Butter,1,Tbs,Little or N1,0
+Cereals,General Mills,Apple Cinnamon Cheerios,3/4,cup,Moderate,5
+Beverages,Beverages,Apple Juice,6-8,oz,Very Low,2
+Snacks and Desserts,Snacks and Desserts,Apple Pie,1/8,pie (1 slice),Moderate,5
 Fruits,Whole Fruits,Apple Sauce,1,cup,Very Low,2
+Vegetables,Vegetables - Ox-List,"Apple, Apple Puree",1/2,cup,Low,5
+Fruits,Fruits - KD PDF,"Apple, Dried",1/2,cup,Very Low,1
+Vegetables,Vegetables - Ox-List,"Apple, Variety, Fresh",1,medium,Very Low,2
+Fast Food,Commercial - Ox-List,"Applebees, Weight Watchers Entrees, Cajun Lime Tilapia Without Seasonal Vegetables",1,entrée,High,24
+Fast Food,Commercial - Ox-List,"Applebees, Weight Watchers Entrees, Garlic Herbed Chicken Without Herbed Potatoes",1,entrée,Very High,39
+Fast Food,Commercial - Ox-List,"Applebees, Weight Watchers Entrees, Herbed Potatoes",1,serving,High,22
+Fast Food,Commercial - Ox-List,"Applebees, Weight Watchers Entrees, Italian Chicken & Portobello Sandwich Without Fresh Fruit",1,entrée,High,21
+Fast Food,Commercial - Ox-List,"Applebees, Weight Watchers Entrees, Paradise Chicken Salad",1,entrée,Moderate,6
+Fast Food,Commercial - Ox-List,"Applebees, Weight Watchers Entrees, Seasonal Vegetables (broccoli and Zucchini)",1,entrée,Low,5
+Fast Food,Commercial - Ox-List,"Applebees, Weight Watchers Entrees, Steak & Portobellos",1,entrée,Very High,34
+Fruits,Whole Fruits,Apples,1,fruit,Very Low,1
+Fruits,Fruits - Harvard,"Apples, Raw with Skin",1,,Very Low,1
+Fruits,Fruits - Harvard,"Apples, Raw Without Skin",1,,Very Low,1
+Fruits,Fruits - Harvard,"Apples, Sulfured Dried",1/4,cup,Very Low,0
+Fruits,Fruits - KD PDF,Applesauce,1,cup,Very Low,2
+Beverages,Beverages,Apricot Juice,1,cup,Very Low,2
+Vegetables,Vegetables - Ox-List,"Apricot, Dried",4,x 1/2 apricots,High,12
+Fruits,Whole Fruits,Apricots,1,fruit,Little or N1,0
+Fruits,Fruits - KD PDF,"Apricots, Dried",1/2,cup,Very Low,2
+Vegetables,Vegetables - Ox-List,"Apricots, Fresh",1,"cup, halves",High,20
+Fruits,Fruits - Harvard,"Apricots, Raw",1,fruit,Very Low,0
+Fruits,Fruits - Harvard,"Apricots, Sulfured Dried",5,halves,Very Low,0
+Vegetables,Vegetables - KD PDF,Artichoke,1,heart,Low,5
+Vegetables,Vegetables - Ox-List,"Artichoke, Boiled",1/2,cup,High,11
+Vegetables,Vegetables,Artichokes,1,small bud,Moderate,5
+Ingredients,Ingredients,Artificial Sweetener,1,packet,Very Low,1
+Beverages,Beverages - Ox-List,"Artificial Sweeteners, Aspartame",1,tsp,Little or N1,0
+Beverages,Beverages - Ox-List,"Artificial Sweeteners, Saccharin, Sweet-n-low",1,tsp,Little or N1,0
+Beverages,Beverages - Ox-List,"Artificial Sweeteners, Splenda",1,tsp,Little or N1,0
+Beverages,Beverages - Ox-List,"Artificial Sweeteners, Sugar Replacement, Swerve",1,tsp,Little or N1,0
+Vegetables,Vegetables - Ox-List,"Arugula, Raw",1,cup,Very Low,1
+Vegetables,Vegetables - KD PDF,Asian Mixed Vegetables,1/2,cup,Moderate,6
+Vegetables,Vegetables,Asparagus,4,spears,Moderate,6
+Vegetables,Vegetables - Ox-List,"Asparagus, Boiled or Steamed",1/2,cup,Low,5
+Vegetables,Vegetables - Harvard,"Asparagus, Boiled, Drained",1/2,cup,Moderate,9
+Fruits,Fruits - Harvard,Avocado,1/2,fruit,Moderate,10
+Vegetables,Vegetables - Ox-List,"Avocado, Fresh",1/2,cup sliced,Moderate,7
+Fruits,Whole Fruits,Avocados,1,fruit,Very High,19
+Meats & Fish,Meat & Meat Alternatives,Bacon,2,slices,Little or N1,0
+Meats & Fish,Meat - Harvard,"Bacon, Broiled, Pan-fried, or Roasted",2,slices,Very Low,0
+Meats & Fish,Poultry - Harvard,"Bacon, Turkey, Microwaved",2,slices,Little or N1,0
+Breads & Grains,Grains - KD PDF,Bagel,1,large,Very High,40
+Vegetables,Potatoes,Baked Potato with Skin,1,medium,Very High,97
+Vegetables,Vegetables - Harvard,"Baked, Unsalted Winter Squash",1/2,cup,Low,4
+Ingredients,Spices - Ox-List,Baking Powder,1,tsp,Little or N1,0
+Ingredients,Spices - Ox-List,Baking Soda,1,tsp,Very Low,2
+Vegetables,Vegetables - KD PDF,Bamboo Shoots,1/2,cup,High,18
+Vegetables,Vegetables - Harvard,"Bamboo Shoots, Canned, Drained Solids",1/2,cup,Moderate,6
 Fruits,Whole Fruits,Banana,1,fruit,Low,3
+Cereals,Post,Banana Nut Crunch,1,cup,Very High,25
+Fruits,Fruits - Ox-List,Bananas,1,medium,Moderate,6
+Fruits,Fruits - Harvard,"Bananas, Raw",1,,High,10
+Ingredients,Baking - KD PDF,Barley Flour,1/2,cup,Very High,41
+Ingredients,Ingredients,Barley Malt Flour,1,cup,Little or N1,0
+Breads & Grains,Pasta and Grains - Harvard,"Barley, Cooked Pearled",1,cup,Little or N1,0
+Ingredients,Spices - Ox-List,"Bars, Apple + Banana Fruit, Trader Joes",1,bar,Low,3
+Ingredients,Spices - Ox-List,"Bars, Banana Bread Flax, Organic, Go Raw",1,bar,Low,4
+Crackers and Chips,Snacks - Harvard,"Bars, Energy",1,,High,11
+Ingredients,Spices - Ox-List,"Bars, Granola, Oats and H1y, Nature Valley",1,bar,Moderate,6
+Crackers and Chips,Snacks - Harvard,"Bars, High Protein",1,,High,20
+Ingredients,Spices - Ox-List,"Bars, Peanut Butter, Crunchy, Clif",1,bar,Very High,72
+Ingredients,Spices - Ox-List,"Bars, Pumpkin, Live, Organic, Go Raw",1,bar,Very Low,2
+Ingredients,Spices - Ox-List,"Bars, Raspberry, Organic, Lydia's Organics",1,bar,Low,5
+Ingredients,Spices - Ox-List,"Bars, Rawma Bar, Pumpkin, Gopal's Healthfoods",1,bar,High,21
+Ingredients,Spices - Ox-List,"Bars, Real Live, Organic, Go Raw",1,bar,High,11
+Ingredients,Spices - Ox-List,"Bars, Snow Angell, Organic, White Chocolate, Coconut",1,bar,Low,3
+Cereals,General Mills,Basic 4,1,cup,Very High,17
+Ingredients,Spices - Ox-List,"Basil Wraps, Blue Mountain Organic",1,cup,Very High,60
+Vegetables,Beans and Lentils - Harvard,"Beans, Baked, Canned, Plain or Vegetarian",1/2,cup,Very High,58
+Vegetables,Beans and Lentils - Harvard,"Beans, Black, Boiled, Unsalted",1/2,cup,High,10
+Vegetables,Vegetables - Ox-List,"Beans, Green, Variety, Boiled or Steamed",1/2,cup,High,15
+Vegetables,Vegetables - Ox-List,"Beans, Lima or Butter, Boiled 30 Min",1/2,cup,Moderate,10
+Vegetables,Vegetables - Ox-List,"Beans, Mung",1/2,cup,Low,3
+Vegetables,Beans and Lentils - Harvard,"Beans, Navy, Canned",1/2,cup,Very High,96
+Vegetables,Vegetables - Ox-List,"Beans, Pole, Boiled 30 Minutes",1/2,cup,High,16
+Vegetables,Beans and Lentils - Harvard,"Beans, Red Kidney, Boiled, Unsalted",1/2,cup,Moderate,10
+Vegetables,Beans and Lentils - Harvard,"Beans, Refried, Canned, Traditional Style",1/2,cup,Very High,60
+Vegetables,Vegetables - Ox-List,"Beans, String, Boiled or Canned",1/2,cup,Moderate,8
+Meats & Fish,Meat - Harvard,Beef Hot Dog,1,,Very Low,1
+Meats & Fish,Meat - Harvard,"Beef Liver, Pan Fried",4,oz,Very Low,0
+Meats & Fish,Meat - Harvard,"Beef Patty, Broiled 80% Lean Ground",3,oz,Very Low,0
+Meats & Fish,Meat - Harvard,"Beef Patty, Broiled 85% Lean Meat Ground",3,oz,Very Low,0
+Meats & Fish,Meat - Harvard,"Beef Patty, Broiled 93% Beef, 7% Fat",3,oz,Very Low,0
+Meats & Fish,Meat - Harvard,"Beef, Frankfurter, Low-fat",1,,Very Low,1
+Meats & Fish,Protein - KD PDF,"Beef, Ground",3,oz,Little or N1,0
+Meats & Fish,Meat - Harvard,"Beef, Top Market Cuts, 0""-1/8"" Fat Trim",5,oz,Very Low,0
+Vegetables,Vegetables,Beets,1/2,cup,Very High,76
+Vegetables,Vegetables - Ox-List,"Beets, Boiled, Steamed or Pickled",1/2,cup,Very High,48
+Vegetables,Vegetables - Harvard,"Beets, Canned, Drained",1/2,cup,Very High,76
+Fruits,Fruits - Ox-List,"Berries, Blackberries, Fresh",1,cup,Very High,45
+Fruits,Fruits - Ox-List,"Berries, Blueberries, Fresh or Frozen",1,cup,High,27
+Fruits,Fruits - Ox-List,"Berries, Craisins, Dried",1/4,cup,Low,5
+Fruits,Fruits - Ox-List,"Berries, Cranberries, Dried",1/4,cup,Very Low,1
+Fruits,Fruits - Ox-List,"Berries, Cranberries, Whole, Fresh or Canned",1,cup,Moderate,9
+Fruits,Fruits - Ox-List,"Berries, Elderberries, Dried",2,tbsp,Very High,51
+Fruits,Fruits - Ox-List,"Berries, Elderberries, Raw, Black",1,cup,Very High,105
+Fruits,Fruits - Ox-List,"Berries, Gooseberries, Raw, Red and Green",1,cup,Very High,33
+Fruits,Fruits - Ox-List,"Berries, Huckleberries, Fresh",1/2,cup,Very High,39
+Fruits,Fruits - Ox-List,"Berries, Raspberries, Raw",1,cup,High,21
+Fruits,Fruits - Ox-List,"Berries, Strawberries, Canned",1/2,cup,High,20
+Fruits,Fruits - Ox-List,"Berries, Strawberries, Fresh",1,"cup, halves",Moderate,6
+Cereals,General Mills,Berry Bust Cheerios,1,cup,Moderate,7
+Breads & Grains,Breads and Bakery - Harvard,Biscuit,1,,High,14
+Breads & Grains,Grains - KD PDF,Biscuits,1,each,Moderate,6
+Breads & Grains,Breads,Biscuits (plain or buttermilk),1,biscuit,Moderate,6
+Fruits,Fruits - Ox-List,"Bitter Gourd (bitter Melon), Fresh",1,cup,Very High,80
+Fruits,Fruits - Ox-List,"Bitter Gourd (bitter Melon), Wok-fried",1/2,cup,Very High,41
+Ingredients,Ingredients,Black Pepper,1,dash,Little or N1,0
+Beverages,Beverages - KD PDF,Black Tea,1,cup,High,14
 Fruits,Whole Fruits,Blackberries,1/2,cup,Very Low,2
 Fruits,Whole Fruits,Blueberries,1/2,cup,Very Low,2
-Fruits,Whole Fruits,Cherries,1,cup,Low,3
-Fruits,Whole Fruits,Limes,1/2,fruit,Low,3
-Fruits,Whole Fruits,Pears,1,fruit,Very Low,2
-Fruits,Whole Fruits,Pineapple,1,cup,Low,4
-Fruits,Whole Fruits,Raisins,1,oz or 1 small snack box,Low,3
-Fruits,Whole Fruits,Strawberries,1/2,cup,Very Low,2
-Fruits,Whole Fruits,Apples,1,fruit,Very Low,1
-Fruits,Whole Fruits,Apricots,1,fruit,Little or None,0
-Fruits,Whole Fruits,Cantaloupe,1/4,melon,Very Low,1
-Fruits,Whole Fruits,Grapes,1/2,cup or 16 seedless grapes,Very Low,1
-Fruits,Whole Fruits,Honeydew Melon,1,cup,Very Low,1
-Fruits,Whole Fruits,Lemons,1,wedge,Very Low,1
-Fruits,Whole Fruits,Mango,1,fruit,Very Low,1
-Fruits,Whole Fruits,Nectarine,1,fruit,Little or None,0
-Fruits,Whole Fruits,Papaya,1,medium fruit,Very Low,1
-Fruits,Whole Fruits,Peaches,1,fruit,Little or None,0
-Fruits,Whole Fruits,Plantain,1,medium,Very Low,1
-Fruits,Whole Fruits,Plums,1,fruit,Little or None,0
-Fruits,Whole Fruits,Watermelon,1,slice,Very Low,1
-Fruits,Canned Fruits,Canned Pineapple,1/2,cup,Very High,24
+Cereals,Post,Blueberry Morning,1/2,cup,Moderate,8
+Breads & Grains,Breads,Blueberry Muffins,1,muffin,Moderate,9
+Meats & Fish,Fish,Bluefish,1,fillet,Very Low,1
+Meats & Fish,Fish - Harvard,"Bluefish, Dry Heat Cooked",4,oz,Very Low,1
+Vegetables,Vegetables - KD PDF,Bok Choy,1,cup raw,Very Low,1
+Vegetables,Vegetables,Bok Choy (Chinese Cabbage),1,"cup, raw",Very Low,1
+Vegetables,Vegetables - Ox-List,"Bok Choy, Leaves",1,cup,Low,3
+Vegetables,Vegetables - Ox-List,"Bok Choy, Stalks, Diced",1,cup,Very Low,2
+Meats & Fish,Meat & Meat Alternatives,Bologna,1,slice,Little or N1,0
+Meats & Fish,Meat - Harvard,"Bologna, Beef and Pork",2,slices,Very Low,1
+Beverages,Beverages - Harvard,Boost,8,oz,High,21
+Breads & Grains,Grains - KD PDF,Bran Cereal,1,cup,Very High,52
+Cereals,Other Cereal Brands,"Bran Flakes with Raisins, Single Brand",1,cup,Very High,57
+Breads & Grains,Breads,Bran Muffin Low fat,1,muffin,Moderate,5
+Breads & Grains,Breads,Bran Muffins,1,muffin,Moderate,5
+Breakfast Items,Breakfast Items,Bran Muffins (store),1,muffin,Moderate,5
+Fruits,Fruits - Ox-List,"Bread, Bagel, White or Whole Grain, Variety",1,bagel,High,22
+Fruits,Fruits - Ox-List,"Bread, Cornbread",1,slice,Low,3
+Fruits,Fruits - Ox-List,"Bread, English Muffin, White or Whole Grain",1,muffin,High,13
+Fruits,Fruits - Ox-List,"Bread, Hotdog or Hamburger Buns, White or Whole Grain",1,bun,Moderate,8
+Breads & Grains,Breads and Bakery - Harvard,"Bread, Multigrain Whole Grain",1,slice,High,18
+Breads & Grains,Breads and Bakery - Harvard,"Bread, Oat, Whole",1,slice,Moderate,6
+Fruits,Fruits - Ox-List,"Bread, Organic Seeds and Grains (high Seed Content, Any Grain)",1,slice,Very High,42
+Breads & Grains,Breads and Bakery - Harvard,"Bread, Rye",1,slice,Moderate,6
+Breads & Grains,Grains - Ox-List,"Bread, Tortilla, Wheat, White or Whole Wheat",1,med tortilla,High,17
+Breads & Grains,Breads and Bakery - Harvard,"Bread, Wheat",1,slice,Low,3
+Breads & Grains,Grains - Ox-List,"Bread, Wheat, White",1,slice,Moderate,7
+Breads & Grains,Grains - Ox-List,"Bread, Wheat, Whole Grain, 100% Whole Wheat",1,slice,High,13
+Breads & Grains,Breads and Bakery - Harvard,"Bread, White",1,slice,Low,4
+Breads & Grains,Breads and Bakery - Harvard,"Bread, Whole Wheat",1,slice,High,14
+Ingredients,Spices - Ox-List,"Breadcrumbs, Original or Japanese Style, Panko",1/2,cup,Moderate,8
+Ingredients,Spices - Ox-List,"Breakfast Biscuits, Any Brand",1,biscuit,Moderate,10
+Ingredients,Spices - Ox-List,Breakfast Sandwich: Eggwich - Variety Without Spinach,1,item,High,18
+Ingredients,Spices - Ox-List,"Breakfast Sandwich: Jimmy Dean Eggwich - Bacon, Spinach, Onion & Parmesan",1,item,Very High,88
+Ingredients,Ingredients,Brewer's Yeast,1,tbs,Moderate,7
+Vegetables,Vegetables,Broccoli,1/2,cup chopped,Very Low,1
+Vegetables,Vegetables - Ox-List,"Broccoli Greens, Raab (rabe or Rapini), Raw",1,"cup, sliced",Moderate,6
+Vegetables,Vegetables - Ox-List,"Broccoli Greens, Raab (rabe or Rapini), Steamed 8 Mins",1/2,"cup, sliced",Low,5
+Vegetables,Vegetables - Ox-List,"Broccoli, Boiled or Steamed",1/2,cup,Low,4
+Vegetables,Vegetables - Harvard,"Broccoli, Boiled, Drained, Unsalted",1/2,cup,Moderate,6
+Vegetables,Vegetables - Ox-List,"Broccoli, Raw",1,cup,Moderate,9
+Vegetables,Vegetables - Ox-List,"Broccolini, Steamed 10 Minutes",1/2,"cup, chopped",High,11
+Breads & Grains,Grains - KD PDF,Brown Rice,1/2,cup,High,12
+Ingredients,Baking - KD PDF,Brown Rice Flour,1/2,cup,Very High,33
+Breads & Grains,"Pastas, Rice & Grains","Brown Rice, cooked",1,cup,Very High,24
+Ingredients,Baking - KD PDF,Brown Sugar,1/2,cup packed,Little or N1,0
+Snacks and Desserts,Desserts - KD PDF,Brownie,1,oz,Very High,31
+Breads & Grains,Breads and Bakery - Harvard,"Brownie, Home-made",1,,Very High,31
+Breads & Grains,Breads and Bakery - Harvard,"Brownie, Ready-to-eat",1,,Very High,34
+Snacks and Desserts,Snacks and Desserts,Brownies,1,oz or 1/2 brownie,Very High,31
+Fast Food,Commercial - Ox-List,"Brownies, Entenmann's Little Bites",2,items,High,23
+Vegetables,Vegetables,Brussel Sprouts,1/2,cup frozen,Very Low,2
+Vegetables,Vegetables - Ox-List,"Brussel Sprouts, Boiled or Steamed",1/2,cup,Low,3
+Vegetables,Vegetables - Ox-List,"Brussel Sprouts, Raw",1,cup,High,14
+Vegetables,Vegetables - KD PDF,Brussels Sprouts,1/2,cup,Very Low,2
+Vegetables,Vegetables - Harvard,"Brussels Sprouts, Boiled, Drained, Unsalted",1/2,cup,High,17
+Breads & Grains,Pasta and Grains - Harvard,"Buckwheat Groats, Roasted",1,cup,Very High,133
+Meats & Fish,Meat & Meat Alternatives,Buffalo,3,oz,Little or N1,0
+Breads & Grains,Grains - KD PDF,Bulgur,1/2,cup,Very High,43
+Breads & Grains,"Pastas, Rice & Grains","Bulgur, cooked",1,cup,Very High,86
+Ingredients,Ingredients,Bullion Cube,1,cube,Very Low,1
+Breads & Grains,Breads and Bakery - Harvard,"Buns, Cinnamon,frosted (includes H1y Buns)",1,roll,Moderate,7
+Vegetables,Beans and Lentils - Harvard,"Burger, Plant-based",1,patty,Very High,58
+Vegetables,Beans and Lentils - Harvard,"Burger, Soy",3,.5 oz,High,12
+Vegetables,Beans and Lentils - Harvard,"Burger, Vegetable",1,burger,Low,5
+Fast Food,Fast Food,Burritos with beans,1,burrito,Very High,17
+Fast Food,Fast Food,Burritos with beans & meat,1,burrito,Very High,16
+Dairy,Dairy - KD PDF,Butter,1,teaspoon,Little or N1,0
+Dairy,Milk,Buttermilk,1,cup,Very Low,1
+Dairy,Dairy - Harvard,"Buttermilk, Lowfat",1,cup,Very Low,1
+Vegetables,Vegetables,Cabbage,1/2,cup,Very Low,1
+Vegetables,Vegetables - Harvard,"Cabbage, Boiled, Drained, Unsalted",1/2,cup,Very Low,1
+Vegetables,Vegetables - Ox-List,"Cabbage, Green, Boiled or Steamed",1/2,cup,Low,3
+Vegetables,Vegetables - Ox-List,"Cabbage, Green, Raw, Shredded",1,cup,Low,4
+Fruits,Fruits - Ox-List,"Cactus, Nopal (prickly Pear), Raw",1,cup,Very High,131
+Fruits,Fruits - Ox-List,"Cactus, or Nopal (prickly Pear), Boiled",1,leaf,Very High,67
+Snacks and Desserts,Desserts - KD PDF,Cake,1,oz,High,15
+Snacks and Desserts,Snacks and Desserts,Cake (homemade),1,piece,Very High,16
+Snacks and Desserts,Snacks and Desserts,Cake (Low Fat Only),1,piece,High,11
+Snacks and Desserts,Snacks and Desserts,Cake (store brand),1,piece,Very High,15
+Fast Food,Commercial - Ox-List,"Cake Mix, White or Angel Food Cake Mix, Multiple Brands",1/12,packet,Very Low,1
+Breads & Grains,Breads and Bakery - Harvard,"Cake, Commercial Yellow with Chocolate Frosting",1,slice,High,19
+Breads & Grains,Breads and Bakery - Harvard,"Cake, Home-baked and Commercial",1,slice,High,12
+Snacks and Desserts,Snacks and Desserts,Candies with Nuts (ex Snickers),2,oz,Very High,38
+Snacks and Desserts,Candy - Harvard,"Candies, Milk Chocolate",1 1/2,oz,Moderate,7
+Snacks and Desserts,Candy - Harvard,"Candies, Non-chocolate",1,oz,Little or N1,0
+Snacks and Desserts,Candy - Harvard,Candy Bar,2,oz,Very High,35
+Snacks and Desserts,Desserts - KD PDF,Candy with Nuts,1,piece,Very High,38
+Beverages,Beverages - Ox-List,"Candy, 3 Musketeers, Mars",1,bar,High,27
+Beverages,Beverages - Ox-List,"Candy, Dark Chocolate, Bar or Chips",1,oz,Very High,65
+Beverages,Beverages - Ox-List,"Candy, M&ms, Milk Chocolate",20,pieces,Moderate,9
+Beverages,Beverages - Ox-List,"Candy, M&ms, Peanut",10,pieces,High,11
+Beverages,Beverages - Ox-List,"Candy, Milk Chocolate, Bar or Chips",1,oz,Very High,32
+Beverages,Beverages - Ox-List,"Candy, Truffles, Dark Chocolate (see's)",1,candy,High,28
+Beverages,Beverages - Ox-List,"Candy, White Chocolate, Bar or Chips",1,oz,Very Low,2
 Fruits,Canned Fruits,Canned Cherries,1/2,cup,Moderate,7
-Fruits,Canned Fruits,Cranberry Sauce,1/2,cup,Very Low,2
-Fruits,Canned Fruits,Canned Pears,1/2,cup,Very Low,1
 Fruits,Canned Fruits,Canned Peaches,1/2,cup,Very Low,1
-Fruits,Canned Fruits,Fruit Cocktail,1/2,cup,Very Low,1
+Fruits,Canned Fruits,Canned Pears,1/2,cup,Very Low,1
+Fruits,Canned Fruits,Canned Pineapple,1/2,cup,Very High,24
+Fruits,Fruits - KD PDF,Cantaloupe,1,cup,Little or N1,0
+Cereals,Cold Cereal - Harvard,Cap'n Crunch,1,cup,Very Low,2
+Beverages,Beverages - Harvard,Carbonated Beverage with Sugar Without Caffeine,12,oz,Very Low,0
+Dairy,Dairy - Ox-List,"Carnation Breakfast Essentials, Vanila or Chocolate, Rtc",1,bottle (8.45 fl oz),Low,3
+Breakfast Items,Breakfast Items,Carnation Instant Breakfast,1,packet,Very Low,1
+Beverages,Beverages - Harvard,"Carnation Instant Breakfast, Prepared",8,oz,Moderate,7
+Beverages,Beverages,Carrot Juice,1,cup,Very High,27
+Vegetables,Vegetables - Harvard,"Carrots, Boiled, Drained, Unsalted",1/2,cup,Moderate,8
+Vegetables,Vegetables - Ox-List,"Carrots, Boiled, Steamed or Canned",1/2,cup,Moderate,9
+Vegetables,Vegetables,"Carrots, cooked",1/2,cup sliced,Moderate,7
+Vegetables,Vegetables,"Carrots, raw",1/2,lg carrot,High,10
+Nuts and Seeds,Nuts - KD PDF,Cashews,1/4,cup,Very High,49
+Nuts and Seeds,Nuts and Seeds - Harvard,"Cashews, Oil Roasted, Unsalted",1,oz,Very High,64
+Meats & Fish,Fish - Harvard,"Catfish, Channel, Farmed, Dry Heat Cooked",4,oz,Very Low,0
+"Spreads, Sauces & Toppings",Condiments - Harvard,Catsup (ketchup),1,tbsp,Very Low,2
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Catsup/Ketchup,1,packet,Very Low,1
+Vegetables,Vegetables,Cauliflower,1/2,cup cooked,Very Low,1
+Vegetables,Vegetables - Harvard,"Cauliflower, Boiled, Drained, Unsalted",1/2,cup,Very Low,0
+Vegetables,Vegetables - Ox-List,"Cauliflower, Raw, Boiled or Steamed",1/2,cup,Very Low,2
+Vegetables,Vegetables - Ox-List,"Celeriac, Canned",1/2,cup or 1 piece,Low,5
+Vegetables,Vegetables,"Celery, Cooked",1,cup,High,10
+Vegetables,Vegetables - Harvard,"Celery, Raw",1/2,medium,Moderate,8
+Vegetables,Vegetables - Ox-List,"Celery, Raw, Stem Only, Diced",1,cup,Very High,30
+Breads & Grains,Grains - Ox-List,"Cereal, All-bran, Kellogg's",1,cup,Very High,103
+Breads & Grains,Grains - Ox-List,"Cereal, Bran Flakes",1,cup,Very High,51
+Breads & Grains,Grains - Ox-List,"Cereal, Chex, Wheat, General Mills",1,cup,Very High,46
+Breads & Grains,Grains - Ox-List,"Cereal, Fiber 1, General Mills",1,cup,Very High,34
+Breads & Grains,Grains - Ox-List,"Cereal, Grape-nuts Flakes, Post",1,cup,High,25
+Breads & Grains,Grains - Ox-List,"Cereal, H1y Toasted Oats, Kashi",1,cup,High,25
+Breads & Grains,Grains - Ox-List,"Cereal, Meuslix",1,cup,Very High,64
+Breads & Grains,Grains - Ox-List,"Cereal, Millet, Whole, Cooked",1/2,cup,Very High,32
+Breads & Grains,Grains - Ox-List,"Cereal, Shredded Wheat, Post",2,biscuits,Very High,41
+Breads & Grains,Grains - Ox-List,"Cereal, Special K, Protein Plus, Formerly Low Carb",1,cup,Very High,62
+Breads & Grains,Grains - Ox-List,"Cereal, Weetabix",2,biscuits,Very High,31
+Breads & Grains,Grains - Ox-List,"Cereals, Buckwheat",1/2,cup,Very High,105
+Fruits,Fruits - Ox-List,"Chayote or Mirliton, Boiled 15 Min",1/2,cup,Moderate,6
+Dairy,Cheese Products,Cheddar Cheese,1,slice,Little or N1,0
+Cereals,General Mills,Cheerios,1,cup,Moderate,8
+Cereals,Cold Cereal - Harvard,Cheerios H1y Nut,1,cup,Moderate,7
+Cereals,Cold Cereal - Harvard,Cheerios Multigrain,1 1/3,cup,Moderate,5
+Dairy,Dairy - KD PDF,Cheese,1,slice,Little or N1,0
+Dairy,Dairy - Harvard,"Cheese, American, Pasteurized Processed",1,oz,Very Low,0
+Dairy,Dairy - Harvard,"Cheese, American, Pasteurized Processed Nonfat",1,slice,Very Low,0
+Dairy,Dairy - Harvard,"Cheese, Cheddar",1,oz,Very Low,0
+Dairy,Dairy - Harvard,"Cheese, Cheddar/colby, Low Fat",1,oz,Very Low,0
+Dairy,Dairy - Harvard,"Cheese, Cottage",1/2,cup,Very Low,0
+Dairy,Dairy - Harvard,"Cheese, Cottage, 1% Lowfat",1/2,cup,Little or N1,0
+Dairy,Dairy - Harvard,"Cheese, Cottage, Nonfat",1/2,cup,Very Low,1
+Dairy,Dairy - Harvard,"Cheese, Cream",1,oz,Very Low,0
+Dairy,Dairy - Harvard,"Cheese, Cream, Fat Free",1,oz,Very Low,0
+Meats & Fish,Protein - Ox-List,"Cheese, Hard and Soft Variety",1,oz,Very Low,1
+Dairy,Dairy - Harvard,"Cheese, Mozzarella, Part Skim Milk",1,oz,Very Low,0
+Dairy,Dairy - Harvard,"Cheese, Mozzarella, Whole Milk",1,oz,Very Low,0
+Dairy,Dairy - Harvard,"Cheese, Neufchatel (lowfat Cream Cheese)",1,oz,Very Low,0
+Fast Food,Fast Food,Cheeseburger with bun,1,burger and bun,Very High,13
+Fruits,Whole Fruits,Cherries,1,cup,Low,3
+Fruits,Fruits - Ox-List,"Cherries, Bing, Canned, Oregon Fruit Products",1/2,cup,Moderate,6
+Fruits,Fruits - KD PDF,"Cherries, Canned",1/2,cup,Moderate,7
+Fruits,Fruits - Ox-List,"Cherries, Dried",1/4,cup,Low,3
+Fruits,Fruits - Harvard,"Cherries, Sweet, Raw",1/2,cup,Very Low,2
+Meats & Fish,Meat & Meat Alternatives,Chicken,3,oz,Little or N1,0
+Meats & Fish,Poultry - Harvard,"Chicken (meat & Skin), Roasted",3,oz,Very Low,0
+Meats & Fish,Poultry - Harvard,"Chicken Breast, Deli, Rotisserie Seas1d, Sliced, Prepackaged",3,oz,Very Low,0
+Meats & Fish,Meat & Meat Alternatives,Chicken Dog,1,dog,Very Low,1
+Meats & Fish,Meat & Meat Alternatives,Chicken Liver,3,oz,Little or N1,0
+Meats & Fish,Poultry - Harvard,"Chicken Liver, Simmered",1,oz,Very Low,0
+Soups,Soups,Chicken Noodle Soup,1,can,Low,3
+Meats & Fish,Meat & Meat Alternatives,Chicken Nuggets,6,nuggets,Low,3
+Fast Food,Fast Food,Chicken Roll,1,package,Very Low,1
+Meats & Fish,Poultry - Harvard,Chicken Sausage,1,,Very Low,2
+Meats & Fish,Poultry - Harvard,"Chicken Thighs, Wings, and Legs",2,pieces,Very Low,0
+Meats & Fish,Poultry - Harvard,"Chicken, Roasted Meat",3,oz,Little or N1,0
+Vegetables,Vegetables - KD PDF,Chili Peppers,1/2,cup,Low,5
+Ingredients,Ingredients,Chili Powder,1,tbs,Moderate,7
+Fast Food,Fast Food,Chili with Beans,1,cup,Very High,24
+Fast Food,Commercial - Ox-List,"Chips, Banana",13,pieces,Very High,61
+Fast Food,Commercial - Ox-List,"Chips, Corn, Multiple Brands",1,oz,Moderate,9
+Fast Food,Commercial - Ox-List,"Chips, Pistachio Crisps",1,oz (15 crisps),Moderate,9
+Fast Food,Commercial - Ox-List,"Chips, Plantain, Inka Crops",1,oz,Very High,39
+Fast Food,Commercial - Ox-List,"Chips, Popcorn, Popcorn Indina",20,chips,Low,4
+Fast Food,Commercial - Ox-List,"Chips, Potato Chips, Multiple Brands",1,oz,High,18
+Fast Food,Commercial - Ox-List,"Chips, Sweet Potato Chips, Terra",1,oz,Very High,37
+Fast Food,Commercial - Ox-List,"Chips, Tortilla Strips, Mission",1,oz,Moderate,10
+Vegetables,Vegetables,Chives,1,tsp,Little or N1,0
+Snacks and Desserts,Desserts - KD PDF,Chocolate Chip Cookie,1,medium,Moderate,10
+Snacks and Desserts,Snacks and Desserts,Chocolate Chip Cookies (Low Fat Only),1,cookie,Moderate,7
+Snacks and Desserts,Snacks and Desserts,Chocolate Chip Cookies (store brand),1,cookie,High,10
+Dairy,Milk,Chocolate Milk,1,cup,Moderate,7
+Snacks and Desserts,Desserts - KD PDF,Chocolate Pudding,1/2,cup,Very Low,2
+Snacks and Desserts,Snacks and Desserts,"Chocolate Pudding, Instant",1/4,box or 1 oz,Low,4
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Chocolate Syrup,2,Tbs,Very High,38
+Snacks and Desserts,Candy - Harvard,"Chocolate, Dark Bar",1 1/2,oz,Very High,68
+Soups,Soups - Harvard,"Chowder, Clam, Canned, Rts",1,cup,High,14
+Cereals,General Mills,Cinnamon Toast Crunch,3/4,cup,Moderate,5
+Soups,Soups,Clam Chowder,1,cup,Very High,13
+Meats & Fish,Fish - Harvard,"Clam, Mixed Species, Cooked, Moist Heat",3,oz,Very Low,0
+Fast Food,Commercial - Ox-List,"Coating Mix, Seas1d, Shake N Bake, Original, Chicken or Pork",1/8,packet,Low,4
+Cereals,Kellogg's,Cocoa Krispies,3/4,cup,High,11
+Beverages,Beverages - Ox-List,"Cocoa or Cacao Powder, Dark Chocolate (not Dutch Process)",2,tbsp,Very High,79
+Cereals,Cold Cereal - Harvard,Cocoa Pebbles,1,cup,Moderate,9
+Ingredients,Ingredients,Cocoa Powder,4,tsp,Very High,67
+Snacks and Desserts,Sweets - Ox-List,"Cocoa Powder, Dutch Process W/alkali, Dark Chocolate",2,tbsp,High,20
+Cereals,General Mills,Cocoa Puffs,1,cup,Low,3
+Nuts and Seeds,Nuts and Seeds - Harvard,"Coconut Meat, Dried (desiccated), Sweetened, Shredded",1,tbsp,Very Low,0
+Nuts and Seeds,Nuts and Seeds - Harvard,"Coconut Meat, Raw",1/8,cup,Very Low,0
+Dairy,Dairy - Ox-List,Coconut Water,1,cup,High,17
+Meats & Fish,Fish,Cod Liver Fish Oil,1,tsp,Little or N1,0
+Ingredients,Ingredients,Cod Liver Oil,1,tsp,Little or N1,0
+Meats & Fish,Fish - Harvard,"Cod, Atlantic, Dry Heat Cooked",4,oz,Little or N1,0
+Meats & Fish,Fish,"Cod, pacific",3,oz or 1 fillet,Little or N1,0
+Meats & Fish,Fish - Harvard,"Cod, Pacific, Dry Heat Cooked",4,oz,Little or N1,0
+Beverages,Beverages,Coffee,1,cup,Very Low,1
+Dairy,Cream Products,Coffee Creamer,1,Tbs,Little or N1,0
+Beverages,Beverages,Coffee Decaff,1,cup,Very Low,2
+Beverages,Beverages - Harvard,"Coffee Drinks, Cappuccino, Latte, Mocha, Frappucino",12,oz,High,13
+Fast Food,Commercial - Ox-List,"Coffee Mate, Nestle, Any Flavor",1,tbsp,Very Low,1
+Dairy,Dairy - Ox-List,"Coffee, Black",1,cup,Very Low,2
+Beverages,Beverages - Harvard,"Coffee, Brewed",8,oz,Very Low,2
+Beverages,Beverages - Harvard,"Coffee, Prepared Instant Decaf",8,oz,Low,2
+Dairy,Dairy - Harvard,"Coffeemate, Powdered and Liquid",1,tbsp,Very Low,0
+Beverages,Beverages - Harvard,"Cola, Caffeinated",12,oz,Little or N1,0
+Vegetables,Vegetables - Harvard,Coleslaw (fast Food),1/2,cup,Low,2
+Vegetables,Vegetables - KD PDF,Collard Greens,1/2,cup cooked,Low,5
+Vegetables,Vegetables - Ox-List,"Collard, Raw, Chopped",1,cup,Moderate,6
+Vegetables,Vegetables,Collards,1,cup,High,10
+Vegetables,Vegetables - Harvard,"Collards, Boiled, Drained, Unsalted",1/2,cup,Low,5
+Vegetables,Vegetables - Ox-List,"Collards, Chopped, Boiled or Steamed",1/2,cup,High,21
+Cereals,Kellogg's,Complete Oat Bran Flakes,3/4,cup,Moderate,5
+Cereals,Kellogg's,Complete Wheat Bran,3/4,cup,Very High,34
+Ingredients,Spices - Ox-List,"Condiment, Adobo (mexican Acobo)",1,tsp,Moderate,10
+Ingredients,Spices - Ox-List,"Condiment, Chiles, Green, Chopped, Old El Paso",2,Tbsp,Low,4
+Ingredients,Spices - Ox-List,"Condiment, Chutney, Major Grey's, Crosse&blackwell",1,Tbsp,Moderate,6
+Ingredients,Spices - Ox-List,"Condiment, Seas1d Salt, Lawry's",1,tsp,Very Low,2
+Ingredients,Spices - Ox-List,"Condiment, Tabasco Pepper Sauce, Mclhenny",2,small peppers,Very Low,1
+Ingredients,Spices - Ox-List,"Condiments, Horseradish, Extra Hot, Beaver",1,tsp,Very Low,1
+Ingredients,Spices - Ox-List,"Condiments, Ketchup",1,Tbsp,Very Low,1
+Ingredients,Spices - Ox-List,"Condiments, Mayonnaise",1,Tbsp,Little or N1,0
+Ingredients,Spices - Ox-List,"Condiments, Mole Sauce (mexican), Almond",2,Tbsp,Very High,78
+Ingredients,Spices - Ox-List,"Condiments, Mole Sauce (mexican), Black",2,Tbsp,Low,4
+Ingredients,Spices - Ox-List,"Condiments, Mole Sauce (mexican), Green",2,Tbsp,Very High,47
+Ingredients,Spices - Ox-List,"Condiments, Mole Sauce (mexican), Red",2,Tbsp,Very High,103
+Ingredients,Spices - Ox-List,"Condiments, Mustard, Dijon",1,Tbsp,Very Low,1
+Ingredients,Spices - Ox-List,"Condiments, Mustard, Yellow, French's",1,Tbsp,Very Low,1
+Ingredients,Spices - Ox-List,"Condiments, Soy Sauce, Kikkoman",1,Tbsp,Very Low,1
+Ingredients,Spices - Ox-List,"Condiments, Steak Sauce, A-1, Kraft",1,Tbsp,Low,5
+Ingredients,Spices - Ox-List,"Condiments, Tahini, Made From Dry Roasted Sesame Seeds, Joyva",1,Tbsp,Very High,41
+Ingredients,Spices - Ox-List,"Condiments, Vinegar, Variety Flavors",1,Tbsp,Very Low,1
+Ingredients,Spices - Ox-List,"Condiments, Worcestershire Sauce",1,Tbsp,Low,3
+Breads & Grains,Breads and Bakery - Harvard,"Cookie, Chocolate Chip Dough",1,cookie,Moderate,6
+Breads & Grains,Breads and Bakery - Harvard,"Cookie, Commercial",1,cookie,Moderate,7
+Breads & Grains,Breads and Bakery - Harvard,"Cookie, Home Prepared Chocolate Chip",1,cookie,Moderate,6
+Fast Food,Commercial - Ox-List,"Cookies, Animal Crackers, Kinni Kritters",12,cookies,Very Low,2
+Fast Food,Commercial - Ox-List,"Cookies, Chocolate Chip",5,cookies,High,20
+Fast Food,Commercial - Ox-List,"Cookies, Fig Newton's",1,cookie,Low,5
+Fast Food,Commercial - Ox-List,"Cookies, Milano, Double Chocolate, Pepperidge Farms",2,cookies,High,22
+Fast Food,Commercial - Ox-List,"Cookies, Mint Cookies, Milano, Pepperidge Farms",2,cookies,High,11
+Fast Food,Commercial - Ox-List,"Cookies, Moravian, Variety Flavors",10,cookies,Moderate,6
+Fast Food,Commercial - Ox-List,"Cookies, Vanilla Wafers, Nabisco",8,cookies,Moderate,7
+Vegetables,Vegetables,Corn,1/2,cup,Very Low,1
+Breads & Grains,"Pastas, Rice & Grains",Corn Bran,1,cup,Little or N1,0
+Breads & Grains,Breads,Corn Bread,1,piece,Low,4
+Cereals,General Mills,Corn Chex,1,cup,Moderate,5
+Crackers and Chips,Snacks - Harvard,"Corn Chips, Tortilla",1,oz,Moderate,7
+Cereals,Kellogg's,Corn Flakes,1,cup,Very Low,1
+Breads & Grains,"Pastas, Rice & Grains",Corn Flour,1,cup,Low,3
+Cereals,Hot Cereal - Harvard,"Corn Grits, Regular Quick Enriched, Cooked with Water,no Salt",1,cup,Very High,45
+Vegetables,Vegetables - Harvard,"Corn Kernels, Sweet Yellow, Boiled, Drained, Unsalted",1/2,cup,Very Low,1
+Cereals,Kellogg's,Corn Pops,1,cup,Very Low,1
+Ingredients,Ingredients,Corn Syrup (high Fructose),1,tbs,Very Low,1
+Ingredients,Ingredients,Corn Syrup (Light),1,tbs,Little or N1,0
+Snacks and Desserts,Sweets - Ox-List,"Corn Syrup, Dark or Light",1,tbsp,Little or N1,0
+Vegetables,Vegetables - Ox-List,"Corn, Boiled or Canned",1/2,cup,Very Low,2
+Breads & Grains,Grains - Ox-List,"Corn, Cornmeal",1/4,cup,High,11
+Ingredients,Spices - Ox-List,"Corn, Cornstarch",1,Tbsp,Little or N1,0
+Breads & Grains,Grains - Ox-List,"Corn, Grits",1/2,cup,High,19
+Breads & Grains,Grains - Ox-List,"Corn, Popcorn, Popped",1,cup,Low,4
+Breads & Grains,Grains - Ox-List,"Corn, Sweet, Fresh or Canned",1/2,cup,Very Low,2
+Breads & Grains,Grains - Ox-List,"Corn, Tortilla, Yellow or White",1,item,Moderate,7
+Breakfast Items,Breakfast Items,Cornbread,1,piece,Low,4
+Breads & Grains,Breads and Bakery - Harvard,"Cornbread or Corn Muffin, Prepared",1,piece,Low,4
+Breads & Grains,Grains - KD PDF,Cornflakes,3/4,cup,Very Low,1
+Breads & Grains,Grains - KD PDF,Cornmeal,1/2,cup,Very High,32
+Ingredients,Ingredients,Cornstarch,1,cup,Low,3
+Dairy,Cheese Products,Cottage Cheese,1/2,cup,Little or N1,0
+Dairy,Cheese Products,Cottage Cheese Fat Free,1/2,cup,Very Low,1
+Cereals,General Mills,Count Chocula,1,cup,Moderate,5
+Breads & Grains,Grains - KD PDF,Couscous,1/2,cup,Moderate,8
+Breads & Grains,Pasta and Grains - Harvard,"Couscous, Cooked",1,cup,High,15
+Meats & Fish,Protein - KD PDF,Crab and Shrimp,3,oz,Little or N1,0
+Breads & Grains,Breads,Cracked Wheat Bread,1,slice,Moderate,5
+Breads & Grains,Breads and Bakery - Harvard,"Cracker, Multigrain",5,-6 crackers,Moderate,6
+Breads & Grains,Breads and Bakery - Harvard,"Cracker, Regular Refined Grain",5,-6 crackers,Moderate,5
+Fast Food,Commercial - Ox-List,"Crackers and Snack Foods, Sesame Wheat Crackers, Sesmark Sesame Thins",8,crackers,Very High,115
+Fast Food,Commercial - Ox-List,"Crackers, Buttercrisp Crackers, Keeblers",5,crackers,Low,4
+Fast Food,Commercial - Ox-List,"Crackers, Cheeze-it, Sunshine",27,crackers,Moderate,6
+Fast Food,Commercial - Ox-List,"Crackers, Chips, Toasted, Ritz, Main Street Original",1,oz,Moderate,6
+Fast Food,Commercial - Ox-List,"Crackers, Graham, Original or Cinnamon, Keeblers",8,crackers,Moderate,9
+Fast Food,Commercial - Ox-List,"Crackers, Inner Peas, Trader Joes",22,pieces,Very Low,2
+Fast Food,Commercial - Ox-List,"Crackers, Oyster",1,oz,Moderate,6
+Fast Food,Commercial - Ox-List,"Crackers, Pretzels Crisps, Snack Factory",14,crackers,Very Low,1
+Fast Food,Commercial - Ox-List,"Crackers, Pretzels, Rold Gold",1,,High,16
+Fast Food,Commercial - Ox-List,"Crackers, Rice Cakes / Thins / Snacks, Multiple Brands and Flavors",1,oz,Moderate,9
+Fast Food,Commercial - Ox-List,"Crackers, Ritz, Garlic Butter",5,crackers,Low,4
+Fast Food,Commercial - Ox-List,"Crackers, Rye, Crispbreads, Variety Flavors & Brands, Without Sesame",1,oz,High,16
+Fast Food,Commercial - Ox-List,"Crackers, Saltines, Multiple Brands",5,crackers,Low,5
+Fast Food,Commercial - Ox-List,"Crackers, Sesame Crackers, Multiple Brands",1,oz,Very High,34
+Fast Food,Commercial - Ox-List,"Crackers, Soybean Crackers",1,oz,Very High,57
+Fast Food,Commercial - Ox-List,"Crackers, St1-ground 7 Grain Crackers, Kashi",4,crackers,Very High,76
+Fast Food,Commercial - Ox-List,"Crackers, Tomato Snacks, Sun-dried, Slow Roasted",0,.5 oz,Moderate,6
+Fast Food,Commercial - Ox-List,"Crackers, Wasabi Peas, Trader Joe's",1/2,cup,Very Low,1
+Fast Food,Commercial - Ox-List,"Crackers, Wheat Crackers / Wheat Thins, Multiple Brands and Flavors",1,oz,High,13
+Breads & Grains,Breads and Bakery - Harvard,"Crackers, Whole Wheat",5,-6 crackers,High,15
+Cereals,Cold Cereal - Harvard,Cracklin Oat Bran,3/4,cup,High,12
+Cereals,Kellogg's,Cracklin' Oat Bran,3/4,cup,Very High,15
+Fruits,Fruits - KD PDF,"Cranberries, Dried",1/2,cup,Very Low,1
+Fruits,Fruits - Harvard,"Cranberries, Dried, Sweetened",1/4,cup,Very Low,0
+Fruits,Fruits - Harvard,"Cranberries, Raw",1,cup,Very Low,0
+Cereals,Post,Cranberry Almond Crunch (Morning Traditions),1,cup,Very High,35
+Fruits,Canned Fruits,Cranberry Sauce,1/2,cup,Very Low,2
+Fruits,Fruits - Harvard,"Cranberry Sauce, Canned, Sweetened",1/8,cup,Very Low,0
+Ingredients,Ingredients,Cream,1,tbs,Little or N1,0
+Dairy,Dairy Spreads,Cream Cheese,1,oz,Little or N1,0
+Dairy,Dairy Spreads,Cream Cheese Fat Free,1,oz,Very Low,1
+Ingredients,Spices - Ox-List,Cream of Tartar,1,tsp,Very Low,2
+Breakfast Items,Breakfast Items,Cream of Wheat,1,cup,Very High,18
+Cereals,Hot Cereal - Harvard,"Cream of Wheat, Quick, Cooked with Water, No Salt",1,cup,High,18
+"Spreads, Sauces & Toppings",Condiments - KD PDF,Cream Sauce,1/4,cup,Little or N1,0
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings","Cream Sauce, Homemade",1,cup,Low,3
+Ingredients,Ingredients,Cream Substitute,1,tsp,Little or N1,0
+Dairy,Dairy - Harvard,"Cream, Fluid Light",1,tbsp,Little or N1,0
+Dairy,Dairy - Harvard,"Cream, Sour",1,tbsp,Very Low,0
+Vegetables,Vegetables - Ox-List,"Creasy Greens (early Winter or American Cress), Boiled 20 Min",1/2,"cup, chopped",Low,4
+Cereals,Kellogg's,Crispix,1,cup,Very Low,1
+Breads & Grains,Breads and Bakery - Harvard,Croissants,1,,Moderate,8
+Vegetables,Vegetables,Cucumber,1/4,cucumber,Very Low,1
+Vegetables,Vegetables - Harvard,"Cucumber with Peel, Raw",1/4,cuke,Very Low,1
+Vegetables,Vegetables - Ox-List,"Cucumbers, Variety, with & Without Skin",1,"cup, sliced",Low,5
+Fruits,Fruits - Ox-List,"Currants, Black, Raw",1,cup,High,21
+Fruits,Fruits - Ox-List,"Currants, Red, Raw",1,cup,High,22
+Snacks and Desserts,Snacks and Desserts,Custard,1,cup,Very Low,1
+Vegetables,Vegetables - Ox-List,"Dandelion Greens, Red Rib, Raw or Boiled",1/2,"cup, chopped",Moderate,10
+Breakfast Items,Breakfast Items,Danish Pastry Homemade,1,pastry,Very High,14
+Breakfast Items,Breakfast Items,"Danish Pastry, Fruit Filled",1,pastry,Low,4
+Breads & Grains,Breads and Bakery - Harvard,"Danish, Cinnamon Roll or Fruit",1,,Low,3
+Fruits,Fruits - KD PDF,Dates,1,each,High,24
+Fruits,Fruits - Ox-List,"Dates, Chopped",1/4,cup,Low,4
+Beverages,Beverages - Harvard,Diet Soda No Caffeine,12,oz,Very Low,0
+Beverages,Beverages - Harvard,Diet Soda with Caffeine,12,oz,Very Low,0
+Breads & Grains,Breads and Bakery - Harvard,"Donut, Cake & Yeast, Chocolate & Plain, Frosted, Glaze, Powder",1,,Low,4
+Breakfast Items,Breakfast Items,Doughnut,1,doughnut,Moderate,5
+Fast Food,Fast Food,Doughnut,1,doughnut,Moderate,5
+Fruits,Dried Fruits,Dried Apples,1,cup or 13 rings,Very Low,2
+Fruits,Fruits - KD PDF,Dried Apples,13,rings,Very Low,2
+Fruits,Dried Fruits,Dried Apricots,1,cup of halves,Low,3
+Fruits,Fruits - KD PDF,Dried Apricots,1/2,cup,Very Low,1
+Fruits,Dried Fruits,Dried Cranberries,1/2,cup,Very Low,1
 Fruits,Dried Fruits,Dried Figs,5,pieces/fruits,Very High,24
+Fruits,Fruits - KD PDF,Dried Figs,5,each,High,24
+Fruits,Fruits - KD PDF,Dried Pineapple,1/2,cup,Very High,30
 Fruits,Dried Fruits,Dried Pineapples,1/2,cup,Very High,30
 Fruits,Dried Fruits,Dried Prunes,1/4,cup or 5 prunes,High,11
-Fruits,Dried Fruits,Dried Apples,1,cup or 13 rings,Very Low,2
-Fruits,Dried Fruits,Dried Apricots,1,cup of halves,Low,3
-Fruits,Dried Fruits,Dried Cranberries,1/2,cup,Very Low,1
-Vegetables,Vegetables,Bamboo Shoots,1,cup,Very High,35
-Vegetables,Vegetables,Beets,1/2,cup,Very High,76
-Vegetables,Vegetables,Fava Beans,1/2,cup,Very High,20
-Vegetables,Vegetables,Navy Beans,1/2,cup,Very High,76
-Vegetables,Vegetables,Okra,1/2,cup,Very High,57
-Vegetables,Vegetables,Olives,approx 10,olives,Very High,18
-Vegetables,Vegetables,Parsnip,1/2,cup,Very High,15
-Vegetables,Vegetables,Red Kidney Beans,1/2,cup,Very High,15
-Vegetables,Vegetables,Refried Beans,1/2,cup,Very High,16
-Vegetables,Vegetables,Rhubarb,1/2,cup,Very High,541
-Vegetables,Vegetables,Rutabaga,1/2,cup mashed,Very High,31
-Vegetables,Vegetables,"Spinach, cooked",1/2,cup,Very High,755
-Vegetables,Vegetables,"Spinach, raw",1,cup,Very High,656
-Vegetables,Vegetables,Tomato Sauce,1/2,cup,Very High,17
-Vegetables,Vegetables,Turnip,1/2,cup mashed,Very High,30
-Vegetables,Vegetables,Yams,1/2,"cup, cubed",Very High,40
-Vegetables,Vegetables,"Carrots, raw",1/2,lg carrot,High,10
-Vegetables,Vegetables,"Celery, Cooked",1,cup,High,10
-Vegetables,Vegetables,Collards,1,cup,High,10
-Vegetables,Vegetables,Artichokes,1,small bud,Moderate,5
-Vegetables,Vegetables,Asparagus,4,spears,Moderate,6
-Vegetables,Vegetables,"Carrots, cooked",1/2,cup sliced,Moderate,7
-Vegetables,Vegetables,Hot Chili Peppers,1/2,cup,Moderate,5
-Vegetables,Vegetables,"Mixed Vegetables, frozen",1/2,cup,Moderate,5
-Vegetables,Vegetables,"Oriental Vegetables, frozen",1/2,cup,Moderate,6
-Vegetables,Vegetables,Soybeans,1,cup,Moderate,7
-Vegetables,Vegetables,String Beans,1/2,cup,Moderate,9
-Vegetables,Vegetables,Tomato,1,med whole,Moderate,7
-Vegetables,Vegetables,Brussel Sprouts,1/2,cup frozen,Very Low,2
-Vegetables,Vegetables,"Celery, raw",1,stalk,Low,3
-Vegetables,Vegetables,Kale,1,cup chopped,Very Low,2
-Vegetables,Vegetables,Mung Beans,1/2,cup,Low,3
-Vegetables,Vegetables,Mustard Greens,1,cup chopped,Low,4
-Vegetables,Vegetables,Sea Vegetables,1,cup,Low,3
-Vegetables,Vegetables,Alfalfa Sprouts,1/2,cup,Little or None,0
-Vegetables,Vegetables,Bok Choy (Chinese Cabbage),1,"cup, raw",Very Low,1
-Vegetables,Vegetables,Broccoli,1/2,cup chopped,Very Low,1
-Vegetables,Vegetables,Cabbage,1/2,cup,Very Low,1
-Vegetables,Vegetables,Cauliflower,1/2,cup cooked,Very Low,1
-Vegetables,Vegetables,Chives,1,tsp,Little or None,0
-Vegetables,Vegetables,Corn,1/2,cup,Very Low,1
-Vegetables,Vegetables,Cucumber,1/4,cucumber,Very Low,1
-Vegetables,Vegetables,Endive,1/2,cup,Little or None,0
-Vegetables,Vegetables,Green Pepper,1,ring,Very Low,1
-Vegetables,Vegetables,Iceberg Lettuce,1,cup,Little or None,0
-Vegetables,Vegetables,Mushrooms,1,mushroom,Little or None,0
-Vegetables,Vegetables,Onions,1,small onion,Little or None,0
-Vegetables,Vegetables,Peas,1/2,cup,Very Low,1
-Vegetables,Vegetables,Pickles,1,pickle,Little or None,0
-Vegetables,Vegetables,Radish,10,count,Little or None,0
-Vegetables,Vegetables,Romaine Lettuce,1,cup,Little or None,0
-Vegetables,Vegetables,Scallions,1/2,cup,Very Low,1
-Vegetables,Vegetables,Sauerkraut,1/2,cup,Very Low,1
-Vegetables,Vegetables,Waterchestnuts,4,waterchestnuts,Little or None,0
-Vegetables,Vegetables,Yellow Squash,1/2,cup,Very Low,1
-Vegetables,Vegetables,Zucchini,1/2,cup,Very Low,1
-Vegetables,Potatoes,French Fries (homemade or fast food),4 oz or 1/2 cup,,Very High,51
-Vegetables,Potatoes,Baked Potato with Skin,1,medium,Very High,97
-Vegetables,Potatoes,Mashed Potatoes,1,cup,Very High,29
-Vegetables,Potatoes,Potato Chips,1,oz,Very High,21
-Vegetables,Potatoes,Potato Salad,1/3,cup,Very High,17
-Vegetables,Potatoes,Sweet Potatoes,1,cup,Very High,28
-Dairy,Cream Products,Homemade Cream Sauce,1,cup,Low,3
-Dairy,Cream Products,Coffee Creamer,1,Tbs,Little or None,0
-Dairy,Cream Products,Non-Dairy Creamer,1,Tbs,Little or None,0
-Dairy,Cream Products,Sour Cream,1,Tbs,Little or None,0
-Dairy,Ice Creams,Ice Cream (Vanilla),1/2,cup,Little or None,0
-Dairy,Ice Creams,Ice Cream Light,1/2,cup,Little or None,0
-Dairy,Ice Creams,Non Fat Ice Cream,1/2,cup,Little or None,0
-Dairy,Yogurt Products,Plain Yogurt,1,cup,Very Low,2
-Dairy,Yogurt Products,Yogurt with Fruit,8,oz,Very Low,1
-Dairy,Yogurt Products,Non Fat Yogurt with Fruit,8,oz,Very Low,1
-Dairy,Yogurt Products,Frozen Yogurt,1/2,cup,Very Low,1
-Dairy,Yogurt Products,Lowfat Frozen Yogurt,1/2,cup,Very Low,1
-Dairy,Cheese Products,American Cheese,1,slice,Little or None,0
-Dairy,Cheese Products,Cheddar Cheese,1,slice,Little or None,0
-Dairy,Cheese Products,Low Fat Cheese,1,slice,Little or None,0
-Dairy,Cheese Products,Cottage Cheese,1/2,cup,Little or None,0
-Dairy,Cheese Products,Low Fat Cottage Cheese,1,cup,Little or None,0
-Dairy,Cheese Products,Cottage Cheese Fat Free,1/2,cup,Very Low,1
-Dairy,Cheese Products,Mozzarella Cheese,1,oz,Little or None,0
-Dairy,Eggs,Eggs,1,medium,Little or None,0
-Dairy,Eggs,Egg Beaters,4,oz,Little or None,0
-Dairy,Dairy Spreads,Cream Cheese,1,oz,Little or None,0
-Dairy,Dairy Spreads,Cream Cheese Fat Free,1,oz,Very Low,1
-Dairy,Dairy Spreads,Low Fat Cream Cheese,1,oz,Very Low,1
-Dairy,Dairy Spreads,"Butter, Salted",1,pat,Little or None,0
-Dairy,Milk,Chocolate Milk,1,cup,Moderate,7
-Dairy,Milk,Powdered Milk,1,envelope,Low,3
-Dairy,Milk,Fat Free Milk,1,cup,Very Low,1
-Dairy,Milk,1% Milk,1,cup,Very Low,1
-Dairy,Milk,2% Milk,1,cup,Very Low,1
-Dairy,Milk,Whole Milk,1,cup,Very Low,1
-Dairy,Milk,Buttermilk,1,cup,Very Low,1
-Breads & Grains,Breads,French Toast,2,slices,Very High,13
-Breads & Grains,Breads,English Muffin Whole Wheat,1,muffin,High,12
-Breads & Grains,Breads,Pancakes (Homemade),4,cakes,High,11
-Breads & Grains,Breads,Pancakes (mix),4,cakes,High,10
-Breads & Grains,Breads,Blueberry Muffins,1,muffin,Moderate,9
-Breads & Grains,Breads,Biscuits (plain or buttermilk),1,biscuit,Moderate,6
-Breads & Grains,Breads,Bran Muffins,1,muffin,Moderate,5
-Breads & Grains,Breads,Bran Muffin Low fat,1,muffin,Moderate,5
-Breads & Grains,Breads,Cracked Wheat Bread,1,slice,Moderate,5
+Fruits,Fruits - KD PDF,Dried Prunes,5,prunes,High,11
+Dairy,Eggs,Egg Beaters,4,oz,Little or N1,0
+Dairy,Eggs - Harvard,Egg Beaters,1/4,cup,Little or N1,0
+Fast Food,Commercial - Ox-List,"Egg Replacer, Bobs Red Mill",1,tblsp,Moderate,10
+Dairy,Eggs - Harvard,"Egg, Raw Whole",1,,Little or N1,0
+Dairy,Eggs - Harvard,"Egg, Yolk, Raw, Fresh",1,,Little or N1,0
+Breakfast Items,Breakfast Items,Eggbeaters,4,oz,Little or N1,0
+Ingredients,Ingredients,Eggbeaters,4,oz,Little or N1,0
+Vegetables,Vegetables - Ox-List,"Eggplant, Raw, Boiled, Baked or Roasted",1/2,cup,High,26
+Fast Food,Fast Food,Eggroll,1,eggroll,Moderate,5
+Dairy,Eggs,Eggs,1,medium,Little or N1,0
+Breads & Grains,Grains - Ox-List,Eggs Whole and Egg White Products (e.g. Egg Beaters),1,egg equivalent,Little or N1,0
+Dairy,Eggs - Harvard,"Eggs, Omega 3 Supplemented",1,,Little or N1,0
+Fast Food,Fast Food,Enchilada with Cheese & beef,1,enchilada,Very High,13
+Fast Food,Fast Food,Enchilada with Chicken,1,enchilada,Very High,13
+Vegetables,Vegetables,Endive,1/2,cup,Little or N1,0
+Vegetables,Vegetables - Ox-List,"Endive, Belgian or Curly, Raw",1,"cup, chopped",Low,3
+Vegetables,Vegetables - Harvard,"Endive, Raw",1,cup,Very Low,0
+Beverages,Beverages - Harvard,"Energy Dark, Red Bull",8,.3 oz,Little or N1,0
+Beverages,Beverages - Harvard,"Energy Dark, Red Bull, Sugar Free, with Added Caffeine",8,.3 oz,Little or N1,0
 Breads & Grains,Breads,English Muffin,1,muffin,Moderate,8
 Breads & Grains,Breads,English Muffin Multi-Grain,1,muffin,Moderate,8
 Breads & Grains,Breads,English Muffin Wheat,1,muffin,Moderate,7
-Breads & Grains,Breads,Low Fat Muffins,1,muffin,Moderate,5
-Breads & Grains,Breads,Rye Bread,1,slice,Moderate,7
-Breads & Grains,Breads,"Tortillas, Corn",1,tortilla,Moderate,7
-Breads & Grains,Breads,"Tortillas, flour",1,tortilla,Moderate,8
-Breads & Grains,Breads,White Bread,1,slice,Moderate,5
-Breads & Grains,Breads,Wheat Bran Bread,1,slice,Moderate,7
-Breads & Grains,Breads,Whole Oat Bread,1,slice,Moderate,5
-Breads & Grains,Breads,Whole Wheat Bread,1,slice,Moderate,6
-Breads & Grains,Breads,Corn Bread,1,piece,Low,4
-Breads & Grains,Breads,Oatmeal Bread,1,piece,Low,4
-Breads & Grains,Breads,Oat Bran Muffin,1,small muffin,Low,4
-Breads & Grains,Breads,Oat Bran Bread,1,slice,Low,4
-Breads & Grains,"Pastas, Rice & Grains",All-Purpose Flour,1,cup,Very High,17
-Breads & Grains,"Pastas, Rice & Grains","Brown Rice, cooked",1,cup,Very High,24
-Breads & Grains,"Pastas, Rice & Grains",Brown Rice Flour,1,cup,Very High,65
-Breads & Grains,"Pastas, Rice & Grains",Buckwheat Groats,1,cup cooked,Very High,133
-Breads & Grains,"Pastas, Rice & Grains","Bulgur, cooked",1,cup,Very High,86
-Breads & Grains,"Pastas, Rice & Grains",Corn Grits,1,cup,Very High,97
-Breads & Grains,"Pastas, Rice & Grains",Cornmeal,1,cup,Very High,64
-Breads & Grains,"Pastas, Rice & Grains",Couscous,1,cup,Very High,15
+Breads & Grains,Breads,English Muffin Whole Wheat,1,muffin,High,12
+Breads & Grains,Grains - KD PDF,"English Muffin, White",1,each,Moderate,8
+Breads & Grains,Grains - KD PDF,"English Muffin, Whole Wheat",1,each,High,12
+Breakfast Items,Breakfast Items,English Muffins - Multi-Grain,1,muffin,Moderate,8
+Breakfast Items,Breakfast Items,English Muffins - Reg,1,muffin,Moderate,8
+Breakfast Items,Breakfast Items,English Muffins - Wheat,1,muffin,Moderate,7
+Breakfast Items,Breakfast Items,English Muffins Whole Wheat ONLY,1,muffin,High,12
+Beverages,Beverages - Harvard,Ensure Nutritional Supplement,8,oz,Very Low,2
+Beverages,Beverages - Harvard,Ensure Plus Nutrition Shake,8,oz,High,12
+Vegetables,Vegetables - Ox-List,Escarole,1,"cup, chopped",Very Low,2
+Breads & Grains,Grains - KD PDF,Farina,1,cup,High,16
+Breakfast Items,Breakfast Items,Farina Cereal,1,cup,Very High,16
+Beverages,Dairy Beverages,Fat Free Milk,1,cup,Very Low,1
+Dairy,Milk,Fat Free Milk,1,cup,Very Low,1
+Vegetables,Vegetables,Fava Beans,1/2,cup,Very High,20
+Vegetables,Vegetables - Ox-List,"Fennel, Boiled",1,bulb,High,12
+Cereals,Cold Cereal - Harvard,Fiber 1,2/3,cup,High,13
+Cereals,General Mills,Fiber 1,1/2,cup,Very High,13
+Cereals,Cold Cereal - Harvard,Fiber 1 H1y Clusters,1,cup,High,13
+Vegetables,Vegetables - Ox-List,"Fiddleheads (ostrich Ferns), Boiled for 15 Mins",1/2,cup,High,19
+Snacks and Desserts,Desserts - KD PDF,Fig Bar,1,cookie,Low,4
+Snacks and Desserts,Snacks and Desserts,Fig Bars,1,cookie,Low,4
+Fruits,Fruits - KD PDF,Figs,1,fruit,Moderate,9
+Fruits,Whole Fruits,Figs,1,medium fig,Moderate,9
+Fruits,Fruits - Harvard,"Figs, Dried",1,,Low,5
+Fruits,Fruits - Ox-List,"Figs, Dried",1,fig,Moderate,6
+Fruits,Fruits - Ox-List,"Figs, Fresh",1,medium fig,High,15
+Fruits,Fruits - Harvard,"Figs, Raw",1,,Moderate,9
+Meats & Fish,Protein - KD PDF,"Fish (Cod, Flounder, Halibut)",3,oz,Little or N1,0
+Breads & Grains,Grains - Ox-List,"Fish and Seafood, Variety",4,oz,Low,3
+Meats & Fish,Fish - Harvard,"Fish Portions/sticks, Preheated Frozen",3,oz,Moderate,5
+Ingredients,Baking - KD PDF,Flaxseed,1,tablespoon,Little or N1,0
+Nuts and Seeds,Nuts and Seeds - Harvard,"Flaxseed, Ground",1,tbsp,Very Low,0
+Meats & Fish,Fish,Flounder,3,oz,Little or N1,0
+Meats & Fish,Fish - Harvard,"Flounder & Sole, Dry Heat Cooked Flatfish",4,oz,Very Low,0
+Breads & Grains,Grains - Ox-List,"Flour, Almond Meal, Trader Joes",1/4,cup,Very High,197
+Breads & Grains,Grains - Ox-List,"Flour, Amaranth",1/4,cup,Very High,74
+Breads & Grains,Grains - Ox-List,"Flour, Baking, Gluten-free, Bob's Red Mill",1/4,cup,Moderate,7
+Breads & Grains,Grains - Ox-List,"Flour, Barley",1/4,cup,High,14
+Breads & Grains,Grains - Ox-List,"Flour, Buckwheat",1/4,cup,Very High,84
+Breads & Grains,Grains - Ox-List,"Flour, Cassava",1/4,cup,High,19
+Breads & Grains,Grains - Ox-List,"Flour, Chestnut",1/4,cup,Moderate,10
+Breads & Grains,Grains - Ox-List,"Flour, Chickpea",1/4,cup,Very Low,2
+Breads & Grains,Grains - Ox-List,"Flour, Coconut",1/4,cup,Very Low,2
+Ingredients,Baking - KD PDF,"Flour, Corn",1/2,cup,Very Low,2
+Breads & Grains,Grains - Ox-List,"Flour, Cornmeal, Yellow",1/4,cup,Moderate,10
+Breads & Grains,Grains - Ox-List,"Flour, Flaxseed Meal or Ground Flaxseed",1/4,cup,Very Low,2
+Breads & Grains,Grains - Ox-List,"Flour, Oat",1/4,cup,Moderate,8
+Breads & Grains,Grains - Ox-List,"Flour, Potato Starch, Bob's Red Mill",1/4,cup,Very Low,1
+Breads & Grains,Grains - Ox-List,"Flour, Rice, White or Brown, Ground",1/4,cup,Moderate,10
+Breads & Grains,Grains - Ox-List,"Flour, Rye",1/4,cup,High,12
+Breads & Grains,Grains - Ox-List,"Flour, Semolina",1/4,cup,High,19
+Breads & Grains,Grains - Ox-List,"Flour, Sorghum, White",1/4,cup,High,13
+Breads & Grains,Grains - Ox-List,"Flour, Soy, Arrowhead Mills",1/4,cup,High,28
+Breads & Grains,Grains - Ox-List,"Flour, Spelt",1/4,cup,High,20
+Breads & Grains,Grains - Ox-List,"Flour, Tapioca Flour",1/4,cup,Moderate,9
+Breads & Grains,Grains - Ox-List,"Flour, Teff, Brown",1/4,cup,Very High,75
+Breads & Grains,Grains - Ox-List,"Flour, Teff, Ivory",1/4,cup,Very High,66
+Breads & Grains,Grains - Ox-List,"Flour, Tigernut",1/4,cup,High,12
+Breads & Grains,Grains - Ox-List,"Flour, Wheat Gluten",1/4,cup,High,19
+Ingredients,Baking - KD PDF,"Flour, White",1/2,cup,Moderate,9
+Breads & Grains,Grains - Ox-List,"Flour, White or Whole Wheat",1/4,cup,Moderate,10
+Ingredients,Baking - KD PDF,"Flour, White Rice",1/2,cup,Moderate,6
+Ingredients,Baking - KD PDF,"Flour, Whole Grain",1/2,cup,High,15
+Breads & Grains,Grains - Ox-List,"Flour, Wild Rice",1/4,cup,Moderate,7
+Breads & Grains,Grains - Ox-List,"Four, Arrowroot Starch",1/4,cup,High,28
+Fast Food,Fast Food,French Fries,4,oz,Very High,51
+Vegetables,Vegetables - KD PDF,French Fries,1/2,cup,Very High,51
+Vegetables,Potatoes,French Fries (homemade or fast food),4,oz or 1/2 cup,Very High,51
+Vegetables,Vegetables - Harvard,"French Fries, Fast Food",6,oz,Very High,49
+Vegetables,Vegetables - Harvard,"French Fries, Sweet Potato",6,oz,Very High,37
+Breads & Grains,Breads,French Toast,2,slices,Very High,13
+Breakfast Items,Breakfast Items,French Toast,2,slices,Very High,13
+Breads & Grains,Breads and Bakery - Harvard,"French Toast, Homemade , with 2% Milk",2,slices,High,12
+Fast Food,Commercial - Ox-List,"Fries, French (multiple Fast-food Restaurants)",1,small serving,Very High,30
+Cereals,Cold Cereal - Harvard,Froot Loops,1 1/3,cup,Low,4
+Cereals,Kellogg's,Froot Loops,1,cup,Very Low,2
+Cereals,General Mills,Frosted Cheerios,1,cup,Moderate,6
+Cereals,Cold Cereal - Harvard,Frosted Flakes,1,cup,Very Low,1
+Cereals,Kellogg's,Frosted Flakes,3/4,cup,Very Low,1
+Cereals,Kellogg's,Frosted Mini-Wheats,1,cup,Very High,28
+Cereals,Cold Cereal - Harvard,Frosted Miniwheats,25,biscuits,Very High,33
+Meats & Fish,Fish,Frozen Fish Sticks,2,sticks,Low,3
+Vegetables,Vegetables - Harvard,"Frozen French Fries, Prepared",6,oz,Very High,37
+Fast Food,Commercial - Ox-List,"Frozen Meals, Lean Cuisine, Stouffers, All Chicken Entrees",1,meal,Very High,55
+Dairy,Yogurt Products,Frozen Yogurt,1/2,cup,Very Low,1
+Cereals,Post,"Fruit & Fiber Dates, Raisins & Walnuts",1,cup,Very High,41
+Fruits,Canned Fruits,Fruit Cocktail,1/2,cup,Very Low,1
+Fruits,Fruits - Ox-List,"Fruit Cocktail, Drained",1/2,cup,Moderate,6
+Fast Food,Commercial - Ox-List,"Fruit Pectin, Sure-jell",1,tsp,Little or N1,0
+Snacks and Desserts,Desserts - KD PDF,Fruit Roll Up,1,roll,Very Low,2
+Crackers and Chips,Crackers and Chips,Fruit Roll-Ups,1,roll,Very Low,2
+Beverages,Beverages - Harvard,Fruit Smoothie,16,oz,Moderate,9
+Cereals,Post,Fruity Pebbles,3/4,cup,Very Low,2
+Snacks and Desserts,Sweets - Ox-List,"Fudge Brownie Mix, Mix Only",1,brownie (2 in. sq),High,21
+Snacks and Desserts,Snacks and Desserts,Fudge Sauce,2,Tbs,Very High,28
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Fudge Sauce,2,Tbs,Very High,28
+Ingredients,Ingredients,Garlic Powder,1,tsp,Little or N1,0
+Vegetables,Vegetables - Harvard,"Garlic, Cooked",1,clove,Very Low,0
+Vegetables,Vegetables - Harvard,"Garlic, Powder",4,shakes,Very Low,0
+Vegetables,Vegetables - Harvard,"Garlic, Raw",1,clove,Very Low,0
+Beverages,Beverages,Gatorade,1,cup,Little or N1,0
+Beverages,Beverages - Harvard,"Gatorade Drink, Fruit Flavored",12,oz,Little or N1,0
+Ingredients,Ingredients,Gelatin,1,tbs,Little or N1,0
+Fast Food,Commercial - Ox-List,"Gelatin, Jell-o, Any Flavor, Regular or Sugar Free",1/2,cup prepared,Very Low,2
+Ingredients,Spices - Ox-List,"Gelatin, Unflavored, Knox",1,tsp,Little or N1,0
+Cereals,General Mills,Golden Grahams,3/4,cup,Moderate,9
+Vegetables,Vegetables - Ox-List,"Good King Henry, Stems, Buds or Leaves, Boiled",1/2,cup,Very High,110
+Vegetables,Vegetables - Ox-List,"Good King Henry, Stems, Buds or Leaves, Raw",1/2,cup,Very High,228
+Snacks and Desserts,Desserts - KD PDF,Graham Cracker,1,sheet,Very Low,2
+Crackers and Chips,Crackers and Chips,Graham Crackers,1,large rectangle,Very Low,2
+Breads & Grains,Grains - Ox-List,"Grain, Amaranth, Uncooked",1/4,cup,Very High,73
+Breads & Grains,Grains - Ox-List,"Grain, Barley, Pearl, Boiled",1/2,cup,Moderate,9
+Breads & Grains,Grains - Ox-List,"Grain, Bran, Rice",1/4,cup,Very High,60
+Breads & Grains,Grains - Ox-List,"Grain, Bran, Wheat",1/4,up,Very High,30
+Breads & Grains,Grains - Ox-List,"Grain, Farro, Uncooked",1/4,cup dry,Low,5
+Breads & Grains,Grains - Ox-List,"Grain, Oat Bran, Manna Mills",1/4,cup,High,22
+Breads & Grains,Grains - Ox-List,"Grain, Polenta, Organic, De La Estancia",1/4,cup,Low,3
+Breads & Grains,Grains - Ox-List,"Grain, Quinoa, Boiled 30 Min",1/4,cup dry,High,20
+Breads & Grains,Grains - Ox-List,"Grain, Quinoa, Cooked",1/2,"cup, cooked",Very High,55
+Breads & Grains,Grains - Ox-List,"Grain, Seitan Wheat Gluten",1,piece,High,15
+Breads & Grains,Grains - Ox-List,"Grain, Wheat Germ",1/4,cup,High,24
+Breads & Grains,Grains - Ox-List,"Grain, Wheat, Bulgar",1/4,cup dry,High,17
+Breads & Grains,Grains - Ox-List,"Grains, Millet, Boiled 30 Min",1/2,cup,Moderate,6
+Breads & Grains,Grains - Ox-List,"Grains, Millet, Dry, Uncooked",1/4,cup,Moderate,10
+Breads & Grains,Grains - Ox-List,"Grains, Rice, Black, Cooked 30 Mins",1/2,cup,Moderate,9
+Breads & Grains,Grains - Ox-List,"Grains, Sorghum, Cooked 70 Mins",1/2,cup,Moderate,7
+Breads & Grains,Grains - Ox-List,"Grains, Wheat Berries, Simmered for 90 Mins",1/2,cup,High,18
+Breads & Grains,Grains - KD PDF,Granola,1,cup,High,20
+Breakfast Items,Breakfast Items,Granola Bars Low Fat,1,oz uncoated,Very Low,2
+Breakfast Items,Breakfast Items,Granola Bars- Hard & Plain,1,bar,Very Low,1
+Beverages,Beverages,Grape Juice,8,oz,Very Low,1
+Beverages,Beverages - KD PDF,Grape Juice,1,cup,Very Low,1
+Vegetables,Vegetables - Ox-List,"Grape Leaves, Canned, in Vinegar Brine, Krinos",1,leaf,Moderate,7
+Cereals,Post,Grape Nuts,1/2,cup,Very High,14
+Cereals,Post,Grape Nuts Flakes,3/4,cup,Moderate,7
+Cereals,Cold Cereal - Harvard,Grape-nuts,1/2,cup,High,14
+Fruits,Whole Fruits,Grapefruit,1/2,fruit,Very High,12
+Beverages,Beverages,Grapefruit Juice,8,oz,Little or N1,0
+Beverages,Beverages - KD PDF,Grapefruit Juice,1,cup,Little or N1,0
+Fruits,Fruits - Harvard,"Grapefruit, Raw",1/2,medium,High,13
+Fruits,Fruits - Ox-List,"Grapefruit, White and Pink",1/2,"grapefruit, 3 1/4 in diameter",High,13
+Fruits,Fruits - KD PDF,Grapes,1,cup,Very Low,2
+Fruits,Whole Fruits,Grapes,1/2,cup or 16 seedless grapes,Very Low,1
+Fruits,Fruits - Ox-List,"Grapes, Dried, Red or Green, Raisins",1/4,cup,Moderate,6
+Fruits,Fruits - Ox-List,"Grapes, Green or Red",1,cup,Low,3
+Fruits,Fruits - Harvard,"Grapes, Red or Green Seedless",1/2,cup,Very Low,1
+"Spreads, Sauces & Toppings",Condiments - KD PDF,Gravy,1/4,cup,Very Low,1
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Gravy,1,cup,Low,4
+Cereals,Cold Cereal - Harvard,Great Grains Cranberry Almond Crunch,1,cup,High,28
+Cereals,Post,Great Grains Crunch Pecan,2/3,cup,Very High,18
+Cereals,Cold Cereal - Harvard,Great Grains Crunchy Pecan,3/4,cup,High,23
+Cereals,Post,"Great Grains Raisin, Dates & Pecans",2/3,cup,Very High,17
+Cereals,Cold Cereal - Harvard,"Great Grains, Raisin, Date & Pecan",3/4,cup,High,19
+Vegetables,Vegetables - KD PDF,Green Beans,1/2,cup,Moderate,9
+Vegetables,Vegetables - Harvard,"Green Beans, Boiled, Drained, Unsalted",1/2,cup,High,14
+Vegetables,Vegetables,Green Pepper,1,ring,Very Low,1
+Vegetables,Vegetables - KD PDF,Green Pepper,1/2,cup,Low,5
+Vegetables,Vegetables - Ox-List,"Greens Turnip, Boiled 6 Min",1/2,"cup, chopped",Low,5
+Vegetables,Vegetables - Ox-List,"Greens, Pea",1/2,cup,High,19
+Fast Food,Fast Food,Grilled Cheese Sandwich,1,sandwich,High,12
+Meats & Fish,Meat & Meat Alternatives,Ground Beef,3,oz,Little or N1,0
+Fruits,Fruits - Ox-List,Guava,1,medium,Very High,83
+Ingredients,Ingredients,H1y,1,tbs,Little or N1,0
+Cereals,Post,H1y Bunches of Oats H1y Roasted,3/4,cup,Low,3
+Cereals,Cold Cereal - Harvard,H1y Bunches of Oats with Almonds,1,cup,Moderate,7
+Cereals,Post,H1y Bunches of Oats with Almonds,3/4,cup,Very Low,2
+Cereals,Cold Cereal - Harvard,"H1y Bunches of Oats, H1y Roasted",1,cup,Low,4
+Cereals,Kellogg's,H1y Crunch Corn Flakes,3/4,cup,Low,3
+Cereals,General Mills,H1y Nut Cheerios,1,cup,Moderate,7
+Cereals,General Mills,H1y Nut Clusters,1,cup,Very High,23
+Cereals,Quaker,H1y Nut Oats,1,oz,Moderate,7
+Snacks and Desserts,Sweets - Ox-List,"H1y, Clover, Madhava Mountain Gold",1,tbsp,Very Low,1
+Cereals,Post,H1ycomb,1 1/3,cup,Very Low,1
+Fruits,Whole Fruits,H1ydew Melon,1,cup,Very Low,1
+Meats & Fish,Fish,Haddock,3,oz,Little or N1,0
+Meats & Fish,Fish - Harvard,"Haddock, Dry Heat Cooked",4,oz,Very Low,0
+Meats & Fish,Fish,Halibut,3,oz,Little or N1,0
+Meats & Fish,Fish - Harvard,"Halibut, Dry Heat Cooked",4,oz,Very Low,0
+Meats & Fish,Meat & Meat Alternatives,Ham,3,oz,Little or N1,0
+Meats & Fish,Meat - Harvard,"Ham, Canned",5,oz,Very Low,1
+Cereals,General Mills,Harmony,1 1/4,cup,High,11
+Cereals,Kellogg's,Healthy Choice Multi-Grain Flakes,3/4,cup,Moderate,7
+Cereals,Other Cereal Brands,Healthy Valley Oat Bran Flakes,1,cup,Little or N1,0
+Vegetables,Vegetables - Ox-List,"Hearts of Palm, Whole, Haddon House",1/2,cup,Very High,30
+Ingredients,Spices - Ox-List,"Herbs and Spices Lemon Myrtle, Dried, Ground",1,tsp,Very High,49
+Ingredients,Spices - Ox-List,"Herbs and Spices Mountain Pepper Berry, Dried, Whole",1,tsp,Very Low,2
+Ingredients,Spices - Ox-List,"Herbs and Spices Mountain Pepper Leaf, Dried, Ground",1,tsp,Very Low,1
+Ingredients,Spices - Ox-List,"Herbs and Spices, Allspice, Mccormick",1,tsp,High,20
+Ingredients,Spices - Ox-List,"Herbs and Spices, Almond Extract, Mccormick",1,tsp,Little or N1,0
+Ingredients,Spices - Ox-List,"Herbs and Spices, Anise, Mccormick",1,tsp,High,20
+Ingredients,Spices - Ox-List,"Herbs and Spices, Basil, Fresh",1,tsp,Low,3
+Ingredients,Spices - Ox-List,"Herbs and Spices, Basil, Sweet, Fresh",1/4,"cup, whole",Moderate,10
+Ingredients,Spices - Ox-List,"Herbs and Spices, Capers, Mezzetta",1,Tbsp,Very Low,1
+Ingredients,Spices - Ox-List,"Herbs and Spices, Cardamom, Ground, Mccormick",1,tsp,Moderate,6
+Ingredients,Spices - Ox-List,"Herbs and Spices, Celery Seeds, Dried, Mccormick",1,tsp,Very High,32
+Ingredients,Spices - Ox-List,"Herbs and Spices, Chili Powder, Mccormick",1,tsp,Moderate,8
+Ingredients,Spices - Ox-List,"Herbs and Spices, Chili, Whole, Green, Fire Roasted, Ortega",1,chili,Moderate,8
+Ingredients,Spices - Ox-List,"Herbs and Spices, Chipolte Chili, Mexican Whole",1,tsp,Low,3
+Ingredients,Spices - Ox-List,"Herbs and Spices, Chives, Fresh",1/4,"cup, chopped",Very Low,1
+Ingredients,Spices - Ox-List,"Herbs and Spices, Cilantro, Fresh",1/4,cup,Very Low,1
+Ingredients,Spices - Ox-List,"Herbs and Spices, Cinnamon, Ground",1,tsp,High,25
+Ingredients,Spices - Ox-List,"Herbs and Spices, Cloves, Dried, Ground",1,tsp,Very High,42
+Ingredients,Spices - Ox-List,"Herbs and Spices, Coriander Seed, Dried",1,tsp,High,19
+Ingredients,Spices - Ox-List,"Herbs and Spices, Cress",1,tsp,Little or N1,0
+Ingredients,Spices - Ox-List,"Herbs and Spices, Cumin Seed",1,tsp,High,23
+Ingredients,Spices - Ox-List,"Herbs and Spices, Cumin, Ground",1,tsp,High,21
+Ingredients,Spices - Ox-List,"Herbs and Spices, Curry Powder",1,tsp,High,19
+Ingredients,Spices - Ox-List,"Herbs and Spices, Dill, Fresh",1,tsp,Low,3
+Ingredients,Spices - Ox-List,"Herbs and Spices, Fennel Seed, Dried, Mccormick",1,tsp,High,23
+Ingredients,Spices - Ox-List,"Herbs and Spices, Garlic Powder",1,tsp,Very Low,1
+Ingredients,Spices - Ox-List,"Herbs and Spices, Ginger, Crystallized, Ground",1,tsp,Very Low,1
+Ingredients,Spices - Ox-List,"Herbs and Spices, Ginger, Fresh",1,"tsp, sliced",Low,3
+Ingredients,Spices - Ox-List,"Herbs and Spices, Ginger, Ground",1,tsp,High,17
+Ingredients,Spices - Ox-List,"Herbs and Spices, Italian Seasoning, Dried",1,tsp,Low,5
+Ingredients,Spices - Ox-List,"Herbs and Spices, Lemon Balm, Leaves",1/4,cup,Low,5
+Ingredients,Spices - Ox-List,"Herbs and Spices, Lemon Extract, Pure",1,tsp,Little or N1,0
+Ingredients,Spices - Ox-List,"Herbs and Spices, Lemon Peel",1,tsp,High,13
+Ingredients,Spices - Ox-List,"Herbs and Spices, Mace, Ground",1,tsp,Very Low,1
+Ingredients,Spices - Ox-List,"Herbs and Spices, Maple Flavoring, Imitation",1,tsp,Little or N1,0
+Ingredients,Spices - Ox-List,"Herbs and Spices, Marjoram",1,tsp,Very Low,2
+Ingredients,Spices - Ox-List,"Herbs and Spices, Mesquite Seasoning, Dried, Ground",1,tsp,Low,4
+Ingredients,Spices - Ox-List,"Herbs and Spices, Mustard, English, Powdered, Colman's",1,tsp,Little or N1,0
+Ingredients,Spices - Ox-List,"Herbs and Spices, Nutmeg, Ground",1,tsp,Low,5
+Ingredients,Spices - Ox-List,"Herbs and Spices, Onion Powder",1,tsp,Very Low,2
+Ingredients,Spices - Ox-List,"Herbs and Spices, Orange Extract, Pure",1,tsp,Little or N1,0
+Ingredients,Spices - Ox-List,"Herbs and Spices, Orange Peel",1,tsp,High,13
+Ingredients,Spices - Ox-List,"Herbs and Spices, Oregano, Ground",1,tsp,Moderate,8
+Ingredients,Spices - Ox-List,"Herbs and Spices, Paprika",1,tsp,Moderate,6
+Ingredients,Spices - Ox-List,"Herbs and Spices, Parsley, Dried",1,tsp,Low,3
+Ingredients,Spices - Ox-List,"Herbs and Spices, Parsley, Raw, Leaves Only",1,Tbsp,Low,4
+Ingredients,Spices - Ox-List,"Herbs and Spices, Pasilla Chili, Whole",1,tsp,Very Low,2
+Ingredients,Spices - Ox-List,"Herbs and Spices, Pepper, Ground, Black",1,tsp,High,12
+Ingredients,Spices - Ox-List,"Herbs and Spices, Pepper, Red, Cayenne",1,tsp,Moderate,6
+Ingredients,Spices - Ox-List,"Herbs and Spices, Pepper, Red, Cayenne, Dried",5,peppers,Low,3
+Ingredients,Spices - Ox-List,"Herbs and Spices, Pepper, Red, Crushed",1,tsp,Very Low,2
+Ingredients,Spices - Ox-List,"Herbs and Spices, Pepper, White",1,tsp,Very Low,1
+Ingredients,Spices - Ox-List,"Herbs and Spices, Peppermint Leaves",2,leaves,Little or N1,0
+Ingredients,Spices - Ox-List,"Herbs and Spices, Poultry Seasoning, Dried, Ground",1,tsp,Moderate,7
+Ingredients,Spices - Ox-List,"Herbs and Spices, Rosemary, Dried",1,tsp,Very Low,2
+Ingredients,Spices - Ox-List,"Herbs and Spices, Rosemary, Fresh",1,Tbsp,Low,4
+Ingredients,Spices - Ox-List,"Herbs and Spices, Saffron, Mccormick",1,tsp,Very Low,2
+Ingredients,Spices - Ox-List,"Herbs and Spices, Sage, Dried, Ground, Mccormick",1,tsp,Low,4
+Ingredients,Spices - Ox-List,"Herbs and Spices, Sage, Leaves",1,tsp,Very Low,1
+Ingredients,Spices - Ox-List,"Herbs and Spices, Savory, Fresh",1,tsp,Very Low,1
+Ingredients,Spices - Ox-List,"Herbs and Spices, Savory, Ground, Mccormick",1,tsp,Moderate,8
+Ingredients,Spices - Ox-List,"Herbs and Spices, Seasoning Blend, Mrs. Dash",1,tsp,Very Low,2
+Ingredients,Spices - Ox-List,"Herbs and Spices, Tarragon, Ground",1,tsp,Very Low,2
+Ingredients,Spices - Ox-List,"Herbs and Spices, Tarragon, Leaves, Mccormick",1,tsp,Very Low,2
+Ingredients,Spices - Ox-List,"Herbs and Spices, Thyme, Dried",1,tsp,Low,3
+Ingredients,Spices - Ox-List,"Herbs and Spices, Tree Chili (chile De Arbol Peppers), Whole",1,tsp,Very Low,1
+Ingredients,Spices - Ox-List,"Herbs and Spices, Turmeric",1,tsp,Very High,46
+Ingredients,Spices - Ox-List,"Herbs and Spices, Vanilla Extract, Imitation",1,tsp,Little or N1,0
+Ingredients,Spices - Ox-List,"Herbs and Spices, Vanilla Extract, Pure,",1,tsp,Very Low,1
+Meats & Fish,Fish,Herring (Atlantic & Pacific),3,oz,Very Low,1
+Meats & Fish,Fish - Harvard,"Herring, Atlantic, Dry Heat Cooked",4,oz,Very Low,1
+Dairy,Cream Products,Homemade Cream Sauce,1,cup,Low,3
+"Spreads, Sauces & Toppings",Condiments - KD PDF,Horseradish,1,tablespoon,Little or N1,0
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Horseradish,1,Tbs,Little or N1,0
+Vegetables,Vegetables,Hot Chili Peppers,1/2,cup,Moderate,5
+Beverages,Beverages - KD PDF,Hot Chocolate,1,cup,Very High,65
+Beverages,Beverages,Hot Chocolate (homemade),1,cup,Very High,65
+Snacks and Desserts,Sweets - Ox-List,"Hot Chocolate, Dark Chocolate Mix",3,tbsp,Very High,66
+Snacks and Desserts,Sweets - Ox-List,"Hot Chocolate, Milk Chocolate or French Vanilla Mix",3,tbsp,Low,5
+Fast Food,Fast Food,Hot Dog with Bun,1,dog with bun,Moderate,9
+Meats & Fish,Meat & Meat Alternatives,Hot Dogs,1,dog,Very Low,1
+Vegetables,Vegetables - KD PDF,Hot Peppers,1/2,cup,Low,5
+Vegetables,Vegetables - Ox-List,Huazontle (aztec Broccoli),1/2,cup,Very High,263
+Breads & Grains,"Pastas, Rice & Grains",Hummus,1,Tbs,Low,4
+"Spreads, Sauces & Toppings",Condiments - KD PDF,Hummus,2,tablespoons,Moderate,8
+Vegetables,Beans and Lentils - Harvard,"Hummus, Commercial",1/4,cup,Very High,39
+Snacks and Desserts,Desserts - KD PDF,Ice Cream,1/2,cup,Little or N1,0
+Dairy,Ice Creams,Ice Cream (Vanilla),1/2,cup,Little or N1,0
+Fast Food,Commercial - Ox-List,"Ice Cream Bar, Original, Klondike",1,bar,Moderate,9
+Dairy,Ice Creams,Ice Cream Light,1/2,cup,Little or N1,0
+Dairy,Dairy - Harvard,"Ice Cream, Light Vanilla",1,cup,Very Low,1
+Dairy,Dairy - Harvard,"Ice Cream, Vanilla",1,cup,Very Low,1
+Vegetables,Vegetables,Iceberg Lettuce,1,cup,Little or N1,0
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Italian Salad Dressing,1,Tbs,Little or N1,0
+"Spreads, Sauces & Toppings",Condiments - KD PDF,Jam or Jelly,1,tablespoon,Very Low,1
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Jam/Jelly,1,Tbs,Very Low,1
+Ingredients,Sugars - Harvard,Jams and Preserves,1,tbsp,Very Low,0
+Crackers and Chips,Snacks - Harvard,"Jell-o Chocolate Pudding Snacks, Ready to Eat",1,snack cup,High,14
+Crackers and Chips,Snacks - Harvard,"Jell-o Vanilla Pudding Snacks, Rte",1,snack cup,Very Low,0
+Snacks and Desserts,Sweets - Ox-List,"Jellies, Jams or Preserves, Apricot",1,tbsp,Very Low,2
+Snacks and Desserts,Sweets - Ox-List,"Jellies, Jams or Preserves, Blueberry",1,tbsp,Very Low,1
+Snacks and Desserts,Sweets - Ox-List,"Jellies, Jams or Preserves, Fig, Jillies Jams",1,tbsp,Very Low,2
+Snacks and Desserts,Sweets - Ox-List,"Jellies, Jams or Preserves, Gooseberry Preserves Swiss Hero",1,tbsp,Moderate,6
+Snacks and Desserts,Sweets - Ox-List,"Jellies, Jams or Preserves, Grape, Concord",1,tbsp,Very Low,2
+Snacks and Desserts,Sweets - Ox-List,"Jellies, Jams or Preserves, Orange Marmalade",1,tbsp,Moderate,10
+Snacks and Desserts,Sweets - Ox-List,"Jellies, Jams or Preserves, Red Plum",1,tbsp,Very Low,2
+Snacks and Desserts,Sweets - Ox-List,"Jellies, Jams or Preserves, Strawberry",1,tbsp,Very Low,2
+Snacks and Desserts,Sweets - Ox-List,"Jellies, Jams, or Preserves, Lingonberry Syrup",1,tbsp,Little or N1,0
+Snacks and Desserts,Snacks and Desserts,Jello,1,cup,Very Low,1
+Crackers and Chips,Snacks - Harvard,"Jello, Prepared From Packet, Water Added",1/2,cup,Very Low,0
+Vegetables,Vegetables - Ox-List,"Jicama, Peeled, Raw",1,"cup, sliced",High,13
+Beverages,Beverages - Ox-List,"Juice, Apple",1,cup,Very Low,1
+Beverages,Beverages - Harvard,"Juice, Apple, Unsweetened",7,oz,Very Low,2
+Beverages,Beverages - Harvard,"Juice, Apricot",8,oz,Very Low,0
+Beverages,Beverages - Ox-List,"Juice, Apricot",1,cup,Low,5
+Beverages,Beverages - Ox-List,"Juice, Apricot Nectar",1,cup,High,11
+Dairy,Dairy - Ox-List,"Juice, Beetroot",1,cup,Very High,164
+Dairy,Dairy - Ox-List,"Juice, Bitter Gourd/bitter Melon",1,cup,Very High,68
+Beverages,Beverages - Ox-List,"Juice, Black Currant",1,cup,Low,3
+Beverages,Beverages - Ox-List,"Juice, Carrot",1,cup,High,23
+Beverages,Beverages - Harvard,"Juice, Carrot, Canned",1,cup,High,28
+Beverages,Beverages - Ox-List,"Juice, Cherry",1,cup,Low,3
+Beverages,Beverages - Harvard,"Juice, Citrus Fruit From Frozen Concentrate, Water Added",12,oz,Low,4
+Beverages,Beverages - Ox-List,"Juice, Cranberry",1,cup,Low,3
+Beverages,Beverages - Harvard,"Juice, Cranberry Cocktail Bottled",6,oz,Very Low,2
+Beverages,Beverages - Harvard,"Juice, Grape, Canned or Bottled, Unsweetened, with Added Vitamin C & Calcium",6,oz,Low,2
+Beverages,Beverages - Ox-List,"Juice, Grape, Green",1,cup,Low,3
+Beverages,Beverages - Ox-List,"Juice, Grape, Red",1,cup,Low,5
+Beverages,Beverages - Harvard,"Juice, Grapefruit",6,oz,Low,2
+Beverages,Beverages - Ox-List,"Juice, Grapefruit",1,cup,Little or N1,0
+Beverages,Beverages - Ox-List,"Juice, Lemon",1,cup,Very Low,1
+Beverages,Beverages - Harvard,"Juice, Lemon, Raw",1,tbsp,Very Low,1
+Beverages,Beverages - Ox-List,"Juice, Lime",1,cup,Low,4
+Beverages,Beverages - Harvard,"Juice, Mango",1,cup,Very Low,1
+Dairy,Dairy - Ox-List,"Juice, Nectar, Rhubarb",1,cup,Very High,496
+Beverages,Beverages - Harvard,"Juice, Orange , Chilled, Included From Concentrate, with Added Calcium & Vitamin D",6,oz,Very Low,1
+Beverages,Beverages - Ox-List,"Juice, Orange, (with/without Pulp)",1,cup,Very Low,1
+Beverages,Beverages - Harvard,"Juice, Orange, Unsweetened Frozen, Prepared with Water",6,oz,Very Low,1
+Beverages,Beverages - Ox-List,"Juice, Pineapple",1,cup,Very Low,2
+Beverages,Beverages - Harvard,"Juice, Pineapple, Canned, Unsweetened",6,oz,Very Low,2
+Beverages,Beverages - Ox-List,"Juice, Plum",1,cup,Moderate,9
+Beverages,Beverages - Harvard,"Juice, Pomegranate",6,oz,Very Low,1
+Beverages,Beverages - Ox-List,"Juice, Pomegranate",1,cup,Moderate,8
+Beverages,Beverages - Ox-List,"Juice, Red Currant",1,cup,Very Low,2
+Dairy,Dairy - Ox-List,"Juice, Star Fruit, Sour (homemade)",1,cup,Very High,1990
+Dairy,Dairy - Ox-List,"Juice, Star Fruit, Sweet (homemade)",1,cup,Very High,485
+Beverages,Beverages - Ox-List,"Juice, Tomato",1,cup,High,12
+Beverages,Beverages - Harvard,"Juice, Tomato, Canned, Salted",6,oz,High,11
+Beverages,Beverages - Ox-List,"Juice, Vegetable, (tomato, Carrot, Celery, Beets)",1,cup,High,23
+Beverages,Beverages - Harvard,"Juice, Vegetable, Canned",6,oz,High,14
+Cereals,Kellogg's,Just Right Fruit & Nut,1,cup,Very High,13
+Cereals,Other Cereal Brands,Just Right with Crunchy Nuggets,1,cup,Moderate,5
+Vegetables,Vegetables,Kale,1,cup chopped,Very Low,2
+Vegetables,Vegetables - Harvard,"Kale, Boiled, Drained, Unsalted",1/2,cup,Very Low,1
+Vegetables,Vegetables - Harvard,"Kale, Raw",1,cup,Very Low,1
+Vegetables,Vegetables - Ox-List,"Kale, Variety, Boiled, Simmered or Steamed",1/2,cup cooked,Low,3
+Vegetables,Vegetables - Ox-List,"Kale, Variety, Raw",1,cup,Low,3
+Cereals,Cold Cereal - Harvard,Kashi Autumn Wheat,32,biscuits,Very High,33
+Cereals,Cold Cereal - Harvard,Kashi Go,3/4,cup,High,11
+Cereals,Kellogg's,Kashi Go Lean,3/4,cup,Very High,14
+Breakfast Items,Breakfast Items,Kashi Go Lean Bar,1,bar,Low,3
+Cereals,Kellogg's,Kashi Good Friends,3/4,cup,High,10
+Cereals,Cold Cereal - Harvard,Kashi Heart to Heart,1,cup,Moderate,7
+Cereals,Kellogg's,Kashi Heart to Heart,3/4,cup,Moderate,8
+"Spreads, Sauces & Toppings",Condiments - KD PDF,Ketchup,1,packet,Very Low,1
+Vegetables,Vegetables - KD PDF,Kidney Beans,1/2,cup,High,15
+Fruits,Whole Fruits,Kiwi,1,fruit,Very High,16
+Fruits,Fruits - Ox-List,"Kiwi, Fresh, Raw",1,medium w/out skin,High,27
+Cereals,General Mills,Kix,1 1/3,cup,Very Low,2
+Vegetables,Vegetables - Ox-List,Kohlrabi,1,cup sliced,Very Low,1
+Beverages,Beverages,Kool-Aid,1,cup,Very Low,1
+Cereals,Cold Cereal - Harvard,"Krave, Chocolate",1,cup,High,15
+Fruits,Fruits - Ox-List,Kumquat,1,kumquat,Very Low,1
+Ingredients,Ingredients,Lard,1,tsp,Little or N1,0
 Breads & Grains,"Pastas, Rice & Grains",Lasagna,1,serving,Very High,23
+Fast Food,Fast Food,Lasagna with meat,1,serving,Very High,23
+Meats & Fish,Meat & Meat Alternatives,Lean Hamburg (75%),3,oz,Little or N1,0
+Meats & Fish,Meat & Meat Alternatives,Lean Hamburg (85%),3,oz,Little or N1,0
+Meats & Fish,Meat & Meat Alternatives,Lean Hamburg (90%),3,oz,Very Low,1
+Dairy,Dairy - Ox-List,"Lecithin, Liquid, Unbleached",1,tbsp,Very Low,1
+Vegetables,Vegetables - Ox-List,"Leeks, Raw",1,cup,High,15
+Breads & Grains,Grains - Ox-List,"Legumes, Beans, Anasazi, Dried & Boiled or Canned",1/2,cup,Very High,47
+Breads & Grains,Grains - Ox-List,"Legumes, Beans, Black or Turtle, Dried, Boiled",1/2,cup,Very High,51
+Breads & Grains,Grains - Ox-List,"Legumes, Beans, Blue, Boiled",1/2,cup,High,15
+Breads & Grains,Grains - Ox-List,"Legumes, Beans, Butter, Boiled",1/2,cup,Very Low,2
+Breads & Grains,Grains - Ox-List,"Legumes, Beans, Cannellini",1/2,cup,Very High,79
+Breads & Grains,Grains - Ox-List,"Legumes, Beans, Fava",1/2,cup,High,18
+Breads & Grains,Grains - Ox-List,"Legumes, Beans, Flor De Mayo",1/2,cup,Very High,96
+Breads & Grains,Grains - Ox-List,"Legumes, Beans, Garbanzo or Chickpeas, Dried & Boiled or Canned",1/2,cup,Moderate,9
+Breads & Grains,Grains - Ox-List,"Legumes, Beans, Great Northern, Dried, Boiled",1/2,cup,Very High,67
+Breads & Grains,Grains - Ox-List,"Legumes, Beans, Kidney, Red, Dried & Boiled or Canned",1/2,cup,High,22
+Breads & Grains,Grains - Ox-List,"Legumes, Beans, Lima, Dried & Boiled or Canned",1/2,cup,Low,3
+Meats & Fish,Protein - Ox-List,"Legumes, Beans, Mung, Dried, Boiled",1/2,cup,Low,5
+Meats & Fish,Protein - Ox-List,"Legumes, Beans, Navy, Dried & Boiled or Canned",1/2,cup,Very High,53
+Meats & Fish,Protein - Ox-List,"Legumes, Beans, October, Boiled",1/2,cup,High,24
+Meats & Fish,Protein - Ox-List,"Legumes, Beans, Pink, Dried, Boiled",1/2,cup,Very High,64
+Meats & Fish,Protein - Ox-List,"Legumes, Beans, Pinto, Dried, Boiled",1/2,cup,High,29
+Meats & Fish,Protein - Ox-List,"Legumes, Beans, Red, Chili, Small, Dried, Boiled",1/2,cup,High,29
+Meats & Fish,Protein - Ox-List,"Legumes, Beans, Red, Small, Dried, Boiled",1/2,cup,High,28
+Meats & Fish,Protein - Ox-List,"Legumes, Beans, Soy, Dried, Boiled",1/2,cup,Very High,39
+Meats & Fish,Protein - Ox-List,"Legumes, Beans, Soybean Curd (tofu)",1/2,"cup, cubed",Moderate,10
+Breads & Grains,Grains - Ox-List,"Legumes, Beans, Vegetarian, Baked",1/2,cup,High,17
+Meats & Fish,Protein - Ox-List,"Legumes, Beans, White, Dried, Boiled",1/2,cup,Very High,55
+Meats & Fish,Protein - Ox-List,"Legumes, Edamame",1/2,cup,High,22
+Meats & Fish,Protein - Ox-List,"Legumes, Lentils, Variety, Dried & Boiled or Canned",1/2,cup,Moderate,8
+Meats & Fish,Protein - Ox-List,"Legumes, Peas, Black-eyed Peas, Canned",1/2,cup,Low,3
+Meats & Fish,Protein - Ox-List,"Legumes, Peas, Green Peas, Dried & Boiled or Canned",1/2,cup,Very Low,2
+Meats & Fish,Protein - Ox-List,"Legumes, Peas, Green Pigeon Peas, Canned",1/2,cup,High,11
+Meats & Fish,Protein - Ox-List,"Legumes, Peas, Purple Hull",1/2,cup,Moderate,7
+Meats & Fish,Protein - Ox-List,"Legumes, Peas, Split Peas, Yellow or Green, Boiled",1/2,cup,Low,4
+Meats & Fish,Protein - Ox-List,"Legumes, Peas, Sugar Snap",1/2,cup,High,26
+Meats & Fish,Protein - Ox-List,"Legumes, Refried Beans",1/2,cup,Very High,99
+Meats & Fish,Protein - Ox-List,"Legumes, Tempeh",1/2,cup,Very High,40
+Fruits,Fruits - KD PDF,Lemon,1,fruit,Low,4
+Ingredients,Ingredients,Lemon Juice (canned or bottled),1,cup,Low,4
+Ingredients,Ingredients,Lemon Juice Raw (concentrate),1,tbs,Little or N1,0
+Fruits,Fruits - Ox-List,"Lemon, Raw",1,slice,Very Low,1
+Beverages,Beverages - KD PDF,Lemonade,1,cup,High,15
+Beverages,Beverages,Lemonade (diet),8,oz,Very Low,1
+Beverages,Beverages,Lemonade (frozen from concentrate),8,oz,Very High,15
+Beverages,Beverages - Harvard,"Lemonade, Frozen White From Concentrate, Water Added",12,oz,High,22
+Beverages,Beverages - Harvard,"Lemonade, Low Calorie",12,oz,Very Low,1
+Fruits,Whole Fruits,Lemons,1,wedge,Very Low,1
+Fruits,Fruits - Harvard,"Lemons, Raw, Without Peel",1/4,lemon,Very Low,1
+Soups,Soups,Lentil Soup,1,cup,Very High,39
+Vegetables,Beans and Lentils - Harvard,"Lentils, Boiled, Unsalted",1/2,cup,Low,2
+Vegetables,Vegetables - Harvard,"Lettuce, Iceberg",1,cup,Very Low,0
+Vegetables,Vegetables - Harvard,"Lettuce, Romaine",1,cup,Very Low,0
+Vegetables,Vegetables - Ox-List,"Lettuce, Variety, Shredded or Chopped, Raw",1,"cup, shredded",Low,3
+Vegetables,Vegetables - Harvard,"Lima Beans, Boiled, Drained, Unsalted",1/2,cup,Very Low,0
+Fruits,Fruits - KD PDF,Lime,1,fruit,Low,3
+Fruits,Fruits - Ox-List,"Lime, Raw",1,lime,Low,4
+Fruits,Whole Fruits,Limes,1/2,fruit,Low,3
+Fruits,Fruits - Harvard,"Limes, Raw",1/8,lime,Very Low,1
+Beverages,Beverages - KD PDF,Liquor,1,oz,Little or N1,0
+Meats & Fish,Meat & Meat Alternatives,Liver,3.5,oz,Little or N1,0
+Cereals,Quaker,Low Fat 100% Natural Granola with Raisins,3/4,cup,Very High,15
+Dairy,Cheese Products,Low Fat Cheese,1,slice,Little or N1,0
+Dairy,Cheese Products,Low Fat Cottage Cheese,1,cup,Little or N1,0
+Dairy,Dairy Spreads,Low Fat Cream Cheese,1,oz,Very Low,1
+Cereals,Kellogg's,Low Fat Granola with Raisins,2/3,cup,Very High,16
+Breads & Grains,Breads,Low Fat Muffins,1,muffin,Moderate,5
+Dairy,Yogurt Products,Lowfat Frozen Yogurt,1/2,cup,Very Low,1
+Cereals,General Mills,Lucky Charms,1,cup,Moderate,5
+Fruits,Fruits - Ox-List,"Lychee or Litchee, Fresh",1,cup,Little or N1,0
+Breads & Grains,"Pastas, Rice & Grains",Macaroni & Cheese,1,cup,Low,4
+Fast Food,Fast Food,Macaroni & Cheese,1,cup,Low,4
+Fast Food,Mixed Dishes - Harvard,Macaroni and Cheese,1,cup,High,15
+Meats & Fish,Fish,Mackerel,3,oz,Little or N1,0
+Meats & Fish,Fish - Harvard,"Mackerel, Dry Heat Cooked",4,oz,Little or N1,0
+Ingredients,Spices - Ox-List,"Malt, Powder",1,tbsp,Low,3
+Fruits,Whole Fruits,Mango,1,fruit,Very Low,1
+Beverages,Beverages,Mango Juice,8,oz,Very Low,1
+Beverages,Beverages - KD PDF,Mango Juice,1,cup,Very Low,1
+Fruits,Fruits - Ox-List,"Mango, Fresh",1,"cup, cubed",Moderate,7
+Vegetables,Vegetables - Ox-List,Mangold or Spinach Beet,1/2,cup,Very High,590
+Fruits,Fruits - Harvard,"Mangos, Raw",1/2,fruit,Very Low,0
+Snacks and Desserts,Sweets - Ox-List,"Maple Syrup, Pure,",1,tbsp,Very Low,1
+Dairy,Dairy - Ox-List,"Margarine, All Types",1,tbsp,Little or N1,0
+Vegetables,Vegetables - Harvard,"Marinara/spaghetti Sauce, Ready to Serve",1/2,cup,High,10
+Vegetables,Potatoes,Mashed Potatoes,1,cup,Very High,29
+Vegetables,Vegetables - KD PDF,Mashed Potatoes,1/2,cup,High,15
+"Spreads, Sauces & Toppings",Condiments - KD PDF,Mayonnaise,1,tablespoon,Little or N1,0
+"Spreads, Sauces & Toppings",Salad Dressings - Harvard,Mayonnaise,1,tbsp,Little or N1,0
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Mayonnaise,1,Tbs,Little or N1,0
+"Spreads, Sauces & Toppings",Salad Dressings - Harvard,"Mayonnaise, Low Fat",1,tbsp,Little or N1,0
+"Spreads, Sauces & Toppings",Salad Dressings - Harvard,"Mayonnaise, Olive Oil",1,tbsp,Little or N1,0
+Fast Food,Commercial - Ox-List,"Mcdonalds, Bacon, Egg and Cheese Biscuit",1,biscuit,High,17
+Fast Food,Commercial - Ox-List,"Mcdonalds, Egg Mcmuffin",1,McMuffin,High,11
+Fast Food,Commercial - Ox-List,"Mcdonalds, Sausage Biscuit",1,biscuit,High,20
+Fast Food,Commercial - Ox-List,"Mcdonalds, Sausage Mcmuffin",1,McMuffin,High,22
+Fast Food,Mixed Dishes - Harvard,Meat Lasagna,1,piece or cup,Very High,46
+Fast Food,Commercial - Ox-List,"Meat Substitutes, Black Bean Patty, Morningstar Farms",1,burger,Very High,40
+Fast Food,Commercial - Ox-List,"Meat Substitutes, Grillers, Morningstar Farms",1,burger,High,25
+Fast Food,Commercial - Ox-List,"Meat Substitutes, Meatless Breakfast Patties, Boca",1,patty,Very High,30
+Fast Food,Commercial - Ox-List,"Meat Substitutes, Meatless Burger, Gardenburger",1,burger,Very High,61
+Fast Food,Commercial - Ox-List,"Meat Substitutes, Meatless Burgers, Boca",1,burger,Very High,75
+Fast Food,Commercial - Ox-List,"Meat Substitutes, Meatless Chicken Patties, Boca",1,patty,High,26
+Fast Food,Commercial - Ox-List,"Meat Substitutes, Textured Vegetable Protein (tvp)",1/2,cup,Very High,77
+Meats & Fish,Meat & Meat Alternatives,Meatballs,2,meatballs,Very Low,2
+Meats & Fish,Protein - Ox-List,"Meats and Poultry, Variety Including Sausage and Liver",4,oz,Low,5
+Fruits,Fruits - Ox-List,"Melons, Variety Including Watermelon",1,cup cubed,Very Low,2
+Beverages,Beverages - KD PDF,Milk,1,cup,Very Low,1
+Snacks and Desserts,Snacks and Desserts,Milk Chocolate Candies,1,oz,Moderate,5
+Snacks and Desserts,Desserts - KD PDF,Milk Chocolate Candy,1,oz,Low,5
+Meats & Fish,Protein - Ox-List,"Milk Products, Cottage Cheese, Variety",1/2,cup,Little or N1,0
+Meats & Fish,Protein - Ox-List,"Milk Products, Ice Cream, Variety",1/2,cup,Little or N1,0
+Meats & Fish,Protein - Ox-List,"Milk Products, Kefir",1/2,cup,Little or N1,0
+Meats & Fish,Protein - Ox-List,"Milk Products, Optifast, Powder, Variety Including Chocolate",1,serving (1.53 oz),Low,4
+Meats & Fish,Protein - Ox-List,"Milk Products, Sour Cream",2,tbsp,Little or N1,0
+Meats & Fish,Protein - Ox-List,"Milk Products, Yogurt, Fresh & Frozen, Variety, Multi-brands",6,oz,Low,4
+Dairy,Dairy - Harvard,"Milk, 1%",8,oz,Very Low,0
+Dairy,Dairy - Harvard,"Milk, 2%",8,oz,Very Low,1
+Dairy,Dairy - KD PDF,"Milk, All Fat Levels",1,cup,Very Low,1
+Meats & Fish,Protein - Ox-List,"Milk, Cows or Goats, All Types",1,cup,Very Low,1
+Meats & Fish,Protein - Ox-List,"Milk, Plant-based, Almond Milk, Commercial, Multi-brands (calcium-fortified Recommended)",1,cup,High,24
+Meats & Fish,Protein - Ox-List,"Milk, Plant-based, Almond Milk, Homemade (160g Almonds = 2 Cups Milk)",1,cup,Very High,165
+Meats & Fish,Protein - Ox-List,"Milk, Plant-based, Cashew",1,cup,High,18
+Dairy,Dairy - Ox-List,"Milk, Plant-based, Coconut Milk",1,cup,Little or N1,0
+Dairy,Dairy - Ox-List,"Milk, Plant-based, Flax",1,cup,Little or N1,0
+Dairy,Dairy - Ox-List,"Milk, Plant-based, Hazelnut",1,cup,High,12
+Dairy,Dairy - Ox-List,"Milk, Plant-based, Hemp",1,cup,Low,5
+Dairy,Dairy - Ox-List,"Milk, Plant-based, Macadamia",1,cup,Very Low,1
+Dairy,Dairy - Ox-List,"Milk, Plant-based, Oat Milk",1,cup,High,11
+Dairy,Dairy - Ox-List,"Milk, Plant-based, Pea",1,cup,Little or N1,0
+Dairy,Dairy - Ox-List,"Milk, Plant-based, Rice, All Flavors, Multi-brands",1,cup,Moderate,7
+Meats & Fish,Protein - Ox-List,"Milk, Plant-based, Soy, Chocolate Flavor, Silk",1,cup,High,28
+Dairy,Dairy - Ox-List,"Milk, Plant-based, Soy, Variety Flavors (except Chocolate), Multi-brands",1,cup,Moderate,9
+Dairy,Dairy - Harvard,"Milk, Skim",8,oz,Very Low,1
+Dairy,Dairy - Harvard,"Milk, Whole",8,oz,Very Low,0
+Breads & Grains,Grains - KD PDF,"Millet, Cooked",1/2,cup,Very High,31
 Breads & Grains,"Pastas, Rice & Grains","Millet, cooked",1,cup,Very High,62
 Breads & Grains,"Pastas, Rice & Grains",Miso,1,cup,Very High,40
-Breads & Grains,"Pastas, Rice & Grains",Rice Bran,1,cup,Very High,281
-Breads & Grains,"Pastas, Rice & Grains",Soy Flour,1,cup,Very High,94
-Breads & Grains,"Pastas, Rice & Grains",Wheat Berries,1,cup cooked,Very High,98
-Breads & Grains,"Pastas, Rice & Grains","Wheat Flour, Whole Grain",1,cup,Very High,29
-Breads & Grains,"Pastas, Rice & Grains",Spaghetti,1,cup cooked,High,11
-Breads & Grains,"Pastas, Rice & Grains",White Rice Flour,1,cup,High,11
-Breads & Grains,"Pastas, Rice & Grains",Corn Flour,1,cup,Low,3
-Breads & Grains,"Pastas, Rice & Grains",Hummus,1,Tbs,Low,4
-Breads & Grains,"Pastas, Rice & Grains",Macaroni & Cheese,1,cup,Low,4
-Breads & Grains,"Pastas, Rice & Grains","White Rice, cooked",1,cup,Low,4
-Breads & Grains,"Pastas, Rice & Grains",Barley Malt Flour,1,cup,Little or None,0
-Breads & Grains,"Pastas, Rice & Grains",Corn Bran,1,cup,Little or None,0
-Breads & Grains,"Pastas, Rice & Grains",Flaxseed,1,Tbs,Little or None,0
-Breads & Grains,"Pastas, Rice & Grains","Oat Bran, raw",1/3,cup,Little or None,0
-Meats & Fish,Meat & Meat Alternatives,Tofu,3.5,oz,Very High,13
-Meats & Fish,Meat & Meat Alternatives,Veggie Burger,1,pattie,Very High,24
-Meats & Fish,Meat & Meat Alternatives,Soy Burger,3.5,oz,High,12
-Meats & Fish,Meat & Meat Alternatives,Chicken Nuggets,6,nuggets,Low,3
-Meats & Fish,Meat & Meat Alternatives,Meatballs,2,meatballs,Very Low,2
-Meats & Fish,Meat & Meat Alternatives,Turkey Dogs,1,dog,Low,3
-Meats & Fish,Meat & Meat Alternatives,Antelope,3,oz,Little or None,0
-Meats & Fish,Meat & Meat Alternatives,Bacon,2,slices,Little or None,0
-Meats & Fish,Meat & Meat Alternatives,Bologna,1,slice,Little or None,0
-Meats & Fish,Meat & Meat Alternatives,Buffalo,3,oz,Little or None,0
-Meats & Fish,Meat & Meat Alternatives,Chicken Dog,1,dog,Very Low,1
-Meats & Fish,Meat & Meat Alternatives,Chicken Liver,3,oz,Little or None,0
-Meats & Fish,Meat & Meat Alternatives,Chicken,3,oz,Little or None,0
-Meats & Fish,Meat & Meat Alternatives,Hot Dogs,1,dog,Very Low,1
-Meats & Fish,Meat & Meat Alternatives,Ham,3,oz,Little or None,0
-Meats & Fish,Meat & Meat Alternatives,Ground Beef,3,oz,Little or None,0
-Meats & Fish,Meat & Meat Alternatives,Lean Hamburg (85%),3,oz,Little or None,0
-Meats & Fish,Meat & Meat Alternatives,Lean Hamburg (75%),3,oz,Little or None,0
-Meats & Fish,Meat & Meat Alternatives,Lean Hamburg (90%),3,oz,Very Low,1
-Meats & Fish,Meat & Meat Alternatives,Liver,3.5,oz,Little or None,0
-Meats & Fish,Meat & Meat Alternatives,Moose,3,oz,Little or None,0
-Meats & Fish,Meat & Meat Alternatives,Pork,5,oz,Little or None,0
-Meats & Fish,Meat & Meat Alternatives,Turkey,5,oz,Little or None,0
-Meats & Fish,Meat & Meat Alternatives,Venison,3,oz,Little or None,0
-Meats & Fish,Meat & Meat Alternatives,Wild Game Meat,3,oz,Very Low,1
-Meats & Fish,Fish,Tuna Salad,1,cup,Moderate,6
-Meats & Fish,Fish,Frozen Fish Sticks,2,sticks,Low,3
-Meats & Fish,Fish,Alaskan King Crab,3,oz or 1/2 leg,Little or None,0
-Meats & Fish,Fish,Bluefish,1,fillet,Very Low,1
-Meats & Fish,Fish,"Clams, raw",3,oz,Little or None,0
-Meats & Fish,Fish,"Cod, pacific",3,oz or 1 fillet,Little or None,0
-Meats & Fish,Fish,Cod Liver Fish Oil,1,tsp,Little or None,0
-Meats & Fish,Fish,Flounder,3,oz,Little or None,0
-Meats & Fish,Fish,Haddock,3,oz,Little or None,0
-Meats & Fish,Fish,Halibut,3,oz,Little or None,0
-Meats & Fish,Fish,Herring (Atlantic & Pacific),3,oz,Very Low,1
-Meats & Fish,Fish,Mackerel,3,oz,Little or None,0
-Meats & Fish,Fish,Oysters,3,oz,Little or None,0
-Meats & Fish,Fish,Pollock,3,oz,Little or None,0
-Meats & Fish,Fish,Salmon (all types),4,oz,Little or None,0
-Meats & Fish,Fish,Sardines,1,can or 3.75oz,Little or None,0
-Meats & Fish,Fish,Shrimp,3,oz,Little or None,0
-Meats & Fish,Fish,Swordfish,1,piece,Little or None,0
-Meats & Fish,Fish,Tuna Fish (in oil),3.5,oz,Little or None,0
-Meats & Fish,Fish,Tuna Fish (in water),3.5,oz,Little or None,0
-Meats & Fish,Fish,Whiting,3,oz,Little or None,0
-Nuts and Seeds,Nuts and Seeds,Almonds,1,oz or 22 kernels,Very High,122
-Nuts and Seeds,Nuts and Seeds,Candies with Nuts (ex Snickers),2,1 oz or 18 kernels,Very High,38
-Nuts and Seeds,Nuts and Seeds,Cashews,1,oz or 48 kernels,Very High,49
-Nuts and Seeds,Nuts and Seeds,Peanuts,1,oz,Very High,27
-Nuts and Seeds,Nuts and Seeds,Pistachios,1,oz or 48 kernels,Very High,14
-Nuts and Seeds,Nuts and Seeds,Mixed Nuts (with Peanuts),1,oz,Very High,39
-Nuts and Seeds,Nuts and Seeds,Pumpkin Seeds,1,"cup, cooked",Very High,17
-Nuts and Seeds,Nuts and Seeds,Trail Mix,1,oz,Very High,15
-Nuts and Seeds,Nuts and Seeds,Walnuts,1,cup or 7 nuts,Very High,31
-Nuts and Seeds,Nuts and Seeds,Pecans,1,oz or 15 halves,High,10
-Nuts and Seeds,Nuts and Seeds,Sunflower Seeds,1,cup,High,12
-Nuts and Seeds,Nuts and Seeds,Flaxseed,1,Tbs,Little or None,0
-Snacks and Desserts,Snacks and Desserts,Brownies,1,oz or 1/2 brownie,Very High,31
-Snacks and Desserts,Snacks and Desserts,Cake (store brand),1,piece,Very High,15
-Snacks and Desserts,Snacks and Desserts,Cake (homemade),1,piece,Very High,16
-Snacks and Desserts,Snacks and Desserts,Candies with Nuts (ex Snickers),2,oz,Very High,38
-Snacks and Desserts,Snacks and Desserts,Chocolate Syrup,2,Tbs,Very High,38
-Snacks and Desserts,Snacks and Desserts,Fudge Sauce,2,Tbs,Very High,28
-Snacks and Desserts,Snacks and Desserts,Cake (Low Fat Only),1,piece,High,11
-Snacks and Desserts,Snacks and Desserts,Chocolate Chip Cookies (store brand),1,cookie,High,10
-Snacks and Desserts,Snacks and Desserts,Chocolate Chip Cookies (Low Fat Only),1,cookie,Moderate,7
-Snacks and Desserts,Snacks and Desserts,Milk Chocolate Candies,1,oz,Moderate,5
-Snacks and Desserts,Snacks and Desserts,Pies (homemade),1/8,pie (1 slice),Moderate,5
-Snacks and Desserts,Snacks and Desserts,Apple Pie,1/8,pie (1 slice),Moderate,5
-Snacks and Desserts,Snacks and Desserts,Pudding Popsicle,1,pop,Moderate,5
-Snacks and Desserts,Snacks and Desserts,Fig Bars,1,cookie,Low,4
-Snacks and Desserts,Snacks and Desserts,"Chocolate Pudding, Instant",1/4,box or 1 oz,Low,4
-Snacks and Desserts,Snacks and Desserts,Oatmeal Cookies (store),1,cookie,Low,4
-Snacks and Desserts,Snacks and Desserts,Oatmeal Cookie (homemade),1,cookie,Very Low,2
-Snacks and Desserts,Snacks and Desserts,Rice Cake,1,cake,Low,4
-Snacks and Desserts,Snacks and Desserts,Rice Pudding,1/2,cup,Very Low,2
-Snacks and Desserts,Snacks and Desserts,Snack Cakes- creme filled,1,cake,Low,3
-Snacks and Desserts,Snacks and Desserts,Custard,1,cup,Very Low,1
-Snacks and Desserts,Snacks and Desserts,Jello,1,cup,Very Low,1
-Snacks and Desserts,Snacks and Desserts,Popsicle,1,stick,Little or None,0
-Snacks and Desserts,Snacks and Desserts,Rice Krispy Treat,1,bar,Very Low,1
-Snacks and Desserts,Snacks and Desserts,Sherbert,1/2,cup,Little or None,0
-Snacks and Desserts,Snacks and Desserts,Tapioca Pudding,1/2,cup,Little or None,0
-Snacks and Desserts,Snacks and Desserts,Vanilla Pudding,1,cup,Very Low,1
-Crackers and Chips,Crackers and Chips,Potato Chips,1,oz,Very High,21
-Crackers and Chips,Crackers and Chips,Tortilla Corn Chips,1,oz,Moderate,7
-Crackers and Chips,Crackers and Chips,"Popcorn, oil-popped",1,cup,Moderate,5
-Crackers and Chips,Crackers and Chips,"Pretzels, Hard & Salted",1,oz,Moderate,5
-Crackers and Chips,Crackers and Chips,Fruit Roll-Ups,1,roll,Very Low,2
-Crackers and Chips,Crackers and Chips,Graham Crackers,1,large rectangle,Very Low,2
-Crackers and Chips,Crackers and Chips,"Popcorn, air-popped",1,cup,Low,4
-Crackers and Chips,Crackers and Chips,Ritz Crackers,5,crackers,Low,3
-Crackers and Chips,Crackers and Chips,Saltines,1,cracker,Very Low,1
-Crackers and Chips,Crackers and Chips,Triscuits,1,cracker,Very Low,1
-Crackers and Chips,Crackers and Chips,Wheat Crackers,1,cracker,Very Low,1
-Crackers and Chips,Crackers and Chips,"Wheat Thins, Reduced Fat",1,cracker,Very Low,1
-Beverages,Beverages,Carrot Juice,1,cup,Very High,27
-Beverages,Beverages,Hot Chocolate (homemade),1,cup,Very High,65
-Beverages,Beverages,Lemonade (frozen from concentrate),8,oz,Very High,15
-Beverages,Beverages,Rice Dream,1,cup,Very High,13
-Beverages,Beverages,"Tea, Brewed",1,cup,Very High,14
-Beverages,Beverages,Tomato Juice,1,cup,Very High,14
-Beverages,Beverages,V8 Juice,1,cup,Very High,18
-Beverages,Beverages,Prune Juice,1,cup,Moderate,7
-Beverages,Beverages,Apple Juice,6,oz,Very Low,2
-Beverages,Beverages,Apricot Juice,1,cup,Very Low,2
-Beverages,Beverages,Coffee Decaff,1,cup,Very Low,2
-Beverages,Beverages,Orange Juice,1,cup,Very Low,2
-Beverages,Beverages,Pineapple Juice,8,oz,Low,3
-Beverages,Beverages,Postum (coffee Substitute),1,serving,Very Low,2
-Beverages,Beverages,Coffee,1,cup,Very Low,1
-Beverages,Beverages,Gatorade,1,cup,Little or None,0
-Beverages,Beverages,Grape Juice,8,oz,Very Low,1
-Beverages,Beverages,Grapefruit Juice,8,oz,Little or None,0
-Beverages,Beverages,Kool-Aid,1,cup,Very Low,1
-Beverages,Beverages,Lemonade (diet),8,oz,Very Low,1
-Beverages,Beverages,Mango Juice,8,oz,Very Low,1
-Beverages,Beverages,Sodas (all types),8,oz,Little or None,0
-Beverages,Beverages,Sweetened Instant Iced Tea,1,cup,Little or None,0
-Beverages,Beverages,Water,8,oz,Little or None,0
-Beverages,Dairy Beverages,Chocolate Milk,1,cup,Moderate,7
-Beverages,Dairy Beverages,Powdered Milk,1,envelope,Low,3
-Beverages,Dairy Beverages,Soy Milk,1,cup,Low,4
-Beverages,Dairy Beverages,Fat Free Milk,1,cup,Very Low,1
-Beverages,Dairy Beverages,1% Milk,1,cup,Very Low,1
-Beverages,Dairy Beverages,2% Milk,1,cup,Very Low,1
-Beverages,Dairy Beverages,Whole Milk,1,cup,Very Low,1
-Beverages,Alcoholic Beverages,Beer (Regular),1,can,Low,4
-Beverages,Alcoholic Beverages,Beer (Light),1,can,Low,3
-Beverages,Alcoholic Beverages,Red Wine,4,oz,Very Low,1
-Beverages,Alcoholic Beverages,White Wine,4,oz,Little or None,0
-Beverages,Alcoholic Beverages,Liquor (80 proof),1,jigger,Little or None,0
-"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Chocolate Syrup,2,Tbs,Very High,38
-"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Fudge Sauce,2,Tbs,Very High,28
 "Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Miso,1,cup,Very High,40
-"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Peanut Butter,1,Tbs,Very High,13
-"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Peanut Butter Reduced Fat,1,Tbs,Very High,16
-"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Stuffing,1,cup,Very High,36
-"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Tahini,1,Tbs,Very High,16
-"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings","Cream Sauce, Homemade",1,cup,Low,3
-"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Gravy,1,cup,Low,4
-"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Olive Oil & Vinegar,,,Very Low,2
-"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Soy Sauce,1,Tbs,Low,3
-"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Apple Butter,1,Tbs,Little or None,0
-"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Butter,1,Pat,Little or None,0
-"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Catsup/Ketchup,1,packet,Very Low,1
-"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Cream Cheese,1,oz,Little or None,0
-"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Cream Cheese Low Fat,1,oz,Very Low,1
-"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Cream Cheese Fat Free,1,oz,Very Low,1
-"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Horseradish,1,Tbs,Little or None,0
-"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Jam/Jelly,1,Tbs,Very Low,1
-"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Italian Salad Dressing,1,Tbs,Little or None,0
-"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Mayonnaise,1,Tbs,Little or None,0
-"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings","Mustard, yellow",1,tsp or packet,Very Low,1
-"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Pancake Syrup,3/4,Tbs,Little or None,0
-"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Salsa,1,Tbs,Very Low,1
-"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Whipped Cream,2,Tbs,Little or None,0
-"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Whipped Topping,2,Tbs,Little or None,0
-Ingredients,Ingredients,All-Purpose Flour,1,cup,Very High,17
-Ingredients,Ingredients,Brown Rice Flour,1,cup,Very High,65
-Ingredients,Ingredients,Cocoa Powder,4,tsp,Very High,67
-Ingredients,Ingredients,Cornmeal,1,cup,Very High,64
-Ingredients,Ingredients,Soy Flour,1,cup,Very High,94
-Ingredients,Ingredients,Soy Protein Isolate,1,oz,Very High,27
-Ingredients,Ingredients,"Wheat Flour, Whole Grain",1,cup,Very High,29
-Ingredients,Ingredients,White Rice Flour,1,cup,High,11
-Ingredients,Ingredients,Chili Powder,1,tbs,Moderate,7
-Ingredients,Ingredients,Brewer's Yeast,1,tbs,Moderate,7
-Ingredients,Ingredients,Corn Flour,1,cup,Low,3
-Ingredients,Ingredients,Cornstarch,1,cup,Low,3
-Ingredients,Ingredients,Lemon Juice (canned or bottled),1,cup,Low,4
-Ingredients,Ingredients,Artificial Sweetener,1,packet,Very Low,1
-Ingredients,Ingredients,Bullion Cube,1,cube,Very Low,1
-Ingredients,Ingredients,Black Pepper,1,dash,Little or None,0
-Ingredients,Ingredients,Barley Malt Flour,1,cup,Little or None,0
-Ingredients,Ingredients,Brown Sugar,1,cup packed,Very Low,1
-Ingredients,Ingredients,Butter,1,pat,Little or None,0
-Ingredients,Ingredients,Buttermilk,1,cup,Very Low,1
-Ingredients,Ingredients,Corn Syrup (high Fructose),1,tbs,Very Low,1
-Ingredients,Ingredients,Corn Syrup (Light),1,tbs,Little or None,0
-Ingredients,Ingredients,Cod Liver Oil,1,tsp,Little or None,0
-Ingredients,Ingredients,Cream Substitute,1,tsp,Little or None,0
-Ingredients,Ingredients,Cream,1,tbs,Little or None,0
-Ingredients,Ingredients,Eggs,1,medium egg,Little or None,0
-Ingredients,Ingredients,Eggbeaters,4,oz,Little or None,0
-Ingredients,Ingredients,Garlic Powder,1,tsp,Little or None,0
-Ingredients,Ingredients,Gelatin,1,tbs,Little or None,0
-Ingredients,Ingredients,Honey,1,tbs,Little or None,0
-Ingredients,Ingredients,Lard,1,tsp,Little or None,0
-Ingredients,Ingredients,Lemon Juice Raw (concentrate),1,tbs,Little or None,0
-Ingredients,Ingredients,Molasses,1,tbs,Little or None,0
-Ingredients,Ingredients,Oat Flour,1,cup,Little or None,0
-Ingredients,Ingredients,Salt,1,tsp,Little or None,0
-Ingredients,Ingredients,Shortening,1,tsp,Little or None,0
-Ingredients,Ingredients,Sugar,1,tsp,Little or None,0
-Ingredients,Ingredients,Sweet Whey Fluid,1,cup,Very Low,1
-Ingredients,Ingredients,Sweet Whey Dried,1,tbs,Little or None,0
-Fast Food,Fast Food,Burritos with beans,1,burrito,Very High,17
-Fast Food,Fast Food,Burritos with beans & meat,1,burrito,Very High,16
-Fast Food,Fast Food,Cheeseburger with bun,1,burger and bun,Very High,13
-Fast Food,Fast Food,Chili with Beans,1,cup,Very High,24
-Fast Food,Fast Food,Enchilada with Cheese & beef,1,enchilada,Very High,13
-Fast Food,Fast Food,Enchilada with Chicken,1,enchilada,Very High,13
-Fast Food,Fast Food,French Fries,4,oz,Very High,51
-Fast Food,Fast Food,Lasagna with meat,1,serving,Very High,23
-Fast Food,Fast Food,Nachos with Cheese,6-8,chips,Very High,13
-Fast Food,Fast Food,Pizza with Cheese,2,slices,Very High,13
-Fast Food,Fast Food,Grilled Cheese Sandwich,1,sandwich,High,12
-Fast Food,Fast Food,Tacos,1,small taco,High,12
-Fast Food,Fast Food,Doughnut,1,doughnut,Moderate,5
-Fast Food,Fast Food,Eggroll,1,eggroll,Moderate,5
-Fast Food,Fast Food,Hot Dog with Bun,1,dog with bun,Moderate,9
-Fast Food,Fast Food,Onion Rings,6-8,rings,Moderate,5
-Fast Food,Fast Food,Chicken Nuggets,6,nuggets,Low,3
-Fast Food,Fast Food,Macaroni & Cheese,1,cup,Low,4
-Fast Food,Fast Food,Chicken Roll,1,package,Very Low,1
-Soups,Soups,Clam Chowder,1,cup,Very High,13
-Soups,Soups,Lentil Soup,1,cup,Very High,39
+Fast Food,Commercial - Ox-List,"Miso Paste, Red, Cold Mountain",1,tsp,Low,3
 Soups,Soups,Miso Soup,1,cup,Very High,111
-Soups,Soups,Vegetable Beef Soup,1,cup,Moderate,5
-Soups,Soups,Chicken Noodle Soup,1,can,Low,3
-Breakfast Items,Breakfast Items,Cream of Wheat,1,cup,Very High,18
-Breakfast Items,Breakfast Items,Red River Cereal,1/4,cup,Very High,13
-Breakfast Items,Breakfast Items,Corn Grits,1,cup,Very High,97
-Breakfast Items,Breakfast Items,Farina Cereal,1,cup,Very High,16
-Breakfast Items,Breakfast Items,French Toast,2,slices,Very High,13
-Breakfast Items,Breakfast Items,Pancakes (Homemade),4,pancakes,Very High,22
-Breakfast Items,Breakfast Items,Pancakes (dry mix),4,pancakes,Very High,37
-Breakfast Items,Breakfast Items,Danish Pastry Homemade,1,pastry,Very High,14
-Breakfast Items,Breakfast Items,Sweet Rolls Low Fat,1,pastry,Very High,13
-Breakfast Items,Breakfast Items,English Muffins Whole Wheat ONLY,1,muffin,High,12
-Breakfast Items,Breakfast Items,Bran Muffins (store),1,muffin,Moderate,5
-Breakfast Items,Breakfast Items,Bran Muffin Low Fat,1,muffin,Moderate,5
-Breakfast Items,Breakfast Items,Blueberry Muffins,1,muffin,Moderate,9
-Breakfast Items,Breakfast Items,Doughnut,1,doughnut,Moderate,5
-Breakfast Items,Breakfast Items,English Muffins - Reg,1,muffin,Moderate,8
-Breakfast Items,Breakfast Items,English Muffins - Multi-Grain,1,muffin,Moderate,8
-Breakfast Items,Breakfast Items,English Muffins - Wheat,1,muffin,Moderate,7
-Breakfast Items,Breakfast Items,Muffins Low Fat,1,muffin,Moderate,5
-Breakfast Items,Breakfast Items,Poptart,1,tart,Moderate,7
-Breakfast Items,Breakfast Items,Cornbread,1,piece,Low,4
-Breakfast Items,Breakfast Items,"Danish Pastry, Fruit Filled",1,pastry,Low,4
-Breakfast Items,Breakfast Items,Granola Bars Low Fat,1,oz uncoated,Very Low,2
-Breakfast Items,Breakfast Items,Kashi Go Lean Bar,1,bar,Low,3
-Breakfast Items,Breakfast Items,Bacon,2,slices,Little or None,0
-Breakfast Items,Breakfast Items,Carnation Instant Breakfast,1,packet,Very Low,1
-Breakfast Items,Breakfast Items,Eggs,1,medium egg,Little or None,0
-Breakfast Items,Breakfast Items,Eggbeaters,4,oz,Little or None,0
-Breakfast Items,Breakfast Items,Granola Bars- Hard & Plain,1,bar,Very Low,1
-Breakfast Items,Breakfast Items,Oatmeal Cereal,1,cup,Little or None,0
-Breakfast Items,Breakfast Items,Pancake Syrup,3/4,tbs,Little or None,0
-Cereals,Kellogg's,All-Bran Original,1/2,cup,Very High,26
-Cereals,Kellogg's,All-Bran Buds,1/2,cup,Very High,20
-Cereals,Kellogg's,Complete Wheat Bran,3/4,cup,Very High,34
-Cereals,Kellogg's,Cracklin' Oat Bran,3/4,cup,Very High,15
-Cereals,Kellogg's,Frosted Mini-Wheats,1,cup,Very High,28
-Cereals,Kellogg's,Just Right Fruit & Nut,1,cup,Very High,13
-Cereals,Kellogg's,Low Fat Granola with Raisins,2/3,cup,Very High,16
-Cereals,Kellogg's,Kashi Go Lean,3/4,cup,Very High,14
-Cereals,Kellogg's,Mueslix Apple & Almond Crunch,2/3,cup,Very High,20
+Fruits,Fruits - Harvard,"Mixed Dried Fruit (prunes, Apricots, Pears)",1/4,cup,Moderate,6
+Vegetables,Vegetables - Harvard,"Mixed Frozen Vegetables, Boiled, Drained, Unsalted",1/2,cup,Low,4
+Nuts and Seeds,Nuts and Seeds,Mixed Nuts (with Peanuts),1,oz,Very High,39
+Nuts and Seeds,Nuts and Seeds - Harvard,"Mixed Nuts with Peanuts, Oil Roasted, Unsalted",1,oz,Very High,45
+Vegetables,Vegetables,"Mixed Vegetables, frozen",1/2,cup,Moderate,5
+Ingredients,Ingredients,Molasses,1,tbs,Little or N1,0
+Ingredients,Sugars - Harvard,Molasses,1,tbsp,Very Low,0
+Snacks and Desserts,Sweets - Ox-List,"Molasses, Full Flavor",1,tbsp,Moderate,6
+Meats & Fish,Meat & Meat Alternatives,Moose,3,oz,Little or N1,0
+Dairy,Cheese Products,Mozzarella Cheese,1,oz,Little or N1,0
+Breads & Grains,Grains - KD PDF,Mueslix,3/4,cup,High,19
 Cereals,Kellogg's,Mueslix,2/3,cup,Very High,17
-Cereals,Kellogg's,Puffed Kashi,1,cup,Very High,13
-Cereals,Kellogg's,Raisin Bran,1,cup,Very High,46
-Cereals,Kellogg's,Raisin Bran Crunch,1,cup,Very High,27
-Cereals,Kellogg's,Raisin Squares Mini-Wheats,3/4,cup,Very High,41
-Cereals,Kellogg's,Smart Start,1,cup,Very High,15
-Cereals,Kellogg's,All-Bran with Extra Fiber,1/2,cup,High,11
-Cereals,Kellogg's,Cocoa Krispies,3/4,cup,High,11
-Cereals,Kellogg's,Kashi Good Friends,3/4,cup,High,10
-Cereals,Kellogg's,Complete Oat Bran Flakes,3/4,cup,Moderate,5
-Cereals,Kellogg's,Kashi Heart to Heart,3/4,cup,Moderate,8
-Cereals,Kellogg's,Healthy Choice Multi-Grain Flakes,3/4,cup,Moderate,7
-Cereals,Kellogg's,Froot Loops,1,cup,Very Low,2
-Cereals,Kellogg's,Honey Crunch Corn Flakes,3/4,cup,Low,3
-Cereals,Kellogg's,Rice Krispies,1 1/4,cup,Low,4
-Cereals,Kellogg's,Special K,1,cup,Low,3
-Cereals,Kellogg's,Special K Red Berries,1,cup,Very Low,2
-Cereals,Kellogg's,Smacks,3/4,cup,Low,3
-Cereals,Kellogg's,Corn Flakes,1,cup,Very Low,1
-Cereals,Kellogg's,Corn Pops,1,cup,Very Low,1
-Cereals,Kellogg's,Crispix,1,cup,Very Low,1
-Cereals,Kellogg's,Frosted Flakes,3/4,cup,Very Low,1
-Cereals,Kellogg's,Product 19,1,cup,Very Low,1
-Cereals,Post,100% Bran,1/3,cup,Very High,25
-Cereals,Post,40% Bran,3/4,cup,Very High,36
-Cereals,Post,Banana Nut Crunch,1,cup,Very High,25
-Cereals,Post,Cranberry Almond Crunch (Morning Traditions),1,cup,Very High,35
-Cereals,Post,"Fruit & Fiber Dates, Raisins & Walnuts",1,cup,Very High,41
-Cereals,Post,"Great Grains Raisin, Dates & Pecans",2/3,cup,Very High,17
-Cereals,Post,Great Grains Crunch Pecan,2/3,cup,Very High,18
-Cereals,Post,Grape Nuts,1/2,cup,Very High,14
-Cereals,Post,Original Shredded Wheat & Bran,1 1/4,cup,Very High,53
-Cereals,Post,Blueberry Morning,1/2,cup,Moderate,8
-Cereals,Post,Grape Nuts Flakes,3/4,cup,Moderate,7
-Cereals,Post,Fruity Pebbles,3/4,cup,Very Low,2
-Cereals,Post,Honey Bunches of Oats with Almonds,3/4,cup,Very Low,2
-Cereals,Post,Honey Bunches of Oats Honey Roasted,3/4,cup,Low,3
-Cereals,Post,Honeycomb,1 1/3,cup,Very Low,1
-Cereals,Post,Wafflecrisp,1,cup,Very Low,1
-Cereals,General Mills,Basic 4,1,cup,Very High,17
-Cereals,General Mills,Fiber One,1/2,cup,Very High,13
-Cereals,General Mills,Honey Nut Clusters,1,cup,Very High,23
+Cereals,Kellogg's,Mueslix Apple & Almond Crunch,2/3,cup,Very High,20
+Breads & Grains,Breads and Bakery - Harvard,"Muffin, Blueberry",1,,Moderate,7
+Breads & Grains,Breads and Bakery - Harvard,"Muffin, Bran",1,,Moderate,9
+Breads & Grains,Breads and Bakery - Harvard,"Muffin, English , Wheat",1,,Moderate,9
+Breads & Grains,Breads and Bakery - Harvard,"Muffin, English, Mixed Grain",1,,High,11
+Breads & Grains,Breads and Bakery - Harvard,"Muffin, English, Plain, Enriched",1,,Moderate,7
+Breads & Grains,Breads and Bakery - Harvard,"Muffin, English, Whole Wheat",1,,High,28
+Breakfast Items,Breakfast Items,Muffins Low Fat,1,muffin,Moderate,5
 Cereals,General Mills,Multi-Bran Chex,1,cup,Very High,36
+Vegetables,Vegetables,Mung Beans,1/2,cup,Low,3
+Vegetables,Vegetables,Mushrooms,1,mushroom,Little or N1,0
+Vegetables,Vegetables - KD PDF,Mushrooms,1,each,Little or N1,0
+Vegetables,Vegetables - Ox-List,"Mushrooms, Variety, Boiled or Canned",1/2,"cup, sliced",Very Low,1
+Vegetables,Vegetables - Ox-List,"Mushrooms, Variety, Dried",1/3,"cup, dried",Low,4
+Vegetables,Vegetables - Harvard,"Mushrooms, White Raw",1,,Little or N1,0
+Vegetables,Vegetables - Harvard,"Mushrooms, White, Cooked, Boiled, Drained, Without Salt",1,,Little or N1,0
+"Spreads, Sauces & Toppings",Condiments - KD PDF,Mustard,1,teaspoon,Very Low,1
+Vegetables,Vegetables,Mustard Greens,1,cup chopped,Low,4
+Vegetables,Vegetables - KD PDF,Mustard Greens,1,cup raw,Low,4
+Vegetables,Vegetables - Ox-List,"Mustard Greens, Boiled or Steamed",1/2,"cup, chopped",Low,5
+Vegetables,Vegetables - Harvard,"Mustard Greens, Boiled, Drained, Unsalted",1/2,cup,Very Low,2
+"Spreads, Sauces & Toppings",Condiments - Harvard,"Mustard, Yellow",1,tsp,Very Low,1
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings","Mustard, yellow",1,tsp or packet,Very Low,1
+Cereals,Other Cereal Brands,Nabisco H1y Nut Shredded Wheat Bite Size,1,cup,Very High,47
+Cereals,Other Cereal Brands,Nabisco Shredded Wheat,2,biscuits,Very High,42
+Fast Food,Fast Food,Nachos with Cheese,6-8,chips,Very High,13
 Cereals,General Mills,Nature Valley Cinnamon & Raisins Granola,3/4,cup,Very High,13
+Vegetables,Vegetables,Navy Beans,1/2,cup,Very High,76
+Fruits,Whole Fruits,Nectarine,1,fruit,Little or N1,0
+Fruits,Fruits - Ox-List,Nectarines,1,medium (2 1/2 in diameter),Very Low,2
+Fruits,Fruits - Harvard,"Nectarines, Raw",1,,Very Low,0
+Dairy,Dairy - Ox-List,"No-nut Butter, Creamy, the Sneaky Chef",1,tbsp,Very Low,1
+Dairy,Ice Creams,Non Fat Ice Cream,1/2,cup,Little or N1,0
+Dairy,Yogurt Products,Non Fat Yogurt with Fruit,8,oz,Very Low,1
+Dairy,Cream Products,Non-Dairy Creamer,1,Tbs,Little or N1,0
+Dairy,Dairy - Ox-List,"Non-dairy Milk Product, Creamer and Whipped Topping",1,tbsp,Little or N1,0
+Vegetables,Vegetables - Ox-List,"Nopal (prickly Pear), Cooked",1/2,cup,Very High,87
+Vegetables,Vegetables - Ox-List,"Nopal (prickly Pear), Raw",1,cup,Very High,226
+Fast Food,Commercial - Ox-List,Nutella,1,tbsp,High,13
+Meats & Fish,Protein - Ox-List,"Nuts, Almond, Raw or Dry Roasted",1/4,cup,Very High,107
+Meats & Fish,Protein - Ox-List,"Nuts, Brazil Nuts, Raw or Roasted",1/4,cup,Very High,52
+Meats & Fish,Protein - Ox-List,"Nuts, Cashew, Butter",2,Tbsp,Very High,63
+Meats & Fish,Protein - Ox-List,"Nuts, Cashew, Raw or Roasted",1/4,cup,Very High,72
+Meats & Fish,Protein - Ox-List,"Nuts, Chestnut, Roasted",1/4,cup,Moderate,8
+Meats & Fish,Protein - Ox-List,"Nuts, Coconut, Dry, Shredded",1/4,cup,Very Low,1
+Meats & Fish,Protein - Ox-List,"Nuts, Hazelnut or Filberts, Raw",1/4,cup,Very High,53
+Meats & Fish,Protein - Ox-List,"Nuts, Macadamia, Raw or Dry Roasted",1/4,cup,High,13
+Meats & Fish,Protein - Ox-List,"Nuts, Peanut Butter, Creamy or Chunky",2,Tbsp,Very High,36
+Meats & Fish,Protein - Ox-List,"Nuts, Peanuts, Roasted",1/4,cup,Very High,38
+Meats & Fish,Protein - Ox-List,"Nuts, Pecans Raw or Roasted",1/4,cup,High,15
+Meats & Fish,Protein - Ox-List,"Nuts, Pine, Raw or Roasted",1/4,cup,Very High,54
+Meats & Fish,Protein - Ox-List,"Nuts, Pistachio, Raw or Roasted",1/4,cup,High,12
+Meats & Fish,Protein - Ox-List,"Nuts, Soy Nut Butter",2,Tbsp,High,11
+Meats & Fish,Protein - Ox-List,"Nuts, Soynuts",1/4,cup,High,24
+Meats & Fish,Protein - Ox-List,"Nuts, Walnuts, Raw or Roasted",1/4,cup,High,18
+Breads & Grains,Grains - KD PDF,Oat Bran,1/3,cup,Little or N1,0
+Cereals,Quaker,Oat Bran,1 1/4,cup,High,10
+Breads & Grains,Breads,Oat Bran Bread,1,slice,Low,4
+Breads & Grains,Breads,Oat Bran Muffin,1,small muffin,Low,4
+Breads & Grains,Pasta and Grains - Harvard,"Oat Bran, Raw",1/2,cup,Little or N1,0
+Breads & Grains,"Pastas, Rice & Grains","Oat Bran, raw",1/3,cup,Little or N1,0
+Ingredients,Ingredients,Oat Flour,1,cup,Little or N1,0
+Cereals,Cold Cereal - Harvard,Oat Life,1,cup,Low,4
+Breads & Grains,Breads,Oatmeal Bread,1,piece,Low,4
+Breakfast Items,Breakfast Items,Oatmeal Cereal,1,cup,Little or N1,0
+Snacks and Desserts,Desserts - KD PDF,Oatmeal Cookie,1,cookie,Low,3
+Snacks and Desserts,Snacks and Desserts,Oatmeal Cookie (homemade),1,cookie,Very Low,2
+Snacks and Desserts,Snacks and Desserts,Oatmeal Cookies (store),1,cookie,Low,4
+Cereals,Cold Cereal - Harvard,Oatmeal Crisp Crunchy Almonds,1,cup,High,26
 Cereals,General Mills,Oatmeal Crisp with Almonds,1,cup,Very High,24
 Cereals,General Mills,Oatmeal Raisin Crisp,1,cup,Very High,13
-Cereals,General Mills,Raisin Nut Bran,1,cup,Very High,24
-Cereals,General Mills,Total Raisin Bran,1,cup,Very High,31
-Cereals,General Mills,Harmony,1 1/4,cup,High,11
-Cereals,General Mills,Wheaties Raisin Bran,1,cup,High,11
-Cereals,General Mills,Apple Cinnamon Cheerios,3/4,cup,Moderate,5
-Cereals,General Mills,Berry Bust Cheerios,1,cup,Moderate,7
-Cereals,General Mills,Cheerios,1,cup,Moderate,8
-Cereals,General Mills,Cinnamon Toast Crunch,3/4,cup,Moderate,5
-Cereals,General Mills,Corn Chex,1,cup,Moderate,5
-Cereals,General Mills,Count Chocula,1,cup,Moderate,5
-Cereals,General Mills,Frosted Cheerios,1,cup,Moderate,6
-Cereals,General Mills,Honey Nut Cheerios,1,cup,Moderate,7
-Cereals,General Mills,Golden Grahams,3/4,cup,Moderate,9
-Cereals,General Mills,Lucky Charms,1,cup,Moderate,5
-Cereals,General Mills,Reese's Puffs,3/4,cup,Moderate,8
-Cereals,General Mills,Team Cheerios,1,cup,Moderate,6
-Cereals,General Mills,Total Corn Flakes,1 1/3,cup,Moderate,5
-Cereals,General Mills,Wheat Chex,1,cup,Moderate,7
-Cereals,General Mills,Wheaties,1,cup,Moderate,8
-Cereals,General Mills,Whole Grain Total,3/4,cup,Moderate,8
-Cereals,General Mills,Cocoa Puffs,1,cup,Low,3
-Cereals,General Mills,Kix,1 1/3,cup,Very Low,2
-Cereals,General Mills,Rice Chex,1 1/4,cup,Low,4
-Cereals,General Mills,Trix,1,cup,Little or None,0
-Cereals,Quaker,Low Fat 100% Natural Granola with Raisins,3/4,cup,Very High,15
-Cereals,Quaker,100% Natural Granola Oats & Honey,1/2,cup,Very High,13
-Cereals,Quaker,Oat Bran,1 1/4,cup,High,10
-Cereals,Quaker,Honey Nut Oats,1,oz,Moderate,7
 Cereals,Quaker,Oatmeal Squares,1,cup,Moderate,5
-Cereals,Quaker,Puffed Wheat,1 1/4,cup,Moderate,9
-Cereals,Quaker,Toasted Oatmeal,1,oz,Moderate,6
+Cereals,Hot Cereal - Harvard,"Oatmeal, Quaker Instant Sweetned",2/3,cup,Little or N1,0
+Cereals,Hot Cereal - Harvard,"Oatmeal, Quaker Multigrain, Cooked with Water, No Salt",1,cup,High,22
+Cereals,Hot Cereal - Harvard,"Oats, Regular Quick Instant Unenriched, Cooked with Water, No Salt",1,cup,Little or N1,0
+Dairy,Dairy - Ox-List,"Oils, All Types Nut, Vegetable and Seed Oils",1,tbsp,Little or N1,0
+Vegetables,Vegetables,Okra,1/2,cup,Very High,57
+Vegetables,Vegetables - Ox-List,"Okra, Boiled, Simmered 5 Mins",1/2,cup,Very High,56
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Olive Oil & Vinegar,,,Very Low,2
+Vegetables,Vegetables,Olives,10,olives,Very High,18
+Vegetables,Vegetables - KD PDF,Olives,10,each,High,18
+Fruits,Fruits - Harvard,"Olives, Canned Ripe",3,medium,Low,5
+Fruits,Fruits - Ox-List,"Olives, Canned, Black, Pitted",6,medium olives,Moderate,6
+Fruits,Fruits - Ox-List,"Olives, Canned, Green, Stuffed or Unstuffed",6,medium olives,High,11
+Vegetables,Vegetables - KD PDF,Onion,1,small,Little or N1,0
+Fast Food,Fast Food,Onion Rings,6-8,rings,Moderate,5
+Vegetables,Vegetables - Ox-List,"Onion, Variety, Boiled or Sautéed",1/2,cup,Low,4
+Vegetables,Vegetables - Ox-List,"Onion, Variety, Raw",1,"cup, sliced",Moderate,6
+Vegetables,Vegetables,Onions,1,small onion,Little or N1,0
+Vegetables,Vegetables - Harvard,"Onions, Raw",1,,Low,2
+Vegetables,Vegetables - Harvard,"Onions,spring or Scallions (including Tops & Bulb), Raw",1,,Little or N1,0
+Fruits,Whole Fruits,Orange,1,fruit,Very High,29
+Beverages,Beverages,Orange Juice,1,cup,Very Low,2
+Fruits,Fruits - Ox-List,"Orange, Mandarin or Clementine, Fresh or Canned",1,medium or 1/2 cup,High,14
+Fruits,Fruits - Ox-List,"Oranges, Fresh, Variety",1,medium,High,18
+Fruits,Fruits - Harvard,"Oranges, Raw",1,,High,23
+Vegetables,Vegetables,"Oriental Vegetables, frozen",1/2,cup,Moderate,6
+Cereals,Post,Original Shredded Wheat & Bran,1 1/4,cup,Very High,53
+Snacks and Desserts,Sweets - Ox-List,"Ovaltine, Powder, Canned",2,tbsp,Moderate,6
+Meats & Fish,Fish,Oysters,3,oz,Little or N1,0
+Meats & Fish,Fish - Harvard,"Oysters, Farmed, Dry Heat Cooked",3,oz,Very Low,0
+Meats & Fish,Fish - Harvard,"Oysters, Wild Raw",6,medium,Very Low,0
+Breads & Grains,Breads and Bakery - Harvard,Pancake & Waffles,2,small,Moderate,10
+Fast Food,Commercial - Ox-List,"Pancake Mix, Multiple Brands",1/4,"cup, dry",Moderate,7
+Breakfast Items,Breakfast Items,Pancake Syrup,3/4,tbs,Little or N1,0
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Pancake Syrup,3/4,Tbs,Little or N1,0
+Breads & Grains,Grains - KD PDF,Pancakes,4,each,High,11
+Breakfast Items,Breakfast Items,Pancakes (dry mix),4,pancakes,Very High,37
+Breads & Grains,Breads,Pancakes (Homemade),4,cakes,High,11
+Breakfast Items,Breakfast Items,Pancakes (Homemade),4,pancakes,Very High,22
+Breads & Grains,Breads,Pancakes (mix),4,cakes,High,10
+Fruits,Fruits - KD PDF,Papaya,1,fruit,Very Low,1
+Fruits,Whole Fruits,Papaya,1,medium fruit,Very Low,1
+Beverages,Beverages - Harvard,"Papaya, Canned Nectar",1,cup,Very Low,1
+Fruits,Fruits - Ox-List,"Papaya, Raw",1/2,"cup, mashed",Very Low,1
+Fruits,Fruits - Harvard,"Papayas, Raw",1/2,medium fruit,Very Low,0
+Vegetables,Vegetables - Harvard,"Parsley, Raw",1,tbsp,Very Low,1
+Vegetables,Vegetables,Parsnip,1/2,cup,Very High,15
+Vegetables,Vegetables - Ox-List,"Parsnips, Boiled for 12 Mins",1/2,"cup, sliced",High,15
+Fruits,Fruits - Ox-List,Passion Fruit or Granadilla,1,passion fruit,Little or N1,0
+Breads & Grains,Grains - Ox-List,"Pasta, Angel Hair Style, Miracle Noodles, Uncooked",3,oz,Very Low,2
+Breads & Grains,Grains - Ox-List,"Pasta, Angel Hair, Rice, Deboles, Cooked 10 Min",1/2,cup,Moderate,9
+Breads & Grains,Grains - Ox-List,"Pasta, Couscous, Dried, Boiled",1/2,cup,High,13
+Breads & Grains,Grains - Ox-List,"Pasta, Egg Noodles, Cooked",1/2,cup,Moderate,10
+Breads & Grains,Grains - Ox-List,"Pasta, Elbow, Brown Rice, Tinkyada, Cooked 17 Min",2,cup,Moderate,9
+Breads & Grains,Grains - Ox-List,"Pasta, Fettuccine Style, Miracle Noodles, Uncooked",3,oz,Very Low,2
+Breads & Grains,Grains - Ox-List,"Pasta, Fettuccine, Organic Spinach Fettuccine, Cooked 10 Min",1,cup cooked,Very High,109
+Breads & Grains,Grains - Ox-List,"Pasta, Kamut Spirals, Eden, Cooked 15 Min",1,cup,High,24
+Breads & Grains,Grains - Ox-List,"Pasta, Ribbons, Spelt, Eden, Cooked 11 Min",1,cup,High,20
+Breads & Grains,Grains - Ox-List,"Pasta, Rice",1/2,cup,Moderate,7
+Breads & Grains,Grains - Ox-List,"Pasta, Rye Spirals, Whole Grain, Eden",1,cup,High,18
+Breads & Grains,Grains - Ox-List,"Pasta, Tri Color Rotini, Cooked 11 Min",1,cup cooked,Very High,52
+Breads & Grains,Grains - Ox-List,"Pasta, Veggie Rotini, Hodgson Mill, Cooked 13 Min",1,cup cooked,Very High,56
+Breads & Grains,Grains - Ox-List,"Pasta, Wheat, Non-whole Wheat Varieties, Cooked & Drained",1,cup,High,24
+Breads & Grains,Grains - Ox-List,"Pasta, Wheat, Whole Wheat Varieties, Cooked & Drained",1,cup,Very High,31
+Fruits,Fruits - KD PDF,Peach,1,fruit,Little or N1,0
+Fruits,Whole Fruits,Peaches,1,fruit,Little or N1,0
+Fruits,Fruits - KD PDF,"Peaches, Canned",1/2,cup,Very Low,1
+Fruits,Fruits - Harvard,"Peaches, Canned in Heavy Syrup",1/2,cup,Very Low,1
+Fruits,Fruits - Harvard,"Peaches, Canned Juice Packed",1/2,cup,Very Low,0
+Fruits,Fruits - Harvard,"Peaches, Raw",1,,Very Low,0
+Fruits,Fruits - Ox-List,"Peaches, Raw or Canned",1,small or 1/2 cup sliced,Low,3
+"Spreads, Sauces & Toppings",Condiments - KD PDF,Peanut Butter,1,tablespoon,High,13
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Peanut Butter,1,Tbs,Very High,13
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Peanut Butter Reduced Fat,1,Tbs,Very High,16
+Nuts and Seeds,Nuts and Seeds - Harvard,"Peanut Butter, Salted, Smooth",1,tbsp,High,19
+Nuts and Seeds,Nuts - KD PDF,Peanuts,1/4,cup,High,27
+Nuts and Seeds,Nuts and Seeds,Peanuts,1,oz,Very High,27
+Nuts and Seeds,Nuts and Seeds - Harvard,"Peanuts, All Types, Dry Roasted, Without Salt",1,oz,High,29
+Nuts and Seeds,Nuts and Seeds - Harvard,"Peanuts, Oil Roasted, Salted",1,oz,High,29
+Fruits,Fruits - KD PDF,Pear,1,fruit,Very Low,2
+Fruits,Whole Fruits,Pears,1,fruit,Very Low,2
+Fruits,Fruits - KD PDF,"Pears, Canned",1/2,cup,Very Low,1
+Fruits,Fruits - Harvard,"Pears, Raw",1,,Very Low,2
+Fruits,Fruits - Ox-List,"Pears, Variety, Fresh, Canned or Baked",1/2,cup,Low,4
+Vegetables,Vegetables,Peas,1/2,cup,Very Low,1
+Vegetables,Vegetables - Harvard,"Peas, Green, Boiled, Drained, Unsalted",1/2,cup,Very Low,0
+Vegetables,Vegetables - Ox-List,"Peas, Snow, Whole, Fresh",1/2,cup,High,20
+Nuts and Seeds,Nuts - KD PDF,Pecans,1/4,cup,Moderate,10
+Nuts and Seeds,Nuts and Seeds,Pecans,1,oz or 15 halves,High,10
+Nuts and Seeds,Nuts and Seeds - Harvard,"Pecans, Oil Roasted, Unsalted",1,oz,High,16
+Vegetables,Vegetables - Ox-List,"Pepper, Sweet and Hot, Variety, Cooked",1/2,cup sliced,High,15
+Vegetables,Vegetables - Ox-List,"Pepper, Sweet and Hot, Variety, Raw",1/2,"cup, sliced",High,11
+Ingredients,Spices - Ox-List,"Peppers, Cayenne, Raw",1,medium,Very Low,1
+Ingredients,Spices - Ox-List,"Peppers, Cayenne, with Seeds, Sautéed 10 Min in 1 Tsp Safflower Oil",6,small peppers,Low,4
+Vegetables,Vegetables - Harvard,"Peppers, Green Hot Chili, Canned",1,oz,Very Low,2
+Vegetables,Vegetables - Harvard,"Peppers, Green, Raw",2,rings,Low,2
+Ingredients,Spices - Ox-List,"Peppers, Habanero, with Seeds, Sautéed 10 Min in 1 Tsp Safflower Oil",4,small peppers,Very Low,2
+Ingredients,Spices - Ox-List,"Peppers, Jalapeno, with Seeds, Sautéed 10 Min in 1 Tsp Safflower Oil",2,small peppers,Moderate,10
+Ingredients,Spices - Ox-List,"Peppers, Lemon, with Seeds, Sautéed 10 Min in 1 Tsp Safflower Oil",5,small peppers,Low,3
+Ingredients,Spices - Ox-List,"Peppers, New Mexican or Anaheim, Raw",1/2,"cup, sliced",High,22
+Vegetables,Vegetables - Harvard,"Peppers, Red, Raw",2,rings,Low,2
+Ingredients,Spices - Ox-List,"Peppers, Serrano, with Seeds, Sautéed 10 Min in 1 Tsp Safflower Oil",2,small peppers,Low,5
+Ingredients,Spices - Ox-List,"Peppers, Tabasco, with Seeds, Sautéed 10 Min in 1 Tsp Safflower Oil",2,small peppers,Low,4
+Fruits,Fruits - Ox-List,"Persimmons, Hachiya",1,medium,High,19
+Fruits,Fruits - Ox-List,"Persimmons, Southern, Wild, Pulp",1/2,cup,High,13
+Vegetables,Vegetables,Pickles,1,pickle,Little or N1,0
+Fast Food,Commercial - Ox-List,"Pickles, Baby Kosher Dills, Vlasic",1,pickle,Low,3
+Vegetables,Vegetables - Harvard,"Pickles, Cucumber, Sweet (includes Bread & Butter Pickles)",1,,Very Low,1
+Snacks and Desserts,Desserts - KD PDF,Pie,1/8,pie,Low,5
+Fast Food,Commercial - Ox-List,"Pie Crust, Multiple Brands",1/8,crust,Low,5
+Fast Food,Commercial - Ox-List,"Pie Mix, Pumpkin with Spices, Canned",1/2,cup,Low,5
+Breads & Grains,Breads and Bakery - Harvard,"Pie, Apple, Commercial",1,slice,Low,5
+Snacks and Desserts,Snacks and Desserts,Pies (homemade),1/8,pie (1 slice),Moderate,5
+Fruits,Whole Fruits,Pineapple,1,cup,Low,4
+Beverages,Beverages,Pineapple Juice,8,oz,Low,3
+Beverages,Beverages - KD PDF,Pineapple Juice,1,cup,Low,3
+Fruits,Fruits - Harvard,"Pineapple, Canned in Heavy Syrup (includes Syrup)",1/2,cup,High,12
+Fruits,Fruits - Harvard,"Pineapple, Dried",1,ring,Moderate,8
+Fruits,Fruits - Ox-List,"Pineapple, Fresh or Canned",1/2,cup,Moderate,7
+Fruits,Fruits - Ox-List,"Pineapple, Preserved W/out Sugar",1/4,cup,Very Low,2
+Fruits,Fruits - Harvard,"Pineapple, Raw",1/2,cup,Moderate,5
+Nuts and Seeds,Nuts - KD PDF,Pistachios,1/4,cup,High,14
+Nuts and Seeds,Nuts and Seeds,Pistachios,1,oz or 48 kernels,Very High,14
+Nuts and Seeds,Nuts and Seeds - Harvard,"Pistachios, Dry Roasted, Unsalted",1,oz,Moderate,9
+Fast Food,Commercial - Ox-List,"Pizza Crust, Boboli, Italian",1/2,of 8 in shell,High,11
+Fast Food,Fast Food,Pizza with Cheese,2,slices,Very High,13
+Fast Food,Mixed Dishes - Harvard,"Pizza, Restaurant & Frozen Cheese",2,slices,Moderate,8
+Dairy,Yogurt Products,Plain Yogurt,1,cup,Very Low,2
+Beverages,Plant-Based Milk - Harvard,"Plant-based Milk (excludes Soy,almond)",1,cup,Very Low,0
+Fruits,Fruits - KD PDF,Plantain,1,fruit,Very Low,1
+Fruits,Whole Fruits,Plantain,1,medium,Very Low,1
+Fruits,Fruits - KD PDF,Plum,1,fruit,Little or N1,0
+Fruits,Whole Fruits,Plums,1,fruit,Little or N1,0
+Fruits,Fruits - Harvard,"Plums (prunes), Dried",1/4,cup,High,18
+Fruits,Fruits - Harvard,"Plums, Raw",1,,Very Low,0
+Fruits,Fruits - Ox-List,"Plums, Variety, Fresh",1,medium,Low,3
+Meats & Fish,Fish,Pollock,3,oz,Little or N1,0
+Meats & Fish,Fish - Harvard,"Pollock, Atlantic, Dry Heat Cooked",4,oz,Little or N1,0
+Fruits,Fruits - Ox-List,"Pomegranate, Seed and Juice Sacs",1/2,medium (4 in diameter),Very High,110
+Fruits,Fruits - Harvard,"Pomegranates, Raw",1/2,cup,Very Low,0
+Crackers and Chips,Snacks - KD PDF,Popcorn,1,cup,Low,5
+Crackers and Chips,Snacks - Harvard,"Popcorn, Air Popped",3,cups,Low,4
+Crackers and Chips,Crackers and Chips,"Popcorn, air-popped",1,cup,Low,4
+Crackers and Chips,Crackers and Chips,"Popcorn, oil-popped",1,cup,Moderate,5
+Crackers and Chips,Snacks - Harvard,"Popcorn, Ready to Eat & Microwave",3,cups,Low,5
+Snacks and Desserts,Desserts - KD PDF,Popsicle,1,each,Little or N1,0
+Snacks and Desserts,Snacks and Desserts,Popsicle,1,stick,Little or N1,0
+Breakfast Items,Breakfast Items,Poptart,1,tart,Moderate,7
+Meats & Fish,Meat & Meat Alternatives,Pork,5,oz,Little or N1,0
+Meats & Fish,Protein - KD PDF,Pork,3,oz,Little or N1,0
+Meats & Fish,Meat - Harvard,"Pork, Loin/chops, Broiled B1 In, Meat&fat",5,oz,Very Low,0
+Beverages,Beverages,Postum (coffee Substitute),1,serving,Very Low,2
+Crackers and Chips,Snacks - Harvard,"Potato Chip/tortilla Chip Combo , Regular, Reduced Fat, Baked",1,oz,High,12
+Crackers and Chips,Crackers and Chips,Potato Chips,1,oz,Very High,21
+Vegetables,Potatoes,Potato Chips,1,oz,Very High,21
+Crackers and Chips,Snacks - Harvard,"Potato Chips, Baked",1,oz,High,19
+Crackers and Chips,Snacks - Harvard,"Potato Chips, Light",1,oz,High,12
+Fast Food,Commercial - Ox-List,"Potato Flakes, Cooked, Bob's Red Mill",1/3,cup flakes,Very Low,2
+Vegetables,Potatoes,Potato Salad,1/3,cup,Very High,17
+Vegetables,Vegetables - Ox-List,Potato Salad,1/2,cup,High,26
+Vegetables,Vegetables - KD PDF,"Potato, Baked with Skin",1,each,Very High,97
+Vegetables,Vegetables - Harvard,"Potato, Baked, Unsalted, Flesh & Skin",1,,Very High,92
+Vegetables,Vegetables - Harvard,"Potato, Microwaved (skin&flesh) with No Salt Added",1,,Very High,68
+Vegetables,Vegetables - Ox-List,"Potato, New with Skin, Boiled 30 Min",1/2,cup,High,16
+Vegetables,Vegetables - Harvard,"Potato, Ready to Eat, Instant, & Home Mashed",1,cup,High,12
+Vegetables,Vegetables - Ox-List,"Potato, Red, New, Boiled W/out Skin",1/2,cup,Moderate,10
+Vegetables,Vegetables - Ox-List,"Potato, Russet, Baked or Microwaved, Flesh & Skin",1/2,"cup, chopped",High,29
+Vegetables,Vegetables - Harvard,"Potato, Sweet, Canned, Drained with Syrup",1/2,cup,High,14
+Vegetables,Vegetables - Harvard,"Potato, Sweet, Cooked, Baked in Skin, Flesh, Without Salt",1/2,cup,Very High,54
+Vegetables,Vegetables - Ox-List,"Potato, White, Deep Fried",1/2,cup,Very High,36
+Vegetables,Vegetables - Ox-List,"Potato, White, Instant, Mashed",1/2,cup,High,15
+Vegetables,Vegetables - Ox-List,"Potato, White/russet, Boiled, With/without Skin",1/2,cup,High,18
+Vegetables,Vegetables - Ox-List,"Potatoes, Fingerling, White or Red, Boiled",1/2,cup,Very High,32
+Vegetables,Vegetables - Ox-List,"Potatoes, Hash Browns",1/2,cup,High,20
+Beverages,Dairy Beverages,Powdered Milk,1,envelope,Low,3
+Dairy,Milk,Powdered Milk,1,envelope,Low,3
+Beverages,Beverages - Harvard,Powerade Zero,12,oz,Little or N1,0
+Crackers and Chips,Snacks - KD PDF,Pretzels,1,oz,Low,5
+Crackers and Chips,Crackers and Chips,"Pretzels, Hard & Salted",1,oz,Moderate,5
+Crackers and Chips,Snacks - Harvard,"Pretzels, Plain, Hard, Salted",1,.5 oz,Moderate,7
+Cereals,Kellogg's,Product 19,1,cup,Very Low,1
+Beverages,Beverages,Prune Juice,1,cup,Moderate,7
+Fruits,Fruits - Harvard,"Prunes, Canned in Heavy Syrup",1/2,cup,Very Low,1
+Fruits,Fruits - Ox-List,"Prunes, Pitted, Sunsweet",1/4,cup,Very High,30
+Fast Food,Commercial - Ox-List,"Pudding and Pie Filling, Instant, Jell-o, Any Flavor (regular or Reduced Calorie)",1/2,cup prepared,High,12
+Snacks and Desserts,Desserts - KD PDF,Pudding Popsicle,1,each,Low,5
+Snacks and Desserts,Snacks and Desserts,Pudding Popsicle,1,pop,Moderate,5
+Cereals,Kellogg's,Puffed Kashi,1,cup,Very High,13
 Cereals,Quaker,Puffed Rice,1,cup,Very Low,2
+Cereals,Cold Cereal - Harvard,Puffed Wheat,1,cup,Moderate,9
+Cereals,Quaker,Puffed Wheat,1 1/4,cup,Moderate,9
+Nuts and Seeds,Nuts and Seeds - Harvard,"Pumpkin & Squash Seeds, Whole Roasted, Unsalted",1/4,cup,Low,4
+Nuts and Seeds,Nuts and Seeds - Harvard,"Pumpkin and Squash Seed Kernels, Dried",1/4,cup,Moderate,8
+Nuts and Seeds,Nuts - KD PDF,Pumpkin Seeds,1/4,cup,Low,5
+Nuts and Seeds,Nuts and Seeds,Pumpkin Seeds,1,"cup, cooked",Very High,17
+Vegetables,Vegetables - Ox-List,"Pumpkin, Canned",1/2,cup,Moderate,7
+Vegetables,Vegetables - Harvard,"Pumpkin, Canned, with No Salt",1,cup,Moderate,9
+Vegetables,Vegetables - Ox-List,"Purslane, Leaves",1,cup,Very High,248
 Cereals,Quaker,Quaker Oat Cinnamon Life,3/4,cup,Low,3
 Cereals,Quaker,Quaker Oat Life,3/4,cup,Low,3
-Cereals,Quaker,Cap'n Crunch,3/4,cup,Little or None,0
-Cereals,Other Cereal Brands,"Bran Flakes with Raisins, Single Brand",1,cup,Very High,57
-Cereals,Other Cereal Brands,Nabisco Shredded Wheat,2,biscuits,Very High,42
-Cereals,Other Cereal Brands,Nabisco Honey Nut Shredded Wheat Bite Size,1,cup,Very High,47
+Breads & Grains,Pasta and Grains - Harvard,"Quinoa, Cooked",1,cup,Very High,54
+Vegetables,Vegetables - Ox-List,"Radicchio, Raw, Shredded",1/2,cup,Very Low,1
+Vegetables,Vegetables,Radish,10,count,Little or N1,0
+Vegetables,Vegetables - KD PDF,Radish,10,each,Little or N1,0
+Vegetables,Vegetables - Ox-List,"Radish, White, Red or Daikon, Raw",1,cup sliced,Very Low,1
+Vegetables,Vegetables - Harvard,"Radishes, Raw",2,radishes,Very Low,0
+Cereals,Kellogg's,Raisin Bran,1,cup,Very High,46
+Breads & Grains,Grains - KD PDF,Raisin Bran Cereal,3/4,cup,Very High,35
+Cereals,Kellogg's,Raisin Bran Crunch,1,cup,Very High,27
+Cereals,General Mills,Raisin Nut Bran,1,cup,Very High,24
+Cereals,Kellogg's,Raisin Squares Mini-Wheats,3/4,cup,Very High,41
+Fruits,Fruits - Harvard,Raisins,1,oz,Low,2
+Fruits,Whole Fruits,Raisins,1,oz or 1 small snack box,Low,3
+Fruits,Whole Fruits,Raspberries,1,cup,Very High,48
+Fruits,Fruits - Harvard,"Raspberries, Raw",1/2,cup,Low,2
+Fast Food,Commercial - Ox-List,"Ravioli, Beef, Overstuffed, Chef Boyardee",1,cup,Very High,31
+Fast Food,Commercial - Ox-List,"Ravioli, Beef, Regular, Chef Boyardee",1,cup,High,25
+Vegetables,Vegetables,Red Kidney Beans,1/2,cup,Very High,15
+Breakfast Items,Breakfast Items,Red River Cereal,1/4,cup,Very High,13
+Cereals,Cold Cereal - Harvard,Reese's Puffs,1,cup,High,11
+Cereals,General Mills,Reese's Puffs,3/4,cup,Moderate,8
+Vegetables,Vegetables,Refried Beans,1/2,cup,Very High,16
+Vegetables,Vegetables,Rhubarb,1/2,cup,Very High,541
+Fruits,Fruits - Ox-List,"Rhubarb, Raw",1,"cup, diced",Very High,1293
+Fruits,Fruits - Ox-List,"Rhubarb, Stewed or Canned",1/2,cup,Very High,799
+Breads & Grains,Grains - KD PDF,Rice Bran,1/2,cup,Very High,140
+Breads & Grains,"Pastas, Rice & Grains",Rice Bran,1,cup,Very High,281
+Snacks and Desserts,Snacks and Desserts,Rice Cake,1,cake,Low,4
+Breads & Grains,Grains - KD PDF,Rice Chex,3/4,cup,Very Low,2
+Cereals,Cold Cereal - Harvard,Rice Chex,1 1/3,cup,Low,4
+Cereals,General Mills,Rice Chex,1 1/4,cup,Low,4
+Beverages,Beverages,Rice Dream,1,cup,Very High,13
+Snacks and Desserts,Desserts - KD PDF,Rice Krispie Treat,1,bar,Very Low,1
+Breads & Grains,Grains - KD PDF,Rice Krispies,1,cup,Low,3
+Cereals,Cold Cereal - Harvard,Rice Krispies,1 1/2,cup,Low,3
+Cereals,Kellogg's,Rice Krispies,1 1/4,cup,Low,4
+Snacks and Desserts,Snacks and Desserts,Rice Krispy Treat,1,bar,Very Low,1
+Beverages,Beverages - KD PDF,Rice Milk,1,cup,High,13
+Snacks and Desserts,Snacks and Desserts,Rice Pudding,1/2,cup,Very Low,2
+Ingredients,Baking - KD PDF,"Rice, Brown, Cooked",1/2,cup cooked,High,12
+Breads & Grains,Pasta and Grains - Harvard,"Rice, Brown, Cooked Long Grain",1,cup,High,19
+Breads & Grains,Grains - Ox-List,"Rice, Brown, Variety, Boiled",1/2,cup,Low,5
+Breads & Grains,Grains - Ox-List,"Rice, Long Grain & Wild, Herb Roasted, Chicken Flavored, Uncle Ben's",1/2,cup cooked,High,21
+Breads & Grains,Grains - Ox-List,"Rice, Ready Cooked, Uncle Ben's, Variety",1/2,cup,Moderate,9
+Breads & Grains,Pasta and Grains - Harvard,"Rice, White, Cooked Long Grain",1,cup,Low,4
+Breads & Grains,Grains - Ox-List,"Rice, White, Variety, Boiled",1/2,cup,Very Low,1
+Breads & Grains,Grains - Ox-List,"Rice, Wild, Boiled",1/2,cup,Moderate,8
+Crackers and Chips,Crackers and Chips,Ritz Crackers,5,crackers,Low,3
+Breads & Grains,Breads and Bakery - Harvard,"Roll, Reduced Fat, Sweet",1,,High,14
+Vegetables,Vegetables,Romaine Lettuce,1,cup,Little or N1,0
+Vegetables,Vegetables - Ox-List,Roselle (red Sorrel - Hibiscus Sabdariffa),1,cup (edible parts),Very High,95
+Vegetables,Vegetables,Rutabaga,1/2,cup mashed,Very High,31
+Vegetables,Vegetables - KD PDF,Rutabaga,1/2,cup,Very High,31
+Vegetables,Vegetables - Ox-List,"Rutabaga, Boiled or Pressure Cooked",1/2,"cup, cubed",Low,4
+Breads & Grains,Breads,Rye Bread,1,slice,Moderate,7
+Fast Food,Commercial - Ox-List,"Salad Dressing, Any Flavor, Multiple Brands",2,tbsp,Very Low,1
+"Spreads, Sauces & Toppings",Salad Dressings - Harvard,"Salad Dressing, Creamy Ranch, Fat Free",1,.5 tbsp,Very Low,0
+"Spreads, Sauces & Toppings",Salad Dressings - Harvard,"Salad Dressing, Creamy Ranch, Lite",1,.5 tbsp,Very Low,0
+"Spreads, Sauces & Toppings",Salad Dressings - Harvard,"Salad Dressing, Creamy Ranch, Regular",1,.5 tbsp,Very Low,0
+"Spreads, Sauces & Toppings",Salad Dressings - Harvard,"Salad Dressing, Italian",1,.5 tbsp,Very Low,0
+"Spreads, Sauces & Toppings",Salad Dressings - Harvard,"Salad Dressing, Italian, Fat Free",1,.5 tbsp,Very Low,0
+"Spreads, Sauces & Toppings",Salad Dressings - Harvard,"Salad Dressing, Italian, Lite",1,.5 tbsp,Very Low,0
+"Spreads, Sauces & Toppings",Salad Dressings - Harvard,"Salad Dressing, Italian, Regular",1,.5 tbsp,Very Low,0
+"Spreads, Sauces & Toppings",Salad Dressings - Harvard,"Salad Dressing, Olive Oil and Vinegar",1,.5 tbsp,Very Low,0
+Meats & Fish,Fish,Salmon (all types),4,oz,Little or N1,0
+Meats & Fish,Fish - Harvard,"Salmon, Atlantic, Farmed, Dry Heat Cooked",4,oz,Very Low,0
+Meats & Fish,Fish - Harvard,"Salmon, Chum, Dry Heat Cooked",4,oz,Very Low,0
+Meats & Fish,Fish - Harvard,"Salmon, Pink, Canned with B1s and Liquid",4,oz,Very Low,0
+Meats & Fish,Fish - Harvard,"Salmon, Pink, Dry Heat Cooked",4,oz,Very Low,0
+Meats & Fish,Fish - Harvard,"Salmon, Sockeye, Canned, Drained, with B1s",4,oz,Very Low,2
+Meats & Fish,Fish - Harvard,"Salmon, Sockeye, Dry Heat Cooked",4,oz,Very Low,0
+"Spreads, Sauces & Toppings",Condiments - KD PDF,Salsa,1,tablespoon,Very Low,1
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Salsa,1,Tbs,Very Low,1
+Vegetables,Vegetables - Harvard,Salsa,1/4,cup,Low,3
+Ingredients,Ingredients,Salt,1,tsp,Little or N1,0
+Ingredients,Spices - Ox-List,"Salt, Artesian, Oz Tukka",1,tsp,Little or N1,0
+Ingredients,Spices - Ox-List,"Salt, Celtic, Light Grey, Selina Naturally",1,tsp,Little or N1,0
+Ingredients,Spices - Ox-List,"Salt, Iodized, Hain",1,tsp,Little or N1,0
+Crackers and Chips,Crackers and Chips,Saltines,1,cracker,Very Low,1
+Crackers and Chips,Snacks - KD PDF,Saltines,5,crackers,Low,5
+Meats & Fish,Fish,Sardines,1,can or 3.75oz,Little or N1,0
+Meats & Fish,Fish - Harvard,"Sardines, Atlantic, Oil Canned, Drained, with B1",4,oz,Very Low,0
+Meats & Fish,Fish - Harvard,"Sardines, Pacific, Tomato Sauce Canned, Drained, with B1",4,oz,Very Low,0
+"Spreads, Sauces & Toppings",Condiments - Harvard,"Sauce, Barbecue",2,tbsp,Low,2
+Fast Food,Commercial - Ox-List,"Sauce, Pasta, Spicy Tomato and Basil, Classico",1/2,cup,Moderate,9
+Fast Food,Commercial - Ox-List,"Sauce, Pasta/marinara, Ready to Serve",2,tbsp,Low,3
+Fast Food,Commercial - Ox-List,"Sauce, Sloppy Joe, Manwich, Original",1/4,cup,Moderate,7
+"Spreads, Sauces & Toppings",Condiments - Harvard,"Sauce, Soy",1,tbsp,Low,3
+Vegetables,Vegetables,Sauerkraut,1/2,cup,Very Low,1
+Meats & Fish,Meat - Harvard,"Sausage, Cooked Pork & Beef",2,ounces,Very Low,2
+Vegetables,Vegetables,Scallions,1/2,cup,Very Low,1
+Vegetables,Vegetables,Sea Vegetables,1,cup,Low,3
+Vegetables,Vegetables - Harvard,Seaweed,1/2,cup,Very Low,1
+Vegetables,Vegetables - Ox-List,"Seaweed, Dulse Flakes",1,Tbsp,High,14
+Vegetables,Vegetables - Ox-List,"Seaweed, Kombu",1, 1x4 inch piece,Little or N1,0
+Vegetables,Vegetables - Ox-List,"Seaweed, Nori, Dry Roasted",1/2,cup,Moderate,10
+Vegetables,Vegetables - Ox-List,"Seaweed, Wakame",1/2,cup,Little or N1,0
+Ingredients,Spices - Ox-List,"Seeds, Caraway, Mccormick",1,tsp,High,18
+Meats & Fish,Protein - Ox-List,"Seeds, Chia, Bob's Red Mill",1,Tbsp,Very High,61
+Meats & Fish,Protein - Ox-List,"Seeds, Flax (linseed)",2,Tbsp,Very Low,2
+Meats & Fish,Protein - Ox-List,"Seeds, Hemp Hearts",2,Tbsp,High,11
+Ingredients,Spices - Ox-List,"Seeds, Mustard, Mccormick",1,tsp,Very Low,1
+Meats & Fish,Protein - Ox-List,"Seeds, Papaya",2,Tbsp,Very High,31
+Ingredients,Spices - Ox-List,"Seeds, Poppy, Mccormick",1,tsp,Very High,45
+Meats & Fish,Protein - Ox-List,"Seeds, Pumpkin Seed Butter",2,Tbsp,Very Low,2
+Meats & Fish,Protein - Ox-List,"Seeds, Pumpkin, Raw or Roasted",2,Tbsp,Very Low,2
+Meats & Fish,Protein - Ox-List,"Seeds, Saviseed (sacha Inchi Seeds)",1/4,cup,Very High,72
+Ingredients,Spices - Ox-List,"Seeds, Sesame, Toasted",1,tsp,Moderate,6
+Ingredients,Spices - Ox-List,"Seeds, Sesame, Whole Dried",1,tsp,Very High,114
+Ingredients,Spices - Ox-List,"Seeds, Sesame, Whole Dried, Hulled",1,tsp,Low,4
+Meats & Fish,Protein - Ox-List,"Seeds, Sunflower Seed Spread/butter",2,Tbsp,Moderate,6
+Meats & Fish,Protein - Ox-List,"Seeds, Sunflower, Raw or Roasted",1/4,cup,Moderate,9
+Meats & Fish,Protein - Ox-List,"Seeds, Wattle, Roasted, Ground",2,Tbsp,High,21
+Nuts and Seeds,Nuts and Seeds - Harvard,"Sesame Butter, Tahini, From Roasted & Toasted Kernals",1,tbsp,High,16
+Vegetables,Vegetables - Ox-List,Shallots,1/2,"cup, chopped",Very Low,1
+Snacks and Desserts,Snacks and Desserts,Sherbert,1/2,cup,Little or N1,0
+Dairy,Dairy - Harvard,"Sherbert, Orange",1,cup,Little or N1,0
+Snacks and Desserts,Desserts - KD PDF,Sherbet,1/2,cup,Little or N1,0
+Ingredients,Ingredients,Shortening,1,tsp,Little or N1,0
+Dairy,Dairy - Ox-List,"Shortening, All Vegatable",1,tbsp,Little or N1,0
+Cereals,Cold Cereal - Harvard,Shredded Wheat,1 1/3,cup,Very High,42
+Breads & Grains,Grains - KD PDF,Shredded Wheat Cereal,1,cup,High,28
+Meats & Fish,Fish,Shrimp,3,oz,Little or N1,0
+Meats & Fish,Fish - Harvard,"Shrimp, Moist Heat Cooked",3,oz,Very Low,0
+Beverages,Beverages - Harvard,Slim Fast,11,oz,Very High,37
+Cereals,Kellogg's,Smacks,3/4,cup,Low,3
+Cereals,Cold Cereal - Harvard,Smart Start,1 1/4,cup,High,15
+Cereals,Kellogg's,Smart Start,1,cup,Very High,15
+Breads & Grains,Breads and Bakery - Harvard,"Snack Bar, Mix of Granola, Nutrigrain, & Other",1,,Moderate,6
+Snacks and Desserts,Desserts - KD PDF,Snack Cake,1,cake,Low,3
+Snacks and Desserts,Snacks and Desserts,Snack Cakes- creme filled,1,cake,Low,3
+Breads & Grains,Breads and Bakery - Harvard,"Snack Cakes, Crème-filled, Sponge",1,,Low,4
+Beverages,Beverages - KD PDF,Soda,1,cup,Little or N1,0
+Beverages,Beverages - Ox-List,"Soda, Variety, with /without Sugar",12,oz,Very Low,1
+Beverages,Beverages,Sodas (all types),8,oz,Little or N1,0
+Vegetables,Vegetables - Ox-List,"Sorrel, Boiled 15 Min",1/2,"cup, chopped",Very High,303
+Vegetables,Vegetables - Ox-List,"Sorrel, Raw",1,"cup, chopped",Very High,405
+Fast Food,Commercial - Ox-List,"Soup, 15 Bean Soup",1,cup,Very High,40
+Fast Food,Commercial - Ox-List,"Soup, Chili with Beans",1,cup,Very High,51
+Fast Food,Commercial - Ox-List,"Soup, Chili, No Beans",1,cup,Very High,43
+Soups,Soups - Harvard,"Soup, Cream of Mushroom, Canned, 2% Milk Added",1,cup,Very Low,2
+Soups,Soups - Harvard,"Soup, Lentil",1/2,cup,High,17
+Soups,Soups - Harvard,"Soup, Miso",1,cup,Very High,58
+Fast Food,Commercial - Ox-List,"Soup, Spicy Black Bean and Kale",1,cup,High,29
+Fast Food,Commercial - Ox-List,"Soup, Sweet Potato",1,cup,Very High,40
+Soups,Soups - Harvard,"Soup, Tomato, Canned, Prepared with 1/2 Water & 1/2 Milk",1,cup,Moderate,9
+Fast Food,Commercial - Ox-List,"Soup, Vegetable Quinoa",1,cup,Very High,31
+Dairy,Cream Products,Sour Cream,1,Tbs,Little or N1,0
+"Spreads, Sauces & Toppings",Condiments - KD PDF,Sour Cream,1,tablespoon,Little or N1,0
+Meats & Fish,Meat & Meat Alternatives,Soy Burger,3.5,oz,High,12
+Fast Food,Commercial - Ox-List,Soy Cheese,1,oz,High,16
+Breads & Grains,"Pastas, Rice & Grains",Soy Flour,1,cup,Very High,94
+Ingredients,Baking - KD PDF,Soy Flour,1/2,cup,Very High,47
+Ingredients,Ingredients,Soy Flour,1,cup,Very High,94
+Beverages,Dairy Beverages,Soy Milk,1,cup,Low,4
+Ingredients,Ingredients,Soy Protein Isolate,1,oz,Very High,27
+"Spreads, Sauces & Toppings",Condiments - KD PDF,Soy Sauce,1,tablespoon,Low,3
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Soy Sauce,1,Tbs,Low,3
+Vegetables,Vegetables,Soybeans,1,cup,Moderate,7
+Vegetables,Vegetables - KD PDF,Soybeans,1/2,cup,Very High,48
+Vegetables,Vegetables - Harvard,"Soybeans, Green, Boiled, Drained, Unsalted",1/2,cup,Very High,48
+Beverages,Beverages - KD PDF,Soymilk,1,cup,High,20
+Beverages,Plant-Based Milk - Harvard,"Soymilk, Fortified",8,oz,Moderate,10
+Breads & Grains,Grains - KD PDF,Spaghetti,1/2,cup,Moderate,6
+Breads & Grains,"Pastas, Rice & Grains",Spaghetti,1,cup cooked,High,11
+Breads & Grains,Pasta and Grains - Harvard,"Spaghetti, Cooked",1,cup,High,16
+Breads & Grains,Pasta and Grains - Harvard,"Spaghetti, Cooked Whole Wheat",1,cup,Very High,46
+Breads & Grains,Grains - KD PDF,Special K,3/4,cup,Very Low,2
+Cereals,Cold Cereal - Harvard,Special K,1 1/4,cup,Moderate,7
+Cereals,Kellogg's,Special K,1,cup,Low,3
+Cereals,Kellogg's,Special K Red Berries,1,cup,Very Low,2
+Vegetables,Vegetables - Harvard,"Spinach, Boiled, Drained, Unsalted",1/2,cup,Very High,547
+Vegetables,Vegetables,"Spinach, cooked",1/2,cup,Very High,755
+Vegetables,Vegetables - KD PDF,"Spinach, Cooked",1/2,cup cooked,Very High,755
+Vegetables,Vegetables - Ox-List,"Spinach, Fresh or Frozen, Boiled or Steamed",1/2,cup,Very High,493
+Vegetables,Vegetables,"Spinach, raw",1,cup,Very High,656
+Vegetables,Vegetables - KD PDF,"Spinach, Raw",1,cup raw,Very High,656
 Cereals,Other Cereal Brands,Spoonsize Shredded Wheat,1,cup,Very High,45
+Vegetables,Vegetables - Ox-List,"Spouts, Mung Bean",1/2,cup,Low,4
+Vegetables,Vegetables - Ox-List,"Sprouts, Alfalfa",1/2,cup,Very Low,1
+Meats & Fish,Protein - Ox-List,"Sprouts, Pumpkin, Raw",1/4,cup,Little or N1,0
+Meats & Fish,Protein - Ox-List,"Sprouts, Watermelon, Raw",1/4,cup,Very Low,1
+Vegetables,Vegetables - Harvard,"Squash, Summer, Boiled, Drained, Unsalted",1/2,cup,Very Low,1
+Vegetables,Vegetables - Ox-List,"Squash, Winter & Summer Variety , Baked or Boiled",1/2,cup,Low,4
+Vegetables,Vegetables - Ox-List,"Squash, Winter & Summer, Raw",1,"cup, sliced",Moderate,6
+Fruits,Fruits - Ox-List,"Star Fruit or Carambola, Raw",1,medium fruit,Very High,269
+Fast Food,Commercial - Ox-List,"Starbucks, Coffee Cake, Classic",1,slice,High,13
+Fast Food,Commercial - Ox-List,"Starbucks, Latte, Dark Chocolate Mocha, Skim Milk",1,cup,Very High,45
+Fast Food,Commercial - Ox-List,"Starbucks, Latte, White Chocolate Mocha, Skim Milk",1,cup,Moderate,10
+Snacks and Desserts,Sweets - Ox-List,Stevia Powder,1,pkt,Little or N1,0
+Fruits,Fruits - KD PDF,Strawberries,1,cup,Low,4
+Fruits,Whole Fruits,Strawberries,1/2,cup,Very Low,2
+Fruits,Fruits - Harvard,"Strawberries, Raw",1/2,cup,Very Low,1
+Vegetables,Vegetables,String Beans,1/2,cup,Moderate,9
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Stuffing,1,cup,Very High,36
+Fast Food,Commercial - Ox-List,"Stuffing, Stovetop Stuffing Mix, Chicken, Prepared as Directed, Kraft",1/2,cup,Moderate,10
+Ingredients,Baking - KD PDF,Sugar,1/2,cup,Little or N1,0
+Ingredients,Ingredients,Sugar,1,tsp,Little or N1,0
+Snacks and Desserts,Sweets - Ox-List,"Sugar, Brown",1,tsp,Very Low,1
+Snacks and Desserts,Sweets - Ox-List,"Sugar, Cane, White",1,tsp,Little or N1,0
+Ingredients,Sugars - Harvard,"Sugar, Granulated",1,tsp,Little or N1,0
+Nuts and Seeds,Nuts and Seeds - Harvard,"Sunflower Seed Kernals, Oil Roasted, Without Salt",1/4,cup,Moderate,8
+Nuts and Seeds,Nuts and Seeds - Harvard,"Sunflower Seed, Dried, Kernels",1/4,cup,Low,3
+Nuts and Seeds,Nuts - KD PDF,Sunflower Seeds,1/4,cup,Low,3
+Nuts and Seeds,Nuts and Seeds,Sunflower Seeds,1,cup,High,12
+Vegetables,Vegetables - Ox-List,"Sweet Potato, Orange, Baked or Boiled with or Without Skin",1/2,cup,Very High,158
+Vegetables,Vegetables - Ox-List,"Sweet Potato, Orange, Baked, Boiled, or Canned Without Skin",1/2,cup mashed,Very High,56
+Vegetables,Potatoes,Sweet Potatoes,1,cup,Very High,28
+Vegetables,Vegetables - KD PDF,Sweet Potatoes,1/2,cup,High,14
+Breakfast Items,Breakfast Items,Sweet Rolls Low Fat,1,pastry,Very High,13
+Ingredients,Ingredients,Sweet Whey Dried,1,tbs,Little or N1,0
+Ingredients,Ingredients,Sweet Whey Fluid,1,cup,Very Low,1
+Beverages,Beverages,Sweetened Instant Iced Tea,1,cup,Little or N1,0
+Vegetables,Vegetables - Ox-List,"Swiss Chard, Green, Boiled",1/2,cup chopped,Very High,293
+Vegetables,Vegetables - Ox-List,"Swiss Chard, Green, Raw",1,cup,Very High,237
+Vegetables,Vegetables - Ox-List,"Swiss Chard, Red or Green, Boiled and Steamed",1/2,"cup, chopped",Very High,594
+Vegetables,Vegetables - Ox-List,"Swiss Chard, Red, Raw",1,cup,Very High,420
+Meats & Fish,Fish,Swordfish,1,piece,Little or N1,0
+Meats & Fish,Fish - Harvard,"Swordfish, Dry Heat Cooked",4,oz,Very Low,0
+"Spreads, Sauces & Toppings",Condiments - KD PDF,Syrup,1,tablespoon,Little or N1,0
+Snacks and Desserts,Sweets - Ox-List,"Syrup, Barley Malt",1,tbsp,Low,4
+Snacks and Desserts,Sweets - Ox-List,"Syrup, Brown Rice",2,tbsp,Low,4
+Snacks and Desserts,Sweets - Ox-List,"Syrup, Eldeberry",1,tbsp,Very Low,1
+Ingredients,Sugars - Harvard,"Syrup, Pancake",1,tbsp,Very Low,0
+Fast Food,Fast Food,Tacos,1,small taco,High,12
+"Spreads, Sauces & Toppings",Condiments - KD PDF,Tahini,1,tablespoon,High,16
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Tahini,1,Tbs,Very High,16
+Fruits,Fruits - Ox-List,Tamarillo (tree Tomato) Raw,1,medium fruit,High,20
+Fruits,Fruits - Ox-List,"Tangelo, Raw, Medium",1,medium fruit,Very High,79
+Fruits,Whole Fruits,Tangerine,1,fruit,High,10
+Fruits,Fruits - Harvard,"Tangerines, Raw",1,,High,16
+Snacks and Desserts,Snacks and Desserts,Tapioca Pudding,1/2,cup,Little or N1,0
+Vegetables,Vegetables - Ox-List,"Taro Leaves, Giant and Elephant Ears, Raw",1,cup,Very High,183
+Dairy,Dairy - Ox-List,"Tea, Black, Multiple Brands, Flavored and Unflavored, With/without Caffeine",1,cup,High,27
+Beverages,Beverages,"Tea, Brewed",1,cup,Very High,14
+Beverages,Beverages - Harvard,"Tea, Brewed",8,oz,Moderate,6
+Beverages,Beverages - Harvard,"Tea, Diet Iced Ready to Drink",12,oz,Moderate,10
+Beverages,Beverages - Ox-List,"Tea, Green, Multiple Brands, Flavored and Unflavored",1,cup,High,21
+Beverages,Beverages - Ox-List,"Tea, Herbal, Mate",1,cup,High,14
+Beverages,Beverages - Ox-List,"Tea, Herbal, Variety Flavors",1,cup,Low,5
+Beverages,Beverages - Ox-List,"Tea, Iced, Multiple Brands, (brewed 10 Min)",1,cup,High,17
+Beverages,Beverages - Harvard,"Tea, Instant Lemon Flavored, Sugar Sweetened, Powder",4,.5 tsp dry,Very Low,0
+Beverages,Beverages - Harvard,"Tea, Unsweetened Green",1,cup,Moderate,6
+Cereals,General Mills,Team Cheerios,1,cup,Moderate,6
+Fast Food,Commercial - Ox-List,"Tempeh, Organic, Lightlife",1/2,cup,Very High,50
+Meats & Fish,Fish - Harvard,"Tilapia, Dry Heat Cooked",4,oz,Little or N1,0
+Meats & Fish,Fish - Harvard,"Tilapia, Farmed, Cooked",4,oz,Little or N1,0
+Cereals,Quaker,Toasted Oatmeal,1,oz,Moderate,6
+Meats & Fish,Meat & Meat Alternatives,Tofu,3.5,oz,Very High,13
+Vegetables,Beans and Lentils - Harvard,"Tofu, Soft",3,.5 oz,High,11
+Vegetables,Vegetables - Ox-List,"Tomatillo, Raw",1,medium tomatillo,Moderate,7
+Vegetables,Vegetables,Tomato,1,med whole,Moderate,7
+Vegetables,Vegetables - KD PDF,Tomato,1,each,Moderate,7
+Beverages,Beverages,Tomato Juice,1,cup,Very High,14
+Ingredients,Spices - Ox-List,"Tomato Paste, Hunt's",1,tbsp,Low,3
+Vegetables,Vegetables - Harvard,"Tomato Products, Canned, Paste, Without Salt Added",1/4,cup,High,24
+Vegetables,Vegetables,Tomato Sauce,1/2,cup,Very High,17
+Vegetables,Vegetables - Ox-List,"Tomato, Variety, All Colors, Raw",1,"cup, sliced",High,17
+Vegetables,Vegetables - Ox-List,"Tomatoes, Canned",1/2,cup,High,11
+Vegetables,Vegetables - Harvard,"Tomatoes, Ripe, Red",2,slices,Low,3
+Crackers and Chips,Snacks - KD PDF,Tortilla Chips,1,oz,Moderate,7
+Crackers and Chips,Crackers and Chips,Tortilla Corn Chips,1,oz,Moderate,7
+Breads & Grains,Breads,"Tortillas, Corn",1,tortilla,Moderate,7
+Breads & Grains,Breads and Bakery - Harvard,"Tortillas, Corn",2,tortillas,Moderate,10
+Breads & Grains,Grains - KD PDF,"Tortillas, Corn and Flour",1,each,Moderate,7
+Breads & Grains,Breads,"Tortillas, flour",1,tortilla,Moderate,8
+Breads & Grains,Breads and Bakery - Harvard,"Tortillas, Flour",2,tortillas,Moderate,9
+Cereals,General Mills,Total Corn Flakes,1 1/3,cup,Moderate,5
+Cereals,General Mills,Total Raisin Bran,1,cup,Very High,31
+Cereals,Cold Cereal - Harvard,Total Whole Grain,1,cup,High,10
+Nuts and Seeds,Nuts and Seeds,Trail Mix,1,oz,Very High,15
+Crackers and Chips,Crackers and Chips,Triscuits,1,cracker,Very Low,1
+Crackers and Chips,Snacks - KD PDF,Triscuits,5,crackers,Low,5
+Cereals,General Mills,Trix,1,cup,Little or N1,0
+Meats & Fish,Fish,Tuna Fish (in oil),3.5,oz,Little or N1,0
+Meats & Fish,Fish,Tuna Fish (in water),3.5,oz,Little or N1,0
+Meats & Fish,Fish - Harvard,Tuna Light in Oil,3,.5 oz,Low,3
+Meats & Fish,Fish,Tuna Salad,1,cup,Moderate,6
+Meats & Fish,Fish - Harvard,"Tuna, Light Canned in Water, Drained",3,.5 oz,Very Low,2
+Meats & Fish,Fish - Harvard,"Tuna, White, Oil Canned, Drained",3,.5 oz,Very Low,0
+Meats & Fish,Fish - Harvard,"Tuna, White, Water Canned, Drained",3,.5 oz,Very Low,0
+Meats & Fish,Fish - Harvard,"Tuna, Yellowfin, Dry Heat Cooked",4,oz,Very Low,1
+Meats & Fish,Meat & Meat Alternatives,Turkey,5,oz,Little or N1,0
+Meats & Fish,Protein - KD PDF,Turkey,3,oz,Little or N1,0
+Meats & Fish,Poultry - Harvard,"Turkey Breast Meat & Skin, Roasted",3,oz,Very Low,0
+Meats & Fish,Meat & Meat Alternatives,Turkey Dogs,1,dog,Low,3
+Meats & Fish,Poultry - Harvard,Turkey Hot Dog,1,,Low,2
+Meats & Fish,Poultry - Harvard,"Turkey Meat, Roasted",3,oz,Little or N1,0
+Meats & Fish,Poultry - Harvard,"Turkey Sausage, Cooked",1,,Low,4
+Meats & Fish,Poultry - Harvard,"Turkey, Cooked Ground",3,oz,Little or N1,0
+Meats & Fish,Poultry - Harvard,"Turkey, Whole, Breast, Meat Only, Cooked, Roasted",3,oz,Little or N1,0
+Vegetables,Vegetables,Turnip,1/2,cup mashed,Very High,30
+Vegetables,Vegetables - KD PDF,Turnip,1/2,cup,Very High,30
+Vegetables,Vegetables - Ox-List,"Turnip Greens, Steamed",1/2,"cup, chopped",Moderate,6
+Vegetables,Vegetables - Ox-List,"Turnip, Boiled, Steamed or Raw",1/2,cup,Very Low,2
+Cereals,Cold Cereal - Harvard,Uncle Sam,3/4,cup,Very High,42
 Cereals,Other Cereal Brands,Uncle Sam,1,cup,High,11
-Cereals,Other Cereal Brands,Just Right with Crunchy Nuggets,1,cup,Moderate,5
+Beverages,Beverages,V8 Juice,1,cup,Very High,18
+Snacks and Desserts,Desserts - KD PDF,Vanilla Pudding,1/2,cup,Little or N1,0
+Snacks and Desserts,Snacks and Desserts,Vanilla Pudding,1,cup,Very Low,1
+Soups,Soups,Vegetable Beef Soup,1,cup,Moderate,5
+Meats & Fish,Meat & Meat Alternatives,Veggie Burger,1,pattie,Very High,24
+Meats & Fish,Protein - KD PDF,Veggie Burger,1,each,High,24
+Meats & Fish,Meat & Meat Alternatives,Venison,3,oz,Little or N1,0
+Vegetables,Vegetables - Ox-List,Vipergrass or Salsify,1,cup,High,12
+Beverages,Beverages - Harvard,"Vitamin Water, Sugar-free",8,oz,Little or N1,0
+Beverages,Beverages - Harvard,"Vitamin Water, Sugared with Added Nutrients",8,oz,Little or N1,0
+Cereals,Post,Wafflecrisp,1,cup,Very Low,1
+Nuts and Seeds,Nuts - KD PDF,Walnuts,1/4,cup,Moderate,8
+Nuts and Seeds,Nuts and Seeds,Walnuts,1,cup or 7 nuts,Very High,31
+Nuts and Seeds,Nuts and Seeds - Harvard,Walnuts,1,oz,High,12
+Beverages,Beverages,Water,8,oz,Little or N1,0
+Vegetables,Vegetables - KD PDF,Water Chestnuts,4,each,Little or N1,0
+Vegetables,Vegetables - Ox-List,"Water Chestnuts, Canned, Sliced, Dynasty",1/2,cup,Very Low,1
+Beverages,Beverages - Harvard,"Water, Tap",8,oz,Little or N1,0
+Vegetables,Vegetables,Waterchestnuts,4,waterchestnuts,Little or N1,0
+Vegetables,Vegetables - Harvard,"Waterchestnuts, Chinese ,canned, Solids & Liquids",1/8,cup,Very Low,0
+Vegetables,Vegetables - Ox-List,"Watercress, Raw",1,cup,Low,4
+Fruits,Whole Fruits,Watermelon,1,slice,Very Low,1
+Cereals,Cold Cereal - Harvard,Weetabix,3,biscuits,High,25
+Fast Food,Commercial - Ox-List,"Wendy's, Caesar Salad, Side Order, with or Without Croutons",1,side salad,Low,3
+Fast Food,Commercial - Ox-List,"Wendy's, Chili",1,small chili,High,25
+Fast Food,Commercial - Ox-List,"Wendy's, Hamburger, Junior, Plain",1,burger,Moderate,7
+Breads & Grains,Grains - KD PDF,Wheat Berries,1/2,cup,Very High,49
+Breads & Grains,"Pastas, Rice & Grains",Wheat Berries,1,cup cooked,Very High,98
+Breads & Grains,Pasta and Grains - Harvard,"Wheat Berries, Cooked",1,cup,Very High,98
+Breads & Grains,Breads,Wheat Bran Bread,1,slice,Moderate,7
+Breads & Grains,Pasta and Grains - Harvard,"Wheat Bran, Crude",1,tbsp,Moderate,8
+Breads & Grains,Grains - KD PDF,Wheat Bread,1,slice,Low,5
+Cereals,General Mills,Wheat Chex,1,cup,Moderate,7
+Crackers and Chips,Crackers and Chips,Wheat Crackers,1,cracker,Very Low,1
+Crackers and Chips,Snacks - KD PDF,Wheat Crackers,5,crackers,Low,5
+Breads & Grains,"Pastas, Rice & Grains","Wheat Flour, Whole Grain",1,cup,Very High,29
+Ingredients,Ingredients,"Wheat Flour, Whole Grain",1,cup,Very High,29
+Cereals,Cold Cereal - Harvard,Wheat Germ Toasted Plain,1,tbsp,Very Low,1
+Crackers and Chips,Crackers and Chips,"Wheat Thins, Reduced Fat",1,cracker,Very Low,1
+Cereals,General Mills,Wheaties,1,cup,Moderate,8
+Cereals,General Mills,Wheaties Raisin Bran,1,cup,High,11
 Cereals,Other Cereal Brands,Wheetabix Whole Wheat,2,biscuits,Moderate,8
-Cereals,Other Cereal Brands,Healthy Valley Oat Bran Flakes,1,cup,Little or None,0
+Beverages,Plant-Based Milk - Harvard,Whey Powder High Protein Drink,1,scoop,Very Low,2
+"Spreads, Sauces & Toppings",Condiments - KD PDF,Whipped Cream,2,tablespoons,Little or N1,0
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Whipped Cream,2,Tbs,Little or N1,0
+Dairy,Dairy - Harvard,Whipped Topping,2,tbsp,Little or N1,0
+"Spreads, Sauces & Toppings","Spreads, Sauces & Toppings",Whipped Topping,2,Tbs,Little or N1,0
+Beverages,Beverages - Harvard,"White & Dark Spirits, Hard Seltzer & Mixed Cocktail",1,shot or 1 1/2 oz,Little or N1,0
+Breads & Grains,Breads,White Bread,1,slice,Moderate,5
+Breads & Grains,"Pastas, Rice & Grains",White Rice Flour,1,cup,High,11
+Ingredients,Ingredients,White Rice Flour,1,cup,High,11
+Breads & Grains,Grains - KD PDF,"White Rice, Cooked",1/2,cup,Very Low,2
+Breads & Grains,"Pastas, Rice & Grains","White Rice, cooked",1,cup,Low,4
+Meats & Fish,Fish,Whiting,3,oz,Little or N1,0
+Cereals,General Mills,Whole Grain Total,3/4,cup,Moderate,8
+Beverages,Dairy Beverages,Whole Milk,1,cup,Very Low,1
+Dairy,Milk,Whole Milk,1,cup,Very Low,1
+Breads & Grains,Breads,Whole Oat Bread,1,slice,Moderate,5
+Breads & Grains,Breads,Whole Wheat Bread,1,slice,Moderate,6
+Meats & Fish,Meat & Meat Alternatives,Wild Game Meat,3,oz,Very Low,1
+Beverages,Beverages - KD PDF,Wine,4,oz,Very Low,1
+Beverages,Beverages - Harvard,"Wine, Red",5,oz,Very Low,1
+Beverages,Beverages - Harvard,"Wine, White",5,oz,Very Low,0
+Snacks and Desserts,Sweets - Ox-List,Xylitol,1,tsp,Little or N1,0
+Vegetables,Vegetables - Ox-List,"Yam, Flesh Only, Baked",1/2,cup,Very High,68
+Vegetables,Vegetables,Yams,1/2,"cup, cubed",Very High,40
+Vegetables,Vegetables - KD PDF,Yams,1/2,cup,Very High,40
+Ingredients,Spices - Ox-List,"Yeast, Active Dry",1,tbsp,Moderate,7
+Vegetables,Vegetables,Yellow Squash,1/2,cup,Very Low,1
+Dairy,Yogurt Products,Yogurt with Fruit,8,oz,Very Low,1
+Dairy,Dairy - KD PDF,"Yogurt, Frozen",1/2,cup,Very Low,1
+Dairy,Dairy - Harvard,"Yogurt, Frozen, Low Fat",1,cup,Very Low,1
+Dairy,Dairy - Harvard,"Yogurt, Greek, Chobani",5,.3 oz,Very Low,1
+Dairy,Dairy - Harvard,"Yogurt, Greek, Frozen",1,bar,Very Low,0
+Dairy,Dairy - Harvard,"Yogurt, Greek, Fruit, Whole Milk",6,oz,Very Low,1
+Dairy,Dairy - Harvard,"Yogurt, Greek, Light",5,.3 oz,Very Low,1
+Dairy,Dairy - Harvard,"Yogurt, Greek, Plain, Nonfat/lowfat",5,.3 oz,Very Low,1
+Dairy,Dairy - Harvard,"Yogurt, Greek, Plain, Whole Milk",6,oz,Very Low,1
+Dairy,Dairy - Harvard,"Yogurt, Lowfat Fruited",6,oz,Very Low,1
+Dairy,Dairy - Harvard,"Yogurt, Nonfat Light Fruit (artificial Sweetener)",6,oz,Very Low,1
+Dairy,Dairy - Harvard,"Yogurt, Nonfat with Fruit",6,oz,Very Low,1
+Dairy,Dairy - KD PDF,"Yogurt, Plain",1,cup,Very Low,2
+Dairy,Dairy - Harvard,"Yogurt, Plain, Lowfat",6,oz,Very Low,1
+Dairy,Dairy - Harvard,"Yogurt, Plain, Whole Milk",6,oz,Very Low,0
+Meats & Fish,Protein - Ox-List,"Yogurt, Plant-based, Almond, All Flavors, Multi-brand",6,oz,Very High,66
+Meats & Fish,Protein - Ox-List,"Yogurt, Plant-based, Cashew, Strawberry",6,oz,Very High,36
+Dairy,Dairy - Ox-List,"Yogurt, Plant-based, Coconut, Mixed Berries, Siggi's",6,oz,Low,3
+Dairy,Dairy - Ox-List,"Yogurt, Plant-based, Coconut, So Delicous",6,oz,Very Low,1
+Dairy,Dairy - Ox-List,"Yogurt, Plant-based, Coconut, Strawberry",6,oz,Very Low,1
+Dairy,Dairy - Ox-List,"Yogurt, Plant-based, Coconut, Variety Flavors, Multi-brands",6,oz,Very Low,2
+Dairy,Dairy - Ox-List,"Yogurt, Plant-based, Oat, Strawberry, Oatly",6,oz,Low,3
+Dairy,Dairy - Ox-List,"Yogurt, Plant-based, Soy, Vanilla or Strawberry",6,oz,Low,5
+Dairy,Dairy - Harvard,"Yogurt, Whole, Fruit",6,oz,Very Low,1
+Vegetables,Vegetables,Zucchini,1/2,cup,Very Low,1
